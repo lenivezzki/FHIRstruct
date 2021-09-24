@@ -1,0 +1,1310 @@
+ID	parent	snomed_name	snomed_code	snomed_partial_code	is_direct
+аб	Medication	Antibiotic (product) 	255631004	255631004	0
+аб терапия	Medication	Antibiotic (product) 	255631004	255631004	0
+абактал	Medication	Pefloxacin (substance)	96089009	96089009	0
+абиотик	Medication	Antibiotic (product) 	255631004	255631004	0
+агент, регулирующий гонадный гормон	Medication	Allergy to gonad regulating hormone agent (finding)	294814005	0	1
+агонист альфа-адренорецепторов	Medication	Allergy to alpha adrenergic receptor agonist (finding)	294024003	0	1
+агонист бета-2-адренорецепторов	Medication	Allergy to beta-2 adrenergic receptor agonist (finding)	294033001	0	1
+аденозин	Medication	Allergy to adenosine (finding)	294975003	0	1
+адреналин	Medication	Epinephrine (substance)	387362001	387362001	0
+азатиоприн	Medication	Allergy to azathioprine (finding)	293799001	0	1
+азеластин	Medication	Allergy to azelastine (finding)	294115009	0	1
+азитромицин	Medication	Allergy to azithromycin (finding)	294472005	0	1
+азлоциллин	Medication	Allergy to azlocillin (finding)	294516001	0	1
+азтреонамом	Medication	Allergy to aztreonam (finding)	294565006	0	1
+акарбоза	Medication	Allergy to acarbose (finding)	294742003	0	1
+аккузид	Medication	Non-allergic hypersensitivity to quinapril (finding)	609544007	0	1
+акларубицин	Medication	Allergy to aclarubicin (finding)	293764000	0	1
+активированный уголь	Medication	Allergy to activated charcoal (finding)	294265007	0	1
+алдеслейкин	Medication	Allergy to aldesleukin (finding)	293733002	0	1
+алкалоид барвинка	Medication	Allergy to Vinca alkaloid (finding)	293792005	0	1
+алкалоид белладонны	Medication	Allergy to belladonna alkaloid (finding)	294067006	0	1
+алкалоид раувольфия	Medication	Allergy to rauwolfia alkaloid (finding)	782592009	0	1
+алкалоид спорыньи	Medication	Allergy to ergot alkaloid (finding)	295066007	0	1
+алкилирующий агент	Medication	Allergy to alkylating agent (finding)	293740001	0	1
+аллопуринол	Medication	Allergy to allopurinol (finding)	294220003	0	1
+алмагель	Medication	Aluminium hydroxide (substance), Magnesium hydroxide (substance)	273944007, 387337001	273944007, 387337001	0
+алтеплаза	Medication	Allergy to alteplase (finding)	295110005	0	1
+альбендазол	Medication	Allergy to albendazole (finding)	294459009	0	1
+альверин	Medication	Allergy to alverine (finding)	293691009	0	1
+альфа-токоферол	Medication	Allergy to alpha-tocopherol (finding)	294926004	0	1
+амантадин	Medication	Allergy to amantadine (finding)	293811005	0	1
+амикацин	Medication	Allergy to amikacin (finding)	294463002	0	1
+амилорид	Medication	Allergy to amiloride (finding)	295010007	0	1
+аминоглютетимид	Medication	Allergy to aminoglutethimide (finding)	293787008	0	1
+аминофиллин	Medication	Allergy to aminophylline (finding)	294158008	0	1
+аминохинолин	Medication	Allergy to aminoquinoline (finding)	860902005	0	1
+амиодарон	Medication	Allergy to amiodarone (finding)	294988000	0	1
+амитриптилин	Medication	Allergy to amitriptyline (finding)	293829000	0	1
+амифостина	Medication	Allergy to amifostine (finding)	293732007	0	1
+амлодипин	Medication	Allergy to amlodipine (finding)	294002003	0	1
+амоксапин	Medication	Allergy to amoxapine (finding)	293828008	0	1
+амоксиклав	Medication	Clavulanic acid (substance), Amoxicillin (substance)	395939008, 372687004	395939008, 372687004	0
+амоксициллин	Medication	Allergy to amoxicillin (finding)	294505008	0	1
+аморолфин	Medication	Allergy to amorolfine (finding)	294346002	0	1
+ампициллин	Medication	Allergy to ampicillin (finding)	294506009	0	1
+амсакрин	Medication	Allergy to amsacrine (finding)	293778004	0	1
+амфепрамон	Medication	Allergy to amfepramone (finding)	293805007	0	1
+амфетамин и производное амфетамина	Medication	Allergy to amfetamine and amfetamine derivative (finding)	293957008	0	1
+амфотерицин	Medication	Allergy to amphotericin (finding)	294349009	0	1
+анаболический стероид	Medication	Allergy to anabolic steroid (finding)	294757005	0	1
+аналог метадона	Medication	Allergy to methadone analog (finding)	293590004	0	1
+аналог петидина	Medication	Allergy to pethidine analog (finding)	293603003	0	1
+андроген	Medication	Allergy to androgen (finding)	294773004	0	1
+анистреплаза	Medication	Allergy to anistreplase (finding)	295111009	0	1
+анкрод	Medication	Allergy to ancrod (finding)	294871008	0	1
+антагонист альфа-адренорецепторов	Medication	Allergy to alpha adrenergic receptor antagonist (finding)	293985005	0	1
+антагонист бензодиазепиновых рецепторов	Medication	Allergy to benzodiazepine receptor antagonist (finding)	294270000	0	1
+антагонист бета-адренорецепторов	Medication	Allergy to beta adrenergic receptor antagonist (finding)	293962009	0	1
+антагонист гистаминовых рецепторов h2	Medication	Allergy to histamine H2 receptor antagonist (finding)	293649007	0	1
+антагонист рецепторов альдостерона	Medication	Allergy to aldosterone receptor antagonist (finding)	295007000	0	1
+антибиотик	Medication	Antibiotic (product) 	255631004	255631004	0
+антиингибиторный коагулянтный комплекс	Medication	Allergy to anti-inhibitor coagulant complex (finding)	294865002	0	1
+антитромбин iii	Medication	Allergy to antithrombin III (finding)	294855008	0	1
+апап	Medication	Allergy to paracetamol (finding)	293584003	0	1
+апоморфин	Medication	Allergy to apomorphine (finding)	293812003	0	1
+апотель	Medication	Allergy to paracetamol (finding)	293584003	0	1
+апротинин	Medication	Allergy to aprotinin (finding)	294889009	0	1
+аркетал ромфарм	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+артрозилен	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+артрум	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+аскорбиновая кислота	Medication	Allergy to ascorbic acid (finding)	294940003	0	1
+аспарагиназа	Medication	Asparaginase (substance)	371014004	371014004	0
+аспирин	Medication	Allergy to aspirin (finding)	293586001	0	1
+атоваквон	Medication	Allergy to atovaquone (finding)	294596002	0	1
+аторвастатин	Medication	Allergy to atorvastatin (finding)	1,32E+13	0	1
+атропин	Medication	Allergy to atropine (finding)	294076004	0	1
+аценокумарол	Medication	Allergy to acenocoumarol (finding)	294880008	0	1
+ацеталозамида	Medication	Allergy to acetazolamide (finding)	295030006	0	1
+ацетилхолин	Medication	Allergy to acetylcholine (finding)	773399002	0	1
+ацетилцистеин	Medication	Allergy to acetylcysteine (finding)	294097003	0	1
+ацикловир	Medication	Allergy to aciclovir (finding)	294384008	0	1
+аципимокс	Medication	Allergy to acipimox (finding)	294958009	0	1
+бакампициллин	Medication	Allergy to bacampicillin (finding)	294511006	0	1
+баклофен	Medication	Allergy to baclofen (finding)	294234003	0	1
+бальзам перу	Medication	Allergy to balsam of Peru (finding)	830212002	0	1
+баметан	Medication	Allergy to bamethan (finding)	773420005	0	1
+баралгин ультра	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+барбитурат	Medication	Allergy to barbiturate (finding)	860900002	0	1
+бекламид	Medication	Allergy to beclamide (finding)	293858002	0	1
+бендрофлюметиазид	Medication	Allergy to bendroflumethiazide (finding)	294992007	0	1
+бенетамин пенициллин	Medication	Allergy to benethamine penicillin (finding)	294494002	0	1
+бензатропин	Medication	Allergy to benzatropine (finding)	294078003	0	1
+бензилбензоат	Medication	Allergy to benzyl benzoate (finding)	294620008	0	1
+бензилпенициллин	Medication	Allergy to benzylpenicillin (finding)	294499007	0	1
+бензодиазепина	Medication	Allergy to benzodiazepine (finding)	767642003	0	1
+бентонит	Medication	Allergy to bentonite (finding)	294281002	0	1
+берактант	Medication	Allergy to beractant (finding)	294103005	0	1
+бетагистина	Medication	Allergy to betahistine (finding)	295103004	0	1
+бетанехол	Medication	Allergy to bethanechol (finding)	294018009	0	1
+бетанидин	Medication	Allergy to betanidine (finding)	295033008	0	1
+бефениум	Medication	Allergy to bephenium (finding)	294455003	0	1
+бикалутамид	Medication	Allergy to bicalutamide (finding)	294769002	0	1
+биперидена	Medication	Allergy to biperiden (finding)	294069009	0	1
+бисакодил	Medication	Allergy to bisacodyl (finding)	293678008	0	1
+бисфосфонатов	Medication	Allergy to bisphosphonate (finding)	294833000	0	1
+блеомицин	Medication	Allergy to bleomycin (finding)	293761008	0	1
+блокатор кальциевых каналов	Medication	Allergy to calcium channel blocker (finding)	293994004	0	1
+борная кислота	Medication	Allergy to boric acid (finding)	294434000	0	1
+ботулинический антитоксин	Medication	Allergy to botulinum antitoxin (finding)	294668002	0	1
+бретилий	Medication	Allergy to bretylium (finding)	294986001	0	1
+бриллиантовый зеленый	Medication	Allergy to brilliant green (finding)	294448000	0	1
+бромгексин	Medication	Allergy to bromhexine (finding)	830081005	0	1
+бромелаин	Medication	Allergy to bromelains (finding)	295112002	0	1
+брудол для детей	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+бруфен cp	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+бумидол	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+бупренорфин	Medication	Allergy to buprenorphine (finding)	293596005	0	1
+буспирон	Medication	Allergy to buspirone (finding)	293911006	0	1
+бутриптилин	Medication	Allergy to butriptyline (finding)	293822009	0	1
+быструм форте	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+быструмгель	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+быструмкапс	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+вакцина	Medication	Vaccine (substance)	398827000	398827000	0
+валацикловир	Medication	Allergy to valaciclovir (finding)	294374007	0	1
+валусал	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+вальпроевая кислота	Medication	Allergy to valproic acid (finding)	773485002	0	1
+ванкомицин	Medication	Allergy to vancomycin (finding)	294475007	0	1
+варфарин	Medication	Allergy to warfarin (finding)	294881007	0	1
+верошпирон	Medication	Allergy to spironolactone (finding)	295009002	0	1
+вигабатрин	Medication	Allergy to vigabatrin (finding)	293868007	0	1
+видарабина	Medication	Allergy to vidarabine (finding)	294383002	0	1
+вилоксазин	Medication	Allergy to viloxazine (finding)	293856003	0	1
+вит	Medication	Vitamin (substance)	87708000	87708000	0
+вит в	Medication	Vitamin B and vitamin B derivative (substance)	103069003	103069003	0
+витамин	Medication	Allergy to vitamin supplement (finding)	294920005	0	1
+витамин в	Medication	Vitamin B and vitamin B derivative (substance)	103069003	103069003	0
+витамин группы в	Medication	Vitamin B and vitamin B derivative (substance)	103069003	103069003	0
+витамин b12	Medication	Allergy to vitamin B12 and vitamin B12 derivative (finding)	767475000	0	1
+витамин c	Medication	Ascorbic acid (substance)	43706004	43706004	0
+витамин d	Medication	Allergy to vitamin D and vitamin D derivative (finding)	294924001	0	1
+витамин e	Medication	Vitamin E and vitamin E derivative (substance)	37237003	37237003	0
+витамин k	Medication	Allergy to vitamin K and vitamin K derivative (finding)	294925000	0	1
+виферон	Medication	Interferon alfa (substance)	45754009	45754009	0
+галотан	Medication	Allergy to halothane (finding)	293714007	0	1
+галофантрин	Medication	Allergy to halofantrine (finding)	294399008	0	1
+ганцикловир	Medication	Allergy to ganciclovir (finding)	294370003	0	1
+гексетидин	Medication	Allergy to hexetidine (finding)	294407003	0	1
+гентамицин	Medication	Allergy to gentamicin (finding)	294469003	0	1
+гепарин	Medication	Allergy to heparin (finding)	294872001	0	1
+гепариноид	Medication	Allergy to heparinoid (finding)	294876003	0	1
+гестагенный гормон	Medication	Allergy to progestational hormone (finding)	294745001	0	1
+гиалуронидаза	Medication	Allergy to hyaluronidase (finding)	295114001	0	1
+гиалуроновая кислота	Medication	Allergy to hyaluronic acid (finding)	773482004	0	1
+гидралазин	Medication	Allergy to hydralazine (finding)	295075009	0	1
+гидраргафен	Medication	Allergy to hydrargaphen (finding)	294405006	0	1
+гидроксид алюминия	Medication	Allergy to aluminium hydroxide (finding)	293666009	0	1
+гидроксизина	Medication	Allergy to hydroxyzine (finding)	294135005	0	1
+гидроксикарбамид	Medication	Allergy to hydroxycarbamide (finding)	293781009	0	1
+гидрофлуметиазид	Medication	Allergy to hydroflumethiazide (finding)	294996005	0	1
+гидрохлоротиазид	Medication	Allergy to hydrochlorothiazide (finding)	294995009	0	1
+гидрохлортиазид	Medication	Allergy to hydrochlorothiazide (finding)	294995009	0	1
+гипоталамический гормон	Medication	Allergy to hypothalamic hormone (finding)	767014001	0	1
+гликозид наперстянки	Medication	Allergy to digitalis glycoside (finding)	782529008	0	1
+гликопиррония	Medication	Allergy to glycopyrronium (finding)	294080009	0	1
+глицерил тринитрат	Medication	Allergy to glyceryl trinitrate (finding)	295079003	0	1
+глицерин	Medication	Allergy to glycerol (finding)	294320001	0	1
+глицин	Medication	Allergy to glycine (finding)	294298002	0	1
+глутаровый альдегид	Medication	Allergy to glutaraldehyde (finding)	294423003	0	1
+глюкагон	Medication	Allergy to glucagon (finding)	294671005	0	1
+гоматропин	Medication	Allergy to homatropine (finding)	294081008	0	1
+гормон гипофиза	Medication	Allergy to pituitary hormone (finding)	767015000	0	1
+гормон щитовидной железы	Medication	Allergy to thyroid hormone (finding)	782597003	0	1
+гризеофульвин	Medication	Allergy to griseofulvin (finding)	294348001	0	1
+группа крови антител d	Medication	Allergy to blood group antibody D (finding)	294636005	0	1
+гуанетидин	Medication	Allergy to guanethidine (finding)	295035001	0	1
+дактиномицин	Medication	Allergy to dactinomycin (finding)	293760009	0	1
+дальтепарина	Medication	Allergy to dalteparin (finding)	294874000	0	1
+дантролен	Medication	Allergy to dantrolene (finding)	294237005	0	1
+дантрон	Medication	Allergy to dantron (finding)	293679000	0	1
+дапсона	Medication	Allergy to dapsone (finding)	294617000	0	1
+деблок	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+дебризохин	Medication	Allergy to debrisoquine (finding)	295034002	0	1
+дегидрохолевая кислота	Medication	Allergy to dehydrocholic acid (finding)	293700007	0	1
+дезипрамин	Medication	Allergy to desipramine (finding)	293831009	0	1
+деквалиния	Medication	Allergy to dequalinium (finding)	294443009	0	1
+демеклоциклина	Medication	Allergy to demeclocycline (finding)	294591007	0	1
+деносумаб	Medication	Allergy to denosumab (finding)	737493007	0	1
+десмопрессин	Medication	Allergy to desmopressin (finding)	294807008	0	1
+десфлюран	Medication	Allergy to desflurane (finding)	293717000	0	1
+детский панадол	Medication	Allergy to paracetamol (finding)	293584003	0	1
+дефероксамин	Medication	Allergy to deferoxamine (finding)	294284005	0	1
+диазоксид	Medication	Allergy to diazoxide (finding)	295074008	0	1
+диализирующий раствор	Medication	Allergy to dialysis fluid (finding)	294299005	0	1
+диаморфином	Medication	Allergy to diamorphine (finding)	293598006	0	1
+дигидрокодеин	Medication	Allergy to dihydrocodeine (finding)	293599003	0	1
+дигоксин иммунная фабрика	Medication	Allergy to digoxin immune fab (finding)	294268009	0	1
+дизоксирибонуклеаза	Medication	Allergy to deoxyribonuclease (finding)	295113007	0	1
+дизопирамид	Medication	Allergy to disopyramide (finding)	294977006	0	1
+дилоксанид	Medication	Allergy to diloxanide (finding)	294602004	0	1
+димедрол	Medication	Allergy to diphenhydramine (finding)	294133003	0	1
+дименгидринат	Medication	Allergy to dimenhydrinate (finding)	294123006	0	1
+димеркапрол	Medication	Allergy to dimercaprol (finding)	294283004	0	1
+диметилсульфоксид	Medication	Allergy to dimethyl sulfoxide (finding)	293796008	0	1
+дипивефрин	Medication	Allergy to dipivefrin (finding)	294060008	0	1
+дипиридамол	Medication	Allergy to dipyridamole (finding)	295077001	0	1
+дистигмина бромид	Medication	Allergy to distigmine (finding)	294013000	0	1
+дифенилбутилпиперидин	Medication	Allergy to diphenylbutylpiperidine (finding)	293925007	0	1
+дифтерийный антитоксин	Medication	Allergy to diphtheria antitoxin (finding)	294669005	0	1
+дицикломин	Medication	Allergy to dicycloverine (finding)	293693007	0	1
+диэтилкарбамазина	Medication	Allergy to diethylcarbamazine (finding)	294456002	0	1
+диэтиловый эфир	Medication	Allergy to diethyl ether (finding)	767198002	0	1
+доксепин	Medication	Allergy to doxepin (finding)	293823004	0	1
+доксициклин	Medication	Allergy to doxycycline (finding)	294585005	0	1
+доксорубицин	Medication	Allergy to doxorubicin (finding)	293766003	0	1
+докузат	Medication	Allergy to docusate (finding)	293687004	0	1
+долгит	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+домифена	Medication	Allergy to domiphen (finding)	294439005	0	1
+домперидон	Medication	Allergy to domperidone (finding)	293674005	0	1
+допамин	Medication	Allergy to dopamine (finding)	294061007	0	1
+дорназа альфа	Medication	Allergy to dornase alfa (finding)	294091002	0	1
+досулепин	Medication	Allergy to dosulepin (finding)	293832002	0	1
+желатин	Medication	Allergy to gelatin (finding)	294847001	0	1
+зеленка	Medication	Allergy to brilliant green (finding)	294448000	0	1
+золпидем	Medication	Allergy to zolpidem (finding)	293875008	0	1
+зопиклон	Medication	Allergy to zopiclone (finding)	293874007	0	1
+иапф	Medication	Non-allergic hypersensitivity to angiotensin-converting enzyme inhibitor (finding)	609537003	0	1
+ибупром спринт капс	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+ибупрофен	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+ибупрофен велфарм	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+ибупрофен для детей	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+ибупрофен фт	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+ибупрофен-акрихин	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+ибупрофен-фс	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+ибупрофен-хемофарм	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+идаруцибин	Medication	Allergy to idarubicin (finding)	293768002	0	1
+идоксуридин	Medication	Allergy to idoxuridine (finding)	294385009	0	1
+изоаминил	Medication	Allergy to isoaminile (finding)	294148009	0	1
+изоконазол	Medication	Allergy to isoconazole (finding)	294360000	0	1
+изоксуприн	Medication	Allergy to isoxsuprine (finding)	295098001	0	1
+изониазид	Medication	Allergy to isoniazid (finding)	294614007	0	1
+изопреналин	Medication	Allergy to isoprenaline (finding)	294050004	0	1
+изосорбид	Medication	Allergy to isosorbide (finding)	773428003	0	1
+изофлюрана	Medication	Allergy to isoflurane (finding)	293715008	0	1
+изоэтарин	Medication	Allergy to isoetarine (finding)	830169008	0	1
+имипенем	Medication	Allergy to imipenem (finding)	442408006	0	1
+имипрамин	Medication	Allergy to imipramine (finding)	293833007	0	1
+ингибитор альдегиддегидрогеназы	Medication	Allergy to aldehyde dehydrogenase inhibitor (finding)	830277004	0	1
+ингибитор моноаминоксидазы	Medication	Allergy to monoamine oxidase inhibitor (finding)	293835000	0	1
+ингибитор обратной транскриптазы	Medication	Allergy to reverse transcriptase inhibitor (finding)	713276002	0	1
+ингибитор протеазы	Medication	Allergy to protease inhibitor (finding)	713296005	0	1
+инданедион	Medication	Allergy to indanedione (finding)	782560008	0	1
+инозин пранобекс	Medication	Allergy to inosine pranobex (finding)	294368007	0	1
+инозит	Medication	Allergy to inositol (finding)	294937003	0	1
+инспирон 	Medication	Fenspiride (substance)	712690002	712690002	0
+инсулин	Medication	Allergy to insulin (finding)	294714000	0	1
+интерферон	Medication	Allergy to interferon (finding)	294375008	0	1
+интрафен-ген	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+ипекакуана	Medication	Allergy to ipecacuanha (finding)	294264006	0	1
+ипратропия	Medication	Allergy to ipratropium (finding)	294082001	0	1
+иприндол	Medication	Allergy to iprindole (finding)	293824005	0	1
+итраконазол	Medication	Allergy to itraconazole (finding)	294366006	0	1
+ифимол	Medication	Allergy to paracetamol (finding)	293584003	0	1
+йод	Medication	Allergy to iodine compound (finding)	294913003	0	1
+йодсодержащий препарат	Medication	Allergy to iodine compound (finding)	294913003	0	1
+кальций регулирующий гормон	Medication	Allergy to calcium regulating hormone (finding)	294838009	0	1
+каменноугольная смола	Medication	Allergy to coal tar (finding)	294169006	0	1
+канамицин	Medication	Allergy to kanamycin (finding)	294464008	0	1
+каолин	Medication	Allergy to kaolin (finding)	293669002	0	1
+капреомицин	Medication	Allergy to capreomycin (finding)	294609008	0	1
+карбамазепин	Medication	Allergy to carbamazepine (finding)	293867002	0	1
+карбахол	Medication	Allergy to carbachol (finding)	294019001	0	1
+карбенициллин	Medication	Allergy to carbenicillin (finding)	294510007	0	1
+карбеноксолон	Medication	Allergy to carbenoxolone (finding)	293657005	0	1
+карбидопа	Medication	Allergy to carbidopa and/or levodopa (finding)	870731003	0	1
+карбоплатина	Medication	Allergy to carboplatin (finding)	293779007	0	1
+карбоцистеин	Medication	Allergy to carbocisteine (finding)	294095006	0	1
+каризопродол	Medication	Allergy to carisoprodol (finding)	294235002	0	1
+карфециллин	Medication	Allergy to carfecillin (finding)	294518000	0	1
+каскара	Medication	Allergy to cascara (finding)	293685007	0	1
+касторовое масло	Medication	Allergy to castor oil (finding)	294318004	0	1
+кетамин	Medication	Allergy to ketamine (finding)	293707005	0	1
+кетоконазол	Medication	Allergy to ketoconazole (finding)	294362008	0	1
+кетонал	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетонал дуо	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетонал уно	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетоналактив	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетоналактив плюс	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопровел	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен врамед	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен мв	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен органика	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен-лекфарм	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен-лор	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен-солофарм	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен-тева	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кетопрофен-эском	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+кларитромицин	Medication	Allergy to clarithromycin (finding)	294471003	0	1
+клиндамицин	Medication	Allergy to clindamycin (finding)	294561002	0	1
+клозапин	Medication	Allergy to clozapine (finding)	293916001	0	1
+клоксациллин	Medication	Allergy to cloxacillin (finding)	294501004	0	1
+клометиазол	Medication	Allergy to clomethiazole (finding)	293912004	0	1
+кломипрамин	Medication	Allergy to clomipramine (finding)	293830005	0	1
+кломоциклин	Medication	Allergy to clomocycline (finding)	294584009	0	1
+клотримазол	Medication	Allergy to clotrimazole (finding)	294356003	0	1
+клофазимина	Medication	Allergy to clofazimine (finding)	294618005	0	1
+коагуляционный белок	Medication	Allergy to coagulation protein (finding)	770891008	0	1
+кодеин	Medication	Allergy to codeine (finding)	293597001	0	1
+колестиполом	Medication	Allergy to colestipol (finding)	294961005	0	1
+колестирамин	Medication	Allergy to colestyramine (finding)	294962003	0	1
+коллаген	Medication	Allergy to collagen (finding)	294888001	0	1
+колфосцерил	Medication	Allergy to colfosceril (finding)	294106002	0	1
+конкор	Medication	Allergy to bisoprolol (finding)	 293967003	0	1
+кордарон	Medication	Allergy to amiodarone (finding)	294988000	0	1
+кортикостероиды и производные кортикостероидов	Medication	Allergy to corticosteroid and corticosteroid derivative (finding)	294677009	0	1
+кофеин	Medication	Allergy to caffeine (finding)	418344001	0	1
+кромоглициевая кислота	Medication	Allergy to cromoglicic acid (finding)	767203005	0	1
+ксамотерол	Medication	Allergy to xamoterol (finding)	294064004	0	1
+ксарелто	Medication	Product containing rivaroxaban (medicinal product)	442539005	442539005	0
+ксумапар	Medication	Allergy to paracetamol (finding)	293584003	0	1
+лактулоза	Medication	Allergy to lactulose (finding)	293681003	0	1
+ламотриджин	Medication	Allergy to lamotrigine (finding)	293859005	0	1
+латамоксеф	Medication	Allergy to latamoxef (finding)	294539007	0	1
+лашезин	Medication	Allergy to lachesine (finding)	830170009	0	1
+левамизол	Medication	Allergy to levamisole (finding)	293738006	0	1
+левокарнитин	Medication	Allergy to levocarnitine (finding)	294912008	0	1
+левомицетин	Medication	Allergy to chloramphenicol (finding)	294593005	0	1
+левоноргестрел	Medication	Allergy to levonorgestrel (finding)	294754003	0	1
+лекарства	Medication	Drug or medicament (substance) 	410942007	410942007	0
+лекарство	Medication	Drug or medicament (substance) 	410942007	410942007	0
+ленограстим	Medication	Allergy to lenograstim (finding)	293736005	0	1
+лидаза	Medication	Allergy to hyaluronidase (finding)	295114001	0	1
+лидокаин	Medication	Allergy to lidocaine (finding)	293722000	0	1
+лимециклин	Medication	Allergy to lymecycline (finding)	294586006	0	1
+линкомицин	Medication	Allergy to lincomycin (finding)	294562009	0	1
+ловастатин	Medication	Allergy to lovastatin (finding)	718536006	0	1
+лодоксамид	Medication	Allergy to lodoxamide (finding)	294145007	0	1
+локсапина	Medication	Allergy to loxapine (finding)	293915002	0	1
+лофепрамина	Medication	Allergy to lofepramine (finding)	293825006	0	1
+магний	Medication	Allergy to magnesium sulfate (finding)	293682005	0	1
+мазиндол	Medication	Allergy to mazindol (finding)	293802005	0	1
+мазь	Medication	Ointment (basic dose form)	385101003	385101003	0
+макролиды	Medication	Allergy to macrolide (finding)	860907004	0	1
+максиколд для детей	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+маннит	Medication	Allergy to mannitol (finding)	295019008	0	1
+мапротилин	Medication	Allergy to maprotiline (finding)	293853006	0	1
+масло мяты перечной	Medication	Allergy to peppermint oil (finding)	293690005	0	1
+мебеверин	Medication	Allergy to mebeverine (finding)	293692002	0	1
+мебендазол	Medication	Allergy to mebendazole (finding)	294458001	0	1
+медикамент	Medication	Drug or medicament (substance) 	410942007	410942007	0
+мезлоциллин	Medication	Allergy to mezlocillin (finding)	294508005	0	1
+мексилетин	Medication	Allergy to mexiletine (finding)	294980007	0	1
+мепакрин	Medication	Allergy to mepacrine (finding)	294400001	0	1
+мепензолат	Medication	Allergy to mepenzolate (finding)	293694001	0	1
+мепробамат	Medication	Allergy to meprobamate (finding)	293906009	0	1
+мептазинол	Medication	Allergy to meptazinol (finding)	293608007	0	1
+меркаптопурин	Medication	Allergy to mercaptopurine (finding)	293772003	0	1
+меропенем	Medication	Allergy to meropenem (finding)	442022002	0	1
+мерсалил	Medication	Allergy to mersalyl (finding)	295021003	0	1
+месна	Medication	Allergy to mesna (finding)	294269001	0	1
+местный анестетик	Medication	Allergy to local anesthetic (finding)	293718005	0	1
+метадон	Medication	Allergy to methadone (finding)	293594008	0	1
+метахолиновый	Medication	Allergy to methacholine (finding)	294009007	0	1
+метиклотиазид	Medication	Allergy to methyclothiazide (finding)	294997001	0	1
+метиксен	Medication	Allergy to methixene (finding)	294083006	0	1
+метилрозанилиния хлорид	Medication	Allergy to methylrosanilinium chloride (finding)	294447005	0	1
+метилтестостерон	Medication	Allergy to methyltestosterone (finding)	294775006	0	1
+метилфенидат	Medication	Allergy to methylphenidate (finding)	293955000	0	1
+метилцистеин	Medication	Allergy to methylcysteine (finding)	294096007	0	1
+метиприлон	Medication	Allergy to methyprylon (finding)	293877000	0	1
+метирозин	Medication	Allergy to metirosine (finding)	295049005	0	1
+метициллину	Medication	Allergy to meticillin (finding)	294503001	0	1
+метогекситал	Medication	Allergy to methohexital (finding)	293710003	0	1
+метокарбамол	Medication	Allergy to methocarbamol (finding)	294236001	0	1
+метоклопрамид	Medication	Allergy to metoclopramide (finding)	293675006	0	1
+метотрексат	Medication	Allergy to methotrexate (finding)	293771005	0	1
+мециллинаму	Medication	Allergy to mecillinam (finding)	294519008	0	1
+миансерин	Medication	Allergy to mianserin (finding)	293854000	0	1
+миг 400	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+миг для детей	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+миг для малышей	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+миконазол	Medication	Allergy to miconazole (finding)	294363003	0	1
+милринон	Medication	Allergy to milrinone (finding)	295062009	0	1
+миндальная кислота	Medication	Allergy to mandelic acid (finding)	294563004	0	1
+минеральное масло	Medication	Allergy to mineral oil (finding)	294327003	0	1
+миноксидил	Medication	Allergy to minoxidil (finding)	295071000	0	1
+миноциклин	Medication	Allergy to minocycline (finding)	294587002	0	1
+митомицин	Medication	Allergy to mitomycin (finding)	293762001	0	1
+мифепристон	Medication	Allergy to mifepristone (finding)	294245000	0	1
+молграмостим	Medication	Allergy to molgramostim (finding)	293735009	0	1
+морацизин	Medication	Allergy to moracizine (finding)	294981006	0	1
+морфий	Medication	Allergy to morphine (finding)	293601001	0	1
+мупироцин	Medication	Allergy to mupirocin (finding)	294480003	0	1
+набилон	Medication	Allergy to nabilone (finding)	293673004	0	1
+налидиксовая кислота	Medication	Allergy to nalidixic acid (finding)	294486009	0	1
+налоксон	Medication	Allergy to naloxone (finding)	294277002	0	1
+налтрексон	Medication	Allergy to naltrexone (finding)	294276006	0	1
+натамицин	Medication	Allergy to natamycin (finding)	294350009	0	1
+нафтидрофурил	Medication	Allergy to naftidrofuryl (finding)	295099009	0	1
+неболин капс	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+недеполяризующий агент	Medication	Allergy to nondepolarizing agent (finding)	294225008	0	1
+некст уно экспресс	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+неомицин	Medication	Allergy to neomycin (finding)	294468006	0	1
+нестероидное противовоспалительное средство	Medication	Allergy to non-steroidal anti-inflammatory agent (finding)	293610009	0	1
+нетилмицин	Medication	Allergy to netilmicin (finding)	294465009	0	1
+никлозамид	Medication	Allergy to niclosamide (finding)	294453005	0	1
+никорандил	Medication	Allergy to nicorandil (finding)	295076005	0	1
+никотин	Medication	Allergy to nicotine (finding)	293993005	0	1
+никотиниловый спирт	Medication	Allergy to nicotinyl alcohol (finding)	295100001	0	1
+никотиновая кислота	Medication	Allergy to nicotinic acid (finding)	294929006	0	1
+никофураноза	Medication	Allergy to nicofuranose (finding)	295096002	0	1
+нимесулид	Medication	Product containing nimesulide (medicinal product)	703480002	703480002	0
+нистатин	Medication	Allergy to nystatin (finding)	294351008	0	1
+нитрат	Medication	Nitrate salt (substance) 	89119000	89119000	0
+нитрат натрия	Medication	Allergy to sodium nitrite (finding)	294266008	0	1
+нитроимидазола	Medication	Allergy to nitroimidazole (finding)	294566007	0	1
+нитропруссид	Medication	Allergy to nitroprusside (finding)	773483009	0	1
+нитрофенол	Medication	Allergy to nitrophenol (finding)	294343005	0	1
+нитрофурала	Medication	Allergy to nitrofural (finding)	294481004	0	1
+нитрофурантоином	Medication	Allergy to nitrofurantoin (finding)	294478009	0	1
+новокаин	Medication	Allergy to procaine (finding)	293727006	0	1
+нокситиолин	Medication	Allergy to noxytiolin (finding)	294425005	0	1
+норетистерона	Medication	Allergy to norethisterone (finding)	294752004	0	1
+нортриптилин	Medication	Allergy to nortriptyline (finding)	293826007	0	1
+носкапин	Medication	Allergy to noscapine (finding)	294152009	0	1
+нурофактор	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофаст	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофастфорте	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофен	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофен 12+	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофен для детей	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофен форте	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофен экспресс	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофен экспресс леди	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+нурофен экспресс форте	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+оки	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+оксибутинин	Medication	Allergy to oxybutynin (finding)	294088002	0	1
+оксид ртути	Medication	Allergy to mercuric oxide (finding)	293770006	0	1
+оксипертин	Medication	Allergy to oxypertine (finding)	293949005	0	1
+окситетрациклин	Medication	Allergy to oxytetracycline (finding)	294588007	0	1
+окситропия	Medication	Allergy to oxitropium (finding)	294087007	0	1
+оксихинолина	Medication	Allergy to oxyquinoline (finding)	860776004	0	1
+октреотид	Medication	Allergy to octreotide (finding)	294826000	0	1
+орфенадрин	Medication	Allergy to orphenadrine (finding)	294084000	0	1
+паклитаксел	Medication	Allergy to paclitaxel (finding)	293785000	0	1
+панадол	Medication	Allergy to paracetamol (finding)	293584003	0	1
+панкреатин	Medication	Allergy to pancreatin (finding)	293659008	0	1
+папаверин	Medication	Allergy to papaverine (finding)	294242002	0	1
+паральдегида	Medication	Allergy to paraldehyde (finding)	293878005	0	1
+парацетамол	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол авексима	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол велфарм	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол детский	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол каби	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол медисорб	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол-алиум	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол-альтфарм	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол-лект	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол-убф	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол-хемофарм	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамол-эко	Medication	Allergy to paracetamol (finding)	293584003	0	1
+парацетамола таблетки	Medication	Allergy to paracetamol (finding)	293584003	0	1
+педеа	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+пемолин	Medication	Allergy to pemoline (finding)	293954001	0	1
+пеницилламин	Medication	Allergy to penicillamine (finding)	294291008	0	1
+пенициллин	Medication	Penicillin (substance) 	764146007	764146007	0
+пенициллиновая аллергия	Medication	Allergy to penicillin (finding)	91936005	0	1
+пенициллиновый ряд	Medication	Allergy to penicillin (finding)	91936005	0	1
+пенициллины	Medication	Allergy to penicillin (finding)	91936005	0	1
+пентазоцин	Medication	Allergy to pentazocine (finding)	293588000	0	1
+пенталгинэкстра-гель	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+пентамидин	Medication	Allergy to pentamidine (finding)	294600007	0	1
+пентаэритритилтетранитрат	Medication	Allergy to pentaerithrityl tetranitrate (finding)	295091007	0	1
+пентоксифиллин	Medication	Allergy to pentoxifylline (finding)	295094004	0	1
+пентостатин	Medication	Allergy to pentostatin (finding)	293774002	0	1
+перборат натрия	Medication	Allergy to sodium perborate (finding)	294408008	0	1
+перекись	Medication	Allergy to hydrogen peroxide (finding)	294449008	0	1
+пероксид водорода	Medication	Allergy to hydrogen peroxide (finding)	294449008	0	1
+перфалган	Medication	Allergy to paracetamol (finding)	293584003	0	1
+пивампициллин	Medication	Allergy to pivampicillin (finding)	294509002	0	1
+пивмециллинам	Medication	Allergy to pivmecillinam (finding)	294520002	0	1
+пикосульфат натрия	Medication	Allergy to sodium picosulfate (finding)	293680002	0	1
+пилокарпин	Medication	Allergy to pilocarpine (finding)	294007009	0	1
+пипензолат	Medication	Allergy to pipenzolate (finding)	293695000	0	1
+пиперазин	Medication	Allergy to piperazine (finding)	294451007	0	1
+пиперациллин	Medication	Allergy to piperacillin (finding)	294515002	0	1
+пиперидолат	Medication	Allergy to piperidolate (finding)	830175004	0	1
+пиразинамид	Medication	Allergy to pyrazinamide (finding)	294607005	0	1
+пирантел	Medication	Allergy to pyrantel (finding)	294452000	0	1
+пирацетам	Medication	Allergy to piracetam (finding)	293860000	0	1
+пирензепин	Medication	Allergy to pirenzepine (finding)	293658000	0	1
+пиретанид	Medication	Allergy to piretanide (finding)	295003001	0	1
+пиридоксин	Medication	Allergy to pyridoxine (finding)	767479006	0	1
+пиридостигмин	Medication	Allergy to pyridostigmine (finding)	294016008	0	1
+пириметамину	Medication	Allergy to pyrimethamine (finding)	294388006	0	1
+питавастатин	Medication	Allergy to pitavastatin (finding)	718535005	0	1
+плавикс	Medication	Clopidogrel (substance)	 386952008	 386952008	0
+пластырь	Medication	Body tissue patch material (substance) 	413676000	413676000	0
+пликамицин	Medication	Allergy to plicamycin (finding)	293763006	0	1
+полдин	Medication	Allergy to poldine (finding)	293696004	0	1
+полимиксин	Medication	Allergy to polymyxin (finding)	294528009	0	1
+полиноксилин	Medication	Allergy to polynoxylin (finding)	294406007	0	1
+политиазид	Medication	Allergy to polythiazide (finding)	294998006	0	1
+правастатин	Medication	Allergy to pravastatin (finding)	294973005	0	1
+прадакса	Medication	Dabigatran etexilate (substance)	700029008	700029008	0
+пралидоксим	Medication	Allergy to pralidoxime (finding)	294273003	0	1
+препарат	Medication	Drug or medicament (substance) 	410942007	410942007	0
+прививки	Medication	0	0	0	3
+пробенецид	Medication	Allergy to probenecid (finding)	294217006	0	1
+пробукол	Medication	Allergy to probucol (finding)	294957004	0	1
+прогванил	Medication	Allergy to proguanil (finding)	294396001	0	1
+прозерин	Medication	Allergy to neostigmine (finding)	294017004	0	1
+производное бутирофенона	Medication	Allergy to butyrophenone derivative (finding)	293919008	0	1
+производное фенотиазина	Medication	Allergy to phenothiazine derivative (finding)	782607004	0	1
+прокаинамид	Medication	Allergy to procainamide (finding)	294982004	0	1
+прокарбазин	Medication	Allergy to procarbazine (finding)	293782002	0	1
+пропантелин	Medication	Allergy to propantheline (finding)	293697008	0	1
+пропафенон	Medication	Allergy to propafenone (finding)	294983009	0	1
+пропилтиоурацил	Medication	Allergy to propylthiouracil (finding)	294676000	0	1
+пропофол	Medication	Allergy to propofol (finding)	293708000	0	1
+простагландин	Medication	Allergy to prostaglandin (finding)	294249006	0	1
+протамин	Medication	Allergy to protamine (finding)	294278007	0	1
+протирелин	Medication	Allergy to protirelin (finding)	294829007	0	1
+протриптилин	Medication	Allergy to protriptyline (finding)	293834001	0	1
+проциклидин	Medication	Allergy to procyclidine (finding)	294089005	0	1
+псевдоэфедрин	Medication	Allergy to pseudoephedrine (finding)	294023009	0	1
+пумактант	Medication	Allergy to pumactant (finding)	294105003	0	1
+разоксан	Medication	Allergy to razoxane (finding)	293783007	0	1
+ралоксифен	Medication	Allergy to raloxifene (finding)	473078001	0	1
+ремифентанил	Medication	Allergy to remifentanil (finding)	441992007	0	1
+ремоксиприд	Medication	Allergy to remoxipride (finding)	293950005	0	1
+ретиноид	Medication	Allergy to retinoid (finding)	294207001	0	1
+рибавирин	Medication	Allergy to ribavirin (finding)	294380004	0	1
+рисперидон	Medication	Allergy to risperidone (finding)	293917005	0	1
+рифабутин	Medication	Allergy to rifabutin (finding)	294612006	0	1
+рифампицин	Medication	Allergy to rifampicin (finding)	294611004	0	1
+розоксацин	Medication	Allergy to rosoxacin (finding)	294484007	0	1
+розувастатин	Medication	Allergy to rosuvastatin (finding)	718537002	0	1
+севофлуран	Medication	Allergy to sevoflurane (finding)	441954006	0	1
+селективный ингибитор обратного захвата серотонина	Medication	Allergy to selective serotonin re-uptake inhibitor (finding)	293844004	0	1
+сено	Medication	Allergy to senna (finding)	293686008	0	1
+симвастатин	Medication	Allergy to simvastatin (finding)	294971007	0	1
+сиресп 	Medication	Fenspiride (substance)	712690002	712690002	0
+скополамин	Medication	Allergy to scopolamine (finding)	294074001	0	1
+соединение лития	Medication	Allergy to lithium compound (finding)	782563005	0	1
+солпафлекс	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+соталекс 	Medication	 Allergy to sotalol (finding)	293983003	0	1
+спектиномицин	Medication	Allergy to spectinomycin (finding)	294474006	0	1
+статины	Medication	Allergy to 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitor (finding)	294970008	0	1
+стибоглюконат натрия	Medication	Allergy to sodium stibogluconate (finding)	294598001	0	1
+столбнячный иммуноглобулин	Medication	Allergy to tetanus immunoglobulin (finding)	294638006	0	1
+стрептокиназа	Medication	Allergy to streptokinase (finding)	295108008	0	1
+стрептомицин	Medication	Allergy to streptomycin (finding)	294466005	0	1
+сукновальная глина	Medication	Allergy to Fuller's earth (finding)	294280001	0	1
+сукральфат	Medication	Allergy to sucralfate (finding)	293646000	0	1
+сукцинилхолина	Medication	Allergy to succinylcholine (finding)	294224007	0	1
+сулконазол	Medication	Allergy to sulconazole (finding)	294361001	0	1
+сульпирид	Medication	Allergy to sulpiride (finding)	293914003	0	1
+сульфаниламидный диуретик	Medication	Allergy to sulfonamide antibiotic (finding)	429239002	0	1
+сульфат натрия	Medication	Allergy to sodium sulfate (finding)	830177007	0	1
+сульфинпиразоном	Medication	Allergy to sulfinpyrazone (finding)	294218001	0	1
+сульфонат полистирола	Medication	Allergy to polystyrene sulfonate (finding)	830165002	0	1
+суфентанила	Medication	Allergy to sufentanil (finding)	441955007	0	1
+таблетка	Medication	Tablet (basic dose form) 	385055001	385055001	0
+талампициллин	Medication	Allergy to talampicillin (finding)	294512004	0	1
+тамоксифен	Medication	Allergy to tamoxifen (finding)	293790002	0	1
+теикопланин	Medication	Allergy to teicoplanin (finding)	294476008	0	1
+темоциллин	Medication	Allergy to temocillin (finding)	294514003	0	1
+теофиллин	Medication	Allergy to theophylline (finding)	294160005	0	1
+терапия	Medication	Therapy (regime/therapy) 	276239002	276239002	0
+тербинафин	Medication	Allergy to terbinafine (finding)	294342000	0	1
+тестостерон	Medication	Allergy to testosterone (finding)	294776007	0	1
+тетмосол	Medication	Allergy to sulfiram (finding)	294621007	0	1
+тетрабеназин	Medication	Allergy to tetrabenazine (finding)	293918000	0	1
+тетрациклин	Medication	Allergy to tetracycline (finding)	294592000	0	1
+тиабендазол	Medication	Allergy to tiabendazole (finding)	294460004	0	1
+тиазолидиндиона	Medication	Allergy to thiazolidinedione (finding)	439954005	0	1
+тиамин	Medication	Allergy to thiamine (finding)	767478003	0	1
+тикарциллин	Medication	Allergy to ticarcillin (finding)	294517005	0	1
+тилоксапол	Medication	Allergy to tyloxapol (finding)	294093004	0	1
+тинзапарин	Medication	Allergy to tinzaparin (finding)	294875004	0	1
+тиогуанин	Medication	Allergy to tioguanine (finding)	293773008	0	1
+тиоконазол	Medication	Allergy to tioconazole (finding)	294358002	0	1
+тиоксантен	Medication	Allergy to thioxanthene (finding)	293942001	0	1
+тиомочевины	Medication	Allergy to thiourea (finding)	782596007	0	1
+тиоурацилом	Medication	Allergy to thiouracil (finding)	782595006	0	1
+тиреотропин	Medication	Allergy to thyrotropin releasing factor (finding)	294828004	0	1
+тироксин	Medication	Allergy to thyroxine (finding)	294804001	0	1
+тобрамицин	Medication	Allergy to tobramycin (finding)	294470002	0	1
+токаинид	Medication	Allergy to tocainide (finding)	294984003	0	1
+толнафтат	Medication	Allergy to tolnaftate (finding)	294344004	0	1
+торасемид	Medication	Allergy to torasemide (finding)	295004007	0	1
+тосмилен	Medication	Allergy to demecarium (finding)	294012005	0	1
+тразодоном	Medication	Allergy to trazodone (finding)	293855004	0	1
+трамадол	Medication	Allergy to tramadol (finding)	450767000	0	1
+транексамовая кислота	Medication	Allergy to tranexamic acid (finding)	294887006	0	1
+треосульфан	Medication	Allergy to treosulfan (finding)	293743004	0	1
+триамтерен	Medication	Allergy to triamterene (finding)	295006009	0	1
+тригексифенидил	Medication	Allergy to trihexyphenidyl (finding)	294077008	0	1
+трикалия дицитратобисмутат	Medication	Allergy to tripotassium dicitratobismuthate (finding)	293645001	0	1
+триклозан	Medication	Allergy to triclosan (finding)	294417008	0	1
+триметафан	Medication	Allergy to trimetaphan (finding)	295048002	0	1
+триметоприм	Medication	Allergy to trimethoprim (finding)	294477004	0	1
+тримипрамин	Medication	Allergy to trimipramine (finding)	293827003	0	1
+трифенилметан триизоцианат	Medication	Allergy to triphenylmethane triisocyanate (finding)	782598008	0	1
+трихлорэтилен	Medication	Allergy to trichloroethylene (finding)	293716009	0	1
+триэтилперазин	Medication	Allergy to thiethylperazine (finding)	293933008	0	1
+тропикамид	Medication	Allergy to tropicamide (finding)	294073007	0	1
+тубокурарин	Medication	Allergy to tubocurarine (finding)	294231006	0	1
+укол	Medication	Injection (procedure)	59108006	59108006	0
+уксусная кислота	Medication	Allergy to acetic acid (finding)	294404005	0	1
+урокиназы	Medication	Allergy to urokinase (finding)	295109000	0	1
+уротропин	Medication	Allergy to methenamine (finding)	830173006	0	1
+урсодезоксихолевая кислота	Medication	Allergy to ursodeoxycholic acid (finding)	293701006	0	1
+фамцикловир	Medication	Allergy to famciclovir (finding)	294371004	0	1
+фаспик	Medication	Allergy to ibuprofen (finding)	293619005	0	1
+фастум	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+феброфид	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+феназоцин	Medication	Allergy to phenazocine (finding)	293589008	0	1
+фенетициллин	Medication	Allergy to pheneticillin (finding)	294496000	0	1
+фенилпропаноламин	Medication	Allergy to phenylpropanolamine (finding)	773518005	0	1
+фенитоин	Medication	Allergy to phenytoin (finding)	293869004	0	1
+феноксиметилпенициллин	Medication	Allergy to phenoxymethylpenicillin (finding)	294497009	0	1
+фенотиазина	Medication	Allergy to phenothiazine (finding)	293928009	0	1
+фенспирид 	Medication	Fenspiride (substance)	712690002	712690002	0
+фенспирид-лф 	Medication	Fenspiride (substance)	712690002	712690002	0
+фенспирид-ника 	Medication	Fenspiride (substance)	712690002	712690002	0
+фентиконазол	Medication	Allergy to fenticonazole (finding)	294357007	0	1
+физостигмин	Medication	Allergy to physostigmine (finding)	294011003	0	1
+филграстим	Medication	Allergy to filgrastim (finding)	293737001	0	1
+финастерид	Medication	Allergy to finasteride (finding)	294767000	0	1
+флавоксат	Medication	Allergy to flavoxate (finding)	294243007	0	1
+фламакс	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+флекаинид	Medication	Allergy to flecainide (finding)	294979009	0	1
+флексен	Medication	Allergy to ketoprofen (finding)	293621000	0	1
+флозеквинан	Medication	Allergy to flosequinan (finding)	295073002	0	1
+флувастатин	Medication	Allergy to fluvastatin (finding)	294972000	0	1
+флуклоксациллин	Medication	Allergy to flucloxacillin (finding)	294502006	0	1
+флуконазол	Medication	Allergy to fluconazole (finding)	294365005	0	1
+флутамид	Medication	Allergy to flutamide (finding)	294768005	0	1
+флюдарабин	Medication	Allergy to fludarabine (finding)	293786004	0	1
+флюцитозин	Medication	Allergy to flucytosine (finding)	294341007	0	1
+фолиевая кислота	Medication	Allergy to folic acid (finding)	294930001	0	1
+фолиновая кислота	Medication	Allergy to folinic acid (finding)	294931002	0	1
+фолкодин	Medication	Allergy to pholcodine (finding)	294153004	0	1
+формальдегид	Medication	Allergy to formaldehyde (finding)	294426006	0	1
+фоскарнет	Medication	Allergy to foscarnet (finding)	294382007	0	1
+фосфомицина	Medication	Allergy to fosfomycin (finding)	294559006	0	1
+фрамицетин	Medication	Allergy to framycetin (finding)	294467001	0	1
+фторурацил	Medication	Allergy to fluorouracil (finding)	293776000	0	1
+фторхинолон	Medication	Allergy to fluoroquinolone (finding)	830259009	0	1
+фузидиевая кислота	Medication	Allergy to fusidic acid (finding)	294482006	0	1
+хенодезоксихолевая кислота	Medication	Allergy to chenodeoxycholic acid (finding)	293699006	0	1
+химотрипсин	Medication	Allergy to chymotrypsin (finding)	295116004	0	1
+хинаприл	Medication	Non-allergic hypersensitivity to quinapril (finding)	609544007	609544007	0
+хинидин	Medication	Allergy to quinidine (finding)	294978001	0	1
+хинин	Medication	Allergy to quinine (finding)	294398000	0	1
+хлор	Medication	Chlorine (substance)	29276003	29276003	0
+хлоральное производное	Medication	Allergy to chloral derivative (finding)	782530003	0	1
+хлорамин	Medication	Monochloramine (substance)	609384004	609384004	0
+хлоргексидин	Medication	Allergy to chlorhexidine (finding)	294431008	0	1
+хлорид	Medication	Chloride salt (substance)	50213009	50213009	0
+хлорка	Medication	Chlorine (substance)	29276003	29276003	0
+хлормезанон	Medication	Allergy to chlormezanone (finding)	293876009	0	1
+хлороксиленол	Medication	Allergy to chloroxylenol (finding)	294415000	0	1
+хлоротиазид	Medication	Allergy to chlorothiazide (finding)	294993002	0	1
+хлортетрациклина	Medication	Allergy to chlortetracycline (finding)	294590008	0	1
+целлюлоза	Medication	Allergy to cellulose and cellulose derivative (finding)	860931009	0	1
+церивастатин	Medication	Allergy to cerivastatin (finding)	718534009	0	1
+цетилпиридиния	Medication	Allergy to cetylpyridinium (finding)	294441006	0	1
+цетримид	Medication	Allergy to cetrimide (finding)	294437007	0	1
+цетуксимаб	Medication	Allergy to cetuximab (finding)	788802000	0	1
+цефалоспорин	Medication	Allergy to cephalosporin (finding)	294532003	0	1
+цефекон д	Medication	Allergy to paracetamol (finding)	293584003	0	1
+цефтриаксон	Medication	Allergy to ceftriaxone (finding)	294551009	0	1
+цизаприд	Medication	Allergy to cisapride (finding)	293671002	0	1
+цикланделат	Medication	Allergy to cyclandelate (finding)	295095003	0	1
+циклациллин	Medication	Allergy to ciclacillin (finding)	294507000	0	1
+циклопентиазид	Medication	Allergy to cyclopenthiazide (finding)	294994008	0	1
+циклопентолат	Medication	Allergy to cyclopentolate (finding)	294079006	0	1
+циклосерин	Medication	Allergy to cycloserine (finding)	294610003	0	1
+циклоспорин	Medication	Allergy to ciclosporin (finding)	293798009	0	1
+циклофенил	Medication	Allergy to cyclofenil (finding)	294763001	0	1
+ципротерона	Medication	Allergy to cyproterone (finding)	294771002	0	1
+ципрофлоксацин	Medication	Allergy to cinoxacin (finding)	294485008	0	1
+цисплатин	Medication	Allergy to cisplatin (finding)	293780005	0	1
+цитарабин	Medication	Allergy to cytarabine (finding)	293775001	0	1
+человеческий иммуноглобулин	Medication	Allergy to human immunoglobulin (finding)	294633002	0	1
+четвертичное аммониевое поверхностно-активное вещество	Medication	Allergy to quaternary ammonium surfactant (finding)	294436003	0	1
+четвертичное пиридиниевое поверхностно-активное вещество	Medication	Allergy to quaternary pyridinium surfactant (finding)	294440007	0	1
+четвертичное хинолиниевое поверхностно-активное вещество	Medication	Allergy to quaternary quinolinium surfactant (finding)	294442004	0	1
+эдрофоний	Medication	Allergy to edrophonium (finding)	294015007	0	1
+эконазол	Medication	Allergy to econazole (finding)	294359005	0	1
+экотиопат	Medication	Allergy to ecothiopate (finding)	294014006	0	1
+эмепроний	Medication	Allergy to emepronium (finding)	773500007	0	1
+эноксапарин	Medication	Allergy to enoxaparin (finding)	294873006	0	1
+эноксимон	Medication	Allergy to enoximone (finding)	295060001	0	1
+энфлуран	Medication	Allergy to enflurane (finding)	293712006	0	1
+эпирубицин	Medication	Allergy to epirubicin (finding)	293767007	0	1
+эрвиназа	Medication	Allergy to crisantaspase (finding)	293784001	0	1
+эрголин	Medication	Allergy to ergoline derivative (finding)	294799006	0	1
+эринит	Medication	Allergy to pentaerithrityl tetranitrate (finding)	295091007	0	1
+эритромицин	Medication	Allergy to erythromycin (finding)	91931000	0	1
+эритропоэтин	Medication	Allergy to erythropoietin (finding)	294843002	0	1
+эртапенем	Medication	Allergy to ertapenem (finding)	441725009	0	1
+эссенциале форте	Medication	Allergy to phospholipid (finding)	782590001	0	1
+эстроген	Medication	Allergy to estrogen (finding)	294781003	0	1
+этазол	Medication	Sulfaethidole (substance)	4480008	4480008	0
+этакриновая кислота	Medication	Allergy to etacrynic acid (finding)	295002006	0	1
+этамбутол	Medication	Allergy to ethambutol (finding)	294615008	0	1
+этамзилат	Medication	Allergy to etamsylate (finding)	294885003	0	1
+этанерцепт	Medication	Etanercept (substance)	387045004	387045004	0
+этиловый спирт	Medication	Allergy to ethyl alcohol (finding)	420140004	0	1
+этомидат	Medication	Allergy to etomidate (finding)	293706001	0	1
+этопозид	Medication	Allergy to etoposide (finding)	293777009	0	1
+этосуксимид	Medication	Allergy to ethosuximide (finding)	293870003	0	1
+эуфиллин	Medication	Allergy to aminophylline (finding)	294158008	0	1
+эфедрин	Medication	Allergy to ephedrine (finding)	294062000	0	1
+эфокс	Medication	Isosorbide mononitrate (substance)	386854005	386854005	0
+эффералган	Medication	Allergy to paracetamol (finding)	293584003	0	1
+адельфан	Medication	 allergy to hydrochlorothiazide	294995009	0	1
+адсорбированная коклюшно-дифтерийно-столбнячная вакцина	Medication	allergy to pertussis vaccine	294651001	0	1
+азалид	Medication	Allergy to macrolide (finding)	860907004	860907004	0
+акдс	Medication	allergy to pertussis vaccine,	294651001	0	1
+актрапид	Medication	insulin soluble	412222002	412222002	0
+алоэ	Medication	aloe	391739009	391739009	0
+альбуцид	Medication	allergy to sulfacetamide	294582008	0	1
+амброзия	Medication	ambrosia	69334009	69334009	0
+амидопирин	Medication	aminophenazone	65458000	65458000	0
+амикин	Medication	allergy to amikacin	294463002	0	1
+амоксициллин клавуланат	Medication	allergy to amoxicillin	294505008	0	1
+амплодипин	Medication	allergy to amlodipine	294002003	0	1
+анальгетик	Medication	allergy to analgesic	293582004	0	1
+анатоксин	Medication	Tetanus antitoxin	427004002	427004002	0
+анестезия	Medication	allergy to anesthetic	418434002	418434002	0
+анестетик	Medication	allergy to anesthetic	418434002	418434002	0
+антагонист кальция	Medication	Substance with calcitonin gene-related peptide receptor antagonist mechanism of action	771595002	771595002	0
+антибиотикотерапия	Medication	allergy to antibiotic	1,10E+14	1,10E+14	0
+антигистаминный препарат	Medication	Substance with histamine receptor antagonist mechanism of action (substance)	372806008	372806008	0
+антисептик	Medication	Medicinal product acting as antiseptic agent	261276004	261276004	0
+антиэметик	Medication	0	0	0	3
+аплегин	Medication	0	0	0	3
+арифон	Medication	allergy to indapamide	295024006	295024006	0
+аск	Medication	0	0	0	3
+аскофен	Medication	allergy to caffeine, allergy to paracetamol	418344001, 293584003	418344001, 293584003	0
+аспаркам	Medication	0	0	0	3
+аспирин упса	Medication	0	0	0	3
+асс	Medication	allergy to acetylcysteine	294097003	294097003	0
+атф	Medication	Adenosine triphosphate	76711004	76711004	0
+ахд	Medication	methylcarbinol	0	0	3
+ацетон	Medication	acetone	333511003	333511003	0
+баб	Medication	 Substance with beta-2 adrenergic receptor antagonist mechanism of action	37751002	37751002	0
+базал	Medication	Isophane insulin	66384003	66384003	0
+базофилы	Medication	Basophil, segmented 	30061004	30061004	0
+баралгин	Medication	allergy to metamizole sodium	702602008	702602008	0
+безспиртовой кожный антисептик	Medication	Medicinal product acting as antiseptic agent	261276004	261276004	0
+белковый компонент крови	Medication	protein component of blood	0	0	3
+бендамустин	Medication	bendamustine	427812009	427812009	0
+берлитион	Medication	thioctic acid	715405004	715405004	0
+бивалос	Medication	Strontium ranelate	432727001	432727001	0
+биопарокс	Medication	Fusafungine	422751003	422751003	0
+биофлаваноиды	Medication	0	0	0	3
+бициллин	Medication	0	0	0	3
+бициллинопрофилактика	Medication	0	0	0	3
+блокаторы	Medication	0	0	0	3
+бром	Medication	0	0	0	3
+вазилип	Medication	allergy to simvastatin	294971007	294971007	0
+вессел	Medication	0	0	0	3
+вещество	Medication	0	0	0	3
+вильпрафен	Medication	0	0	0	3
+висмут	Medication	0	0	0	3
+гаммаглобулин	Medication	Immunoglobulin G (substance)	29246005	29246005	0
+гастропротекторы	Medication	gastroprotector	0	0	3
+гипс	Medication	Investment material - gypsum-bonded	256623001	256623001	0
+гкс	Medication	Glucocorticoid	419933005	419933005	0
+глазные капли	Medication	0	0	0	3
+глобулин	Medication	0	0	0	3
+глюкокортикоидные	Medication	Glucocorticoid	419933005	419933005	0
+глюконат	Medication	gluconate	0	0	3
+гоновакцина	Medication	gonococcal vaccina	120834006	120834006	0
+гормоны	Medication	hormones	0	0	3
+грамицидин	Medication	Gramicidin	387524003	387524003	0
+группа пенициллина	Medication	allergy to penicillin	91936005	91936005	0
+денол	Medication	Product containing only tripotassium dicitratobismuthate	777865009	777865009	0
+дикаин	Medication	allergy to tetracaine	293725003	293725003	0
+жаропонижающие	Medication	0	0	0	3
+железо	Medication	 Iron	3829006	3829006	0
+зубной протез	Medication	denture	277037004	277037004	0
+иммуноглобулин	Medication	allergy to immunoglobulin	830260004	0	1
+ингибитор	Medication	inhibitor	0	0	3
+инсаляция	Medication	insalation	0	0	3
+инфузия	Medication	infusion	36576007	36576007	0
+инъекция	Medication	injection	129326001	129326001	0
+ипратерол	Medication	 allergy to fenoterol	294039002	0	1
+испарение	Medication	0	258317007	258317007	0
+калий	Medication	potassium	88480006	88480006	0
+кальций	Medication	calcium	5540006	5540006	0
+канефрон	Medication	herbal drug	349365008	349365008	0
+капли	Medication	0	258317007	258317007	0
+капли в нос	Medication	nasal drops	385152001	385152001	0
+кислота	Medication	0	258317007	258317007	0
+кислота салициловая	Medication	allergy to salicylic acid	767474001	0	1
+клавуланат	Medication	0	258317007	258317007	0
+компонент	Medication	0	258317007	258317007	0
+компонент наркоза	Medication	Anesthetic	373266007	373266007	0
+контраст	Medication	0	0	0	3
+концентрат	Medication	0	0	0	3
+корень солодки	Medication	Allergy to licorice 	293647009	293647009	0
+креатинин	Medication	creatinine	15373003	15373003	0
+кризанол	Medication	aurotioprol	0	0	3
+криолечение	Medication	0	258317007	258317007	0
+криоплазма	Medication	cryoplasm	0	0	3
+ксантинол	Medication	xantinol nicotinate	715408002	715408002	0
+лакосамид	Medication	lacosamide	441532003	441532003	0
+лактам	Medication	lactam	771577000	771577000	0
+лаппаконитина гидробромид	Medication	lappaconitine	0	0	3
+лейкопластырь	Medication	Adhesive plaster 	830076001	830076001	0
+лек препарат	Medication	0	258317007	258317007	0
+лекоптин	Medication	allergy to verapamil	294005001	0	1
+лиотон	Medication	heparin sodium	714566008	714566008	0
+лс	Medication	0	258317007	258317007	0
+магнезия	Medication	magnesium hydroxide	387337001	387337001	0
+магнелис	Medication	 allergy to pyridoxine	767479006	0	1
+мазь синтомициновая	Medication	Allergy to chloramphenicol	294593005	0	1
+мезим	Medication	allergy to pancreatin	293659008	0	1
+ментол	Medication	menthol	387414008	387414008	0
+мепивакаин	Medication	mepivacaine	391673008	391673008	0
+микстура	Medication	0	258317007	258317007	0
+мом	Medication	 levomenol	768492006	768492006	0
+мономицин	Medication	monomycini	0	0	3
+мочегонные	Medication	diuretics	372695000	372695000	0
+мумие	Medication	mummy	0	0	3
+напроксен	Medication	allergy to naproxen	293625009	0	1
+наркоз	Medication	anesthesia	33653009	33653009	0
+натрий	Medication	sodium	39972003	39972003	0
+нашатырный спирт	Medication	ammonia	421024009	421024009	0
+небулайзер	Medication	0	258317007	258317007	0
+никотиновая к та	Medication	allergy to nicotinic acid	294929006	0	1
+нитраты	Medication	nitrates	89119000	89119000	0
+нитро глицерин	Medication	Glyceryl trinitrate	387404004	387404004	0
+нитропрепарат	Medication	nitrates	89119000	89119000	0
+нитросорбит	Medication	isosorbide dinitrate	387332007	387332007	0
+нифекард	Medication	allergy to nifedipine	293996002	0	1
+но шпа	Medication	drotaverine	719933003	719933003	0
+новорапид	Medication	insulin aspart	388452006	388452006	0
+ноотропы	Medication	nootropic	0	0	3
+норсульфазол	Medication	sulfathiazole	387093005	387093005	0
+нпв	Medication	Non-steroidal anti-inflammatory agent	372665008	372665008	0
+нпвп	Medication	Non-steroidal anti-inflammatory agent	372665008	372665008	0
+нпвс	Medication	Non-steroidal anti-inflammatory agent	372665008	372665008	0
+нпх	Medication	Isophane insulin	66384003	66384003	0
+нутрилон	Medication	baby food	227983006	227983006	0
+обезболивающие	Medication	 Analgesic	373265006	373265006	0
+обезболивающий препарат	Medication	 Analgesic	373265006	373265006	0
+облигатные аллергены	Medication	obligate allergen	0	0	3
+оксипрогестерон	Medication	hydroxyprogesterone caproate	367551006	367551006	0
+оксолиновая мазь	Medication	dioxotetrahydrooxytetrahydronaphthaline	0	0	3
+омега	Medication	N-3 fatty acid	226365003	226365003	0
+омнадрен	Medication	allergy to testosterone	294776007	0	1
+перевязочный материал	Medication	0	258317007	258317007	0
+пиаскледин	Medication	piascledine	0	0	3
+плазменный компонент	Medication	0	258317007	258317007	0
+поливитамины	Medication	multivitamins	329413004	329413004	0
+преднизолоновая мазь	Medication	allergy to prednisolone	294707002	0	1
+препарат для наркоза	Medication	anesthesia	33653009	33653009	0
+препарат йода	Medication	iodine	325330005	325330005	0
+прививка	Medication	0	258317007	258317007	0
+протез	Medication	0	258317007	258317007	0
+противостолбнячная сыворотка	Medication	Tetanus antitoxin	427004002	427004002	0
+псс	Medication	Tetanus antitoxin	427004002	427004002	0
+пустырник	Medication	leonuri herba	0	0	3
+раствор	Medication	0	258317007	258317007	0
+раствор салициловый	Medication	acetylsalicylic acid	387458008	387458008	0
+реопирин	Medication	Phenylbutazone	273951003	273951003	0
+ретард	Medication	0	258317007	258317007	0
+ринсулин	Medication	insulin soluble	412222002	412222002	0
+ритуксимаб	Medication	rituximab	386919002	386919002	0
+ромашка	Medication	Chamomile extract	256214007	256214007	0
+салазопрепараты	Medication	Glucocorticoid	419933005	419933005	0
+салицилаты	Medication	allergy to salicylate	293585002	0	1
+салициловый раствор	Medication	acetylsalicylic acid	387458008	387458008	0
+салициловый спирт	Medication	Allergy to salicylic acid 	767474001	0	1
+сартаны	Medication	angiotensin antagonists	0	0	3
+свечи	Medication	0	258317007	258317007	0
+симбикорт	Medication	allergy to budesonide,	294712001	0	1
+синтомициновая мазь	Medication	allergy to chloramphenicol	294593005	0	1
+сироп	Medication	0	258317007	258317007	0
+снотворное	Medication	hypnotic	255656005	255656005	0
+солютаб	Medication	0	258317007	258317007	0
+сорбифер	Medication	ferrous sulfate 	0	0	3
+сосудосуживающие	Medication	vasoconstrictor	372881000	372881000	0
+спирт	Medication	allergy to alcohol	420140004	0	1
+спирт салициловый	Medication	Allergy to salicylic acid 	767474001	0	1
+спиртсодержащий препарат	Medication	allergy to alcohol	420140004	0	1
+стероид	Medication	0	258317007	258317007	0
+строфантин	Medication	Strophanthin	55491006	55491006	0
+сульбактам	Medication	 Sulbactam	96008003	96008003	0
+сульфаметоксазол	Medication	sulphamethoxazole	363528007	363528007	0
+сульфамиды	Medication	sulfanilamide	386569003	386569003	0
+сульфаниламиды	Medication	sulfanilamide	386569003	386569003	0
+сульфат	Medication	0	258317007	258317007	0
+сульфаты	Medication	0	258317007	258317007	0
+сульфопрепарат	Medication	0	258317007	258317007	0
+тантум	Medication	benzydamine	421319000	421319000	0
+тантум верде	Medication	benzydamine	421319000	421319000	0
+тауредон	Medication	allergy to sodium aurothiomalate	294239008	0	1
+тетрациклиновый ряд	Medication	allergy to tetracycline	294592000	0	1
+тетрациклины	Medication	allergy to tetracycline	294592000	0	1
+тзмр	Medication	0	258317007	258317007	0
+тикагрелор	Medication	ticagrelor	704464003	704464003	0
+тиоктацид	Medication	thioctic acid	715405004	715405004	0
+тиоктовая кислота	Medication	thioctic acid	715405004	715405004	0
+тиосульфат	Medication	0	258317007	258317007	0
+токоферол	Medication	tocopherol	37237003	37237003	0
+тонзилгон	Medication	Medicinal product acting as antiseptic agent	261276004	261276004	0
+тримекаин	Medication	trimecaine	0	0	3
+тромбоконцентрат	Medication	Platelet product	256395009	256395009	0
+туберкулин	Medication	allergy to tuberculin	293635003	0	1
+туберкулиновые	Medication	allergy to tuberculin	293635003	0	1
+ультракаин	Medication	articaine, epinephrine	703107005, 372575003	703107005, 372575003	0
+феррум форте	Medication	 Iron	3829006	3829006	0
+физиологический раствор	Medication	sodium chloride	387390002	387390002	0
+фитотерапия	Medication	herbal drug	349365008	349365008	0
+флебодиа	Medication	diosmin	8143001	8143001	0
+флемоксин	Medication	allergy to amoxicillin	294505008	0	1
+фосаванс	Medication	alendronic acid, colecalciferol	391730008, 108943009	391730008, 108943009	0
+фторхинолоны	Medication	allergy to fluoroquinolone	830259009	0	1
+хлорбутин	Medication	allergy to chlorambucil	293747003	0	1
+хлорная вода	Medication	chlorine	29276003	29276003	0
+хлорсодержащие	Medication	chlorine	29276003	29276003	0
+хлорсодержащий раствор	Medication	chlorine	29276003	29276003	0
+хумулин	Medication	Isophane insulin	66384003	66384003	0
+цефалоспорины	Medication	allergy to cephalosporin	294532003	0	1
+цитрамон	Medication	allergy to caffeine, allergy to paracetamol	 418344001, 293584003	0	1
+элевит	Medication	multivitamins, mineral	329413004, 87918000	329413004, 87918000	0
+эплеренон	Medication	eplerenone	398699008	398699008	0
+эреспал	Medication	fenspiride	712690002	712690002	0
+авелокс	Medication	moxifloxacin	371296007	371296007	0
+агент	Medication	0	258317007	258317007	0
+аевит	Medication	Multivitamin agent (substance)	412250002	412250002	0
+аксетин	Medication	allergy to cefuroxime	294542001	0	1
+актовегин	Medication	deproteinized calf blood haemoderivative	0	0	3
+аллапинин	Medication	lappaconitine hydrobromide	0	0	3
+аллохол	Medication	allergy to activated charcoal	294265007	0	1
+алфлутоп	Medication	chondroprotector	0	0	3
+альбумин	Medication	albumin	52454007	52454007	0
+амбробене	Medication	ambroxol	703353005	703353005	0
+амелотекс	Medication	meloxicam	387055000	387055000	0
+аминазин	Medication	allergy to chlorpromazine	293935001	0	1
+аминокапроновая кислота	Medication	aminocaproic acid	360246003	360246003	0
+ампиокс	Medication	allergy to ampicillin, 	294506009	0	1
+амприлан	Medication	ramipril	386872004	386872004	0
+анальгин	Medication	allergy to metamizole sodium	702602008	0	1
+анаприлин	Medication	allergy to propranolol	293982008	0	1
+анаферон	Medication	antibodies to human interferon gamma	0	0	3
+андипал	Medication	 allergy to metamizole sodium, allergy to papaverine, allergy to phenobarbital	702602008, 294242002, 293865005	0	1
+андрогель	Medication	allergy to testosterone	294776007	0	1
+антигриппин	Medication	allergy to paracetamol, allergy to chlorphenamine, allergy to ascorbic acid	293584003, 294129005, 294940003	0	1
+арава	Medication	leflunomide	386981009	386981009	0
+арбидол	Medication	umifenovir	0	0	3
+ардуан	Medication	pipecuronium bromide	108456008	108456008	0
+артрофоон	Medication	anti-human tumor necrosis factor alpha	0	0	3
+аскорил	Medication	allergy to bromhexine,  allergy to salbutamol	830081005, 294037000	0	1
+аскорутин	Medication	allergy to ascorbic acid, 	294940003	0	1
+атенолол	Medication	allergy to atenolol	293965006	0	1
+аторис	Medication	allergy to atorvastatin	1,32E+13	0	1
+аугментин	Medication	allergy to amoxicillin,	294505008	0	1
+ацетилсалициловая кислота	Medication	acetylsalicylic acid	387458008	387458008	0
+ацц	Medication	allergy to acetylcysteine	294097003	0	1
+бензонал	Medication	Allergy to barbiturate	860900002	0	1
+беродуал	Medication	 allergy to fenoterol	294039002	0	1
+бетагистин	Medication	allergy to betahistine	295103004	0	1
+бетадин	Medication	povidone-iodine	386989006	386989006	0
+беталок	Medication	allergy to metoprolol	293970004	0	1
+бетасерк	Medication	allergy to betahistine	295103004	0	1
+бисептол	Medication	allergy to sulfamethoxazole and trimethoprim	294594004	0	1
+бисопролол	Medication	allergy to bisoprolol	293967003	0	1
+бонвива	Medication	ibandronic acid	420936009	420936009	0
+брилинта	Medication	ticagrelor	704464003	704464003	0
+ваготил	Medication	policresulen	703562008	703562008	0
+вазобрал	Medication	allergy to caffeine	418344001	0	1
+валериана	Medication	Valerian extract 	412266000	412266000	0
+валз	Medication	valsartan	386876001	386876001	0
+валз н	Medication	valsartan	386876001	386876001	0
+валидол	Medication	levomenthol solution in menthyl isovalerate	0	0	3
+валсартан	Medication	valsartan	386876001	386876001	0
+вальсакор	Medication	valsartan	386876001	386876001	0
+верапамил	Medication	allergy to verapamil	294005001	0	1
+вестибо	Medication	allergy to betahistine	295103004	0	1
+виброцил	Medication	allergy to dimetindene, allergy to phenylephrine	294132008, 294030003	0	1
+викасол	Medication	menadione	412244007	412244007	0
+винпоцетин	Medication	vinpocetine	716059001	716059001	0
+вольтарен	Medication	allergy to diclofenac	293613006	0	1
+габапентин	Medication	allergy to gabapentin	293861001	0	1
+галазолин	Medication	allergy to xylometazoline	294031004	0	1
+галидор	Medication	bencyclane	0	0	3
+галоперидол	Medication	allergy to haloperidol	293924006	0	1
+ганфорт	Medication	bimatoprost, Substance with beta adrenergic receptor antagonist mechanism of action	395300006, 373254001	395300006, 373254001	0
+геделикс	Medication	herbal drug	349365008	349365008	0
+гексорал	Medication	allergy to hexetidine	294407003	0	1
+гелофузин	Medication	Allergy to gelatin	294847001	0	1
+гепариновая мазь	Medication	heparin sodium	714566008	714566008	0
+гидреа	Medication	allergy to hydroxycarbamide	293781009	0	1
+гидрокортизон	Medication	allergy to hydrocortisone	294679007	0	1
+гизаар	Medication	 allergy to hydrochlorothiazide	294995009	0	1
+гипотиазид	Medication	allergy to hydrochlorothiazide	294995009	0	1
+глюкоза	Medication	glucose	111138002	111138002	0
+гордокс	Medication	allergy to aprotinin	294889009	0	1
+грандаксин	Medication	Medicinal product acting as anxiolytic agent	255635008	255635008	0
+дексалгин	Medication	dexketoprofen	396018005	396018005	0
+дексаметазон	Medication	allergy to dexamethasone	294702008	0	1
+делагил	Medication	allergy to chloroquine	294394003	0	1
+детралекс	Medication	diosmin	8143001	8143001	0
+диабетон	Medication	allergy to gliclazide	294733005	0	1
+диакарб	Medication	allergy to acetazolamide	295030006	0	1
+дибазол	Medication	Medicinal product acting as vasodilator	58944007	58944007	0
+дигоксин	Medication	allergy to digoxin	295054001	0	1
+диклофенак	Medication	allergy to diclofenac	293613006	0	1
+дилтиазем	Medication	allergy to diltiazem	294003008	0	1
+димексид	Medication	allergy to dimethyl sulfoxide	293796008	0	1
+диован	Medication	valsartan	386876001	386876001	0
+диприван	Medication	allergy to propofol	293708000	0	1
+дипроспан	Medication	allergy to betamethasone	294678004	0	1
+диротон	Medication	lisinopril	386873009	386873009	0
+допегит	Medication	allergy to methyldopa	294055009	0	1
+дроперидол	Medication	allergy to droperidol	293923000	0	1
+дротаверин	Medication	drotaverine	719933003	719933003	0
+дюфастон	Medication	allergy to dydrogesterone	294747009	0	1
+зилт	Medication	clopidogrel	386952008	386952008	0
+зовиракс	Medication	allergy to aciclovir	294384008	0	1
+зокардис	Medication	zofenopril	703662000	703662000	0
+зофран	Medication	ondansetron	372487007	372487007	0
+изокет	Medication	isosorbide dinitrate	387332007	387332007	0
+изоптин	Medication	allergy to verapamil	294005001	0	1
+иматиниб	Medication	imatinib	414460008	414460008	0
+индапамид	Medication	allergy to indapamide	295024006	0	1
+индометацин	Medication	allergy to indometacin	293620004	0	1
+инстенон	Medication	allergy to etamivan	294100008	0	1
+кавинтон	Medication	vinpocetine	716059001	716059001	0
+кагоцел	Medication	antiviral	372701006	372701006	0
+календула	Medication	herbal drug	349365008	349365008	0
+калипсол	Medication	allergy to ketamine	293707005	0	1
+калчек	Medication	allergy to amlodipine	294002003	0	1
+кальцемин	Medication	calcium	5540006	5540006	0
+камфора	Medication	camphor	412108007	412108007	0
+капотен	Medication	captopril	387160004	387160004	0
+капсикам	Medication	dimethylsulfoxide	115535002	115535002	0
+каптоприл	Medication	captopril	387160004	387160004	0
+кардикет	Medication	isosorbide dinitrate	387332007	387332007	0
+кардиомагнил	Medication	acetylsalicylic acid, magnesium hydroxide	387458008, 387337001	387458008, 387337001	0
+карсил	Medication	herbal drug	349365008	349365008	0
+квинакс	Medication	azapentacene	710947007	710947007	0
+кетанов	Medication	allergy to ketorolac	293622007	0	1
+кеторол	Medication	allergy to ketorolac	293622007	0	1
+кларитин	Medication	allergy to loratadine	294114008	0	1
+клацид	Medication	allergy to clarithromycin	294471003	0	1
+клексан	Medication	allergy to enoxaparin	294873006	0	1
+клопидогрел	Medication	clopidogrel	386952008	386952008	0
+клофелин	Medication	allergy to clonidine	294058006	0	1
+козаар	Medication	losartan	373567002	373567002	0
+кокарбоксилаза	Medication	vitamin b	103069003	103069003	0
+компливит	Medication	Multivitamin agent (substance)	412250002	412250002	0
+кораксан	Medication	ivabradine	421228002	421228002	0
+корвалол	Medication	allergy to phenobarbital,	293865005	0	1
+корватон	Medication	molsidomine	698196008	698196008	0
+коргликон	Medication	Plant cardiac glycoside	86922003	86922003	0
+кордафлекс	Medication	allergy to nifedipine	293996002	0	1
+коринфар	Medication	allergy to nifedipine	293996002	0	1
+коронал	Medication	allergy to bisoprolol	293967003	0	1
+кортексин	Medication	polypeptides of the cerebral cortex of cattle	0	0	3
+крестор	Medication	allergy to rosuvastatin	718537002	0	1
+кристепин	Medication	dihydroergocristine, clopamide, reserpine	64447003, 429462003, 387447004	64447003, 429462003, 387447004	0
+ксефокам	Medication	lornoxicam	412013008	412013008	0
+кубицин	Medication	daptomycin	406439009	406439009	0
+купренил	Medication	allergy to penicillamine	294291008	0	1
+курантил	Medication	allergy to dipyridamole	295077001	0	1
+лазикс	Medication	allergy to furosemide	295000003	0	1
+лазолван	Medication	ambroxol	703353005	703353005	0
+лантус	Medication	insulin glargine	126212009	126212009	0
+левомеколь	Medication	 allergy to chloramphenicol	294593005	0	1
+левофлоксацин	Medication	allergy to levofloxacin	1,32E+13	0	1
+леркамен	Medication	lercanidipine	395986007	395986007	0
+лефлобакт	Medication	allergy to levofloxacin	1,32E+13	0	1
+лефлуномид	Medication	leflunomide	386981009	386981009	0
+лизиноприл	Medication	lisinopril	386873009	386873009	0
+линезолид	Medication	linezolid	387056004	387056004	0
+липоевая кислота	Medication	thioctic acid	715405004	715405004	0
+липримар	Medication	allergy to atorvastatin	1,32E+13	0	1
+лирика	Medication	pregabalin	415159003	415159003	0
+листенон	Medication	suxamethonium	372724004	372724004	0
+лозап	Medication	losartan	373567002	373567002	0
+лозартан	Medication	losartan	373567002	373567002	0
+локрен	Medication	allergy to betaxolol	293966007	0	1
+лопирел	Medication	clopidogrel	386952008	386952008	0
+лориста	Medication	losartan	373567002	373567002	0
+магнерот	Medication	magnesium orotate	420129007	420129007	0
+макропен	Medication	midecamycin	703378009	703378009	0
+мальтофер	Medication	 Iron	3829006	3829006	0
+манинил	Medication	allergy to glibenclamide	294731007	0	1
+мезатон	Medication	allergy to phenylephrine	294030003	0	1
+мексидол	Medication	Food antioxidant 	228103005	228103005	0
+мелоксикам	Medication	meloxicam	387055000	387055000	0
+мельдоний	Medication	Metabolite	767279008	767279008	0
+меновазин	Medication	allergy to benzocaine, allergy to procaine	293724004, 293727006, 	0	1
+мерказолил	Medication	thiamazole	37656002	37656002	0
+меронем	Medication	allergy to meropenem	442022002	0	1
+метацин	Medication	metocinium iodide	0	0	3
+метопролол	Medication	allergy to metoprolol	293970004	0	1
+метрогил	Medication	allergy to metronidazole	294567003	0	1
+метронидазол	Medication	allergy to metronidazole	294567003	0	1
+метформин	Medication	allergy to metformin	294740006	0	1
+миакальцик	Medication	allergy to calcitonin	294839001	0	1
+мидокалм	Medication	tolperisone	703717006	703717006	0
+микардис	Medication	telmisartan	387069000	387069000	0
+милдронат	Medication	meldonium	0	0	3
+мильгамма	Medication	allergy to pyridoxine, allergy to thiamine, allergy to cyanocobalamin, allergy to lidocaine	767479006, 767478003, 294934005, 293722000	0	1
+мирамистин	Medication	Medicinal product acting as antiseptic agent	261276004	261276004	0
+мовалис	Medication	meloxicam	387055000	387055000	0
+моноприл	Medication	fosinopril	372510000	372510000	0
+моночинкве	Medication	isosorbide mononitrate	386854005	386854005	0
+монурал	Medication	allergy to fosfomycin	294559006	0	1
+морфин	Medication	allergy to morphine	293601001	0	1
+мукалтин	Medication	Medicinal product acting as expectorant	7836006	7836006	0
+найз	Medication	nimesulide	703479000	703479000	0
+налбуфин	Medication	Substance with opioid receptor agonist mechanism of action	404642006	404642006	0
+нафтизин	Medication	allergy to naphazoline	294028000	0	1
+небиволол	Medication	allergy to nebivolol	772021008	0	1
+небилет	Medication	allergy to nebivolol	772021008	0	1
+нейромидин	Medication	Substance with acetylcholinesterase inhibitor mechanism of action	771384007	771384007	0
+нейромультивит	Medication	vitamin b	103069003	103069003	0
+нетромицин	Medication	allergy to netilmicin	294465009	0	1
+нимесил	Medication	nimesulide	703479000	703479000	0
+нитроглицерин	Medication	allergy to glyceryl trinitrate	295079003	0	1
+нитроминт	Medication	allergy to glyceryl trinitrate	295079003	0	1
+нитросорбид	Medication	isosorbide dinitrate	387332007	387332007	0
+нитроспрей	Medication	allergy to glyceryl trinitrate	295079003	0	1
+нифедипин	Medication	allergy to nifedipine	293996002	0	1
+новокаинамид	Medication	allergy to procainamide	294982004	0	1
+нолипрел	Medication	allergy to indapamide	295024006	0	1
+нольпаза	Medication	allergy to pantoprazole	1,19E+13	0	1
+норваск	Medication	allergy to amlodipine	294002003	0	1
+оксациллин	Medication	oxacillin	372868007	372868007	0
+окситоцин	Medication	allergy to oxytocin	294823008	0	1
+олететрин	Medication	allergy to tetracycline	294592000	0	1
+омез	Medication	allergy to omeprazole	293655002	0	1
+омепразол	Medication	allergy to omeprazole	293655002	0	1
+омнипак	Medication	iohexol	407985008	407985008	0
+орнидазол	Medication	ornidazole	442924004	442924004	0
+ортофен	Medication	allergy to diclofenac	293613006	0	1
+офлоксацин	Medication	allergy to ofloxacin	294489002	0	1
+палин	Medication	pipemidic acid	702807004	702807004	0
+панангин	Medication	Mineral	87918000	87918000	0
+пантогам	Medication	hopantenic acid	0	0	3
+папазол	Medication	allergy to papaverine	294242002	0	1
+пенталгин	Medication	allergy to caffeine, allergy to naproxen, allergy to paracetamol, allergy to pheniramine	418344001, 293625009, 293584003, 294138007	0	1
+пентамин	Medication	azamethonium bromide	0	0	3
+периндоприл	Medication	perindopril	372916001	372916001	0
+пиносол	Medication	herbal drug	349365008	349365008	0
+пипольфен	Medication	allergy to promethazine	294126003	0	1
+плазма	Medication	albumin	52454007	52454007	0
+плаквенил	Medication	allergy to hydroxychloroquine	294393009	0	1
+прегабалин	Medication	pregabalin	415159003	415159003	0
+преднизолон	Medication	allergy to prednisolone	294707002	0	1
+предуктал	Medication	trimetazidine	703365009	703365009	0
+престариум	Medication	perindopril	372916001	372916001	0
+прогестерон	Medication	allergy to progesterone	294748004	0	1
+промедол	Medication	trimeperidine	96180005	96180005	0
+пропанорм	Medication	allergy to propafenone	294983009	0	1
+пропицил	Medication	allergy to propylthiouracil	294676000	0	1
+прополис	Medication	propolis	411318007	411318007	0
+ранитидин	Medication	allergy to ranitidine	293653009	0	1
+раствор рингера	Medication	potassium chloride, calcium chloride, sodium chloride	420155008, 387377009, 387390002	420155008, 387377009, 387390002	0
+реамберин	Medication	Antidote	372892004	372892004	0
+реланиум	Medication	allergy to diazepam	293902006	0	1
+ремантадин	Medication	rimantadine	372532009	372532009	0
+ремикейд	Medication	infliximab	386891004	386891004	0
+ренитек	Medication	enalapril	372658000	372658000	0
+реополиглюкин	Medication	dextran	372650007	372650007	0
+рибоксин	Medication	inosine	102640000	102640000	0
+рингера раствор	Medication	potassium chloride, calcium chloride, sodium chloride	420155008, 387377009, 387390002	420155008, 387377009, 387390002	0
+роксера	Medication	allergy to rosuvastatin	718537002	0	1
+роксигексал	Medication	roxithromycin	713769006	713769006	0
+роцефин	Medication	allergy to ceftriaxone	294551009	0	1
+салициловая кислота	Medication	allergy to salicylic acid	767474001	0	1
+сибазон	Medication	allergy to diazepam	293902006	0	1
+сиднофарм	Medication	molsidomine	698196008	698196008	0
+симгал	Medication	allergy to simvastatin	294971007	0	1
+сингуляр	Medication	montelukast	320883008	320883008	0
+синтомицин	Medication	allergy to chloramphenicol	294593005	0	1
+синупрет	Medication	herbal drug	349365008	349365008	0
+сирдалуд	Medication	tizanidine	373440006	373440006	0
+скандонест	Medication	mepivacaine	391673008	391673008	0
+солкосерил	Medication	bos taurus	34618005	34618005	0
+сомнол	Medication	allergy to zopiclone	293874007	0	1
+сотагексал	Medication	allergy to sotalol	293983003	0	1
+соталекс	Medication	allergy to sotalol	293983003	0	1
+соталол	Medication	allergy to sotalol	293983003	0	1
+спазган	Medication	allergy to metamizole sodium	702602008	0	1
+спазмалгон	Medication	allergy to metamizole sodium, 	702602008	0	1
+спазмалин	Medication	allergy to metamizole sodium, 	702602008	0	1
+спиронолактон	Medication	allergy to spironolactone	295009002	0	1
+стрептоцид	Medication	sulfanilamide	386569003	386569003	0
+сульперазон	Medication	cefoperazone, sulbactam	372743004, 398916003	372743004, 398916003	0
+сульфадимезин	Medication	allergy to sulfadimidine	294575009	0	1
+сульфадиметоксин	Medication	allergy to sulfadimethoxine	294574008	0	1
+сульфасалазин	Medication	allergy to sulfasalazine	293663001	0	1
+сумамед	Medication	allergy to azithromycin	294472005	0	1
+супракс	Medication	allergy to cefixime	294548002	0	1
+супрастин	Medication	Substance with histamine receptor antagonist mechanism of action	372806008	372806008	0
+таваник	Medication	allergy to levofloxacin	1,32E+13	0	1
+тавегил	Medication	allergy to clemastine	294118006	0	1
+таривид	Medication	allergy to ofloxacin	294489002	0	1
+темпалгин	Medication	allergy to metamizole sodium	702602008	0	1
+тержинан	Medication	Medicinal product acting as antiparasitic	767570008	767570008	0
+тизерцин	Medication	allergy to levomepromazine	293929001	0	1
+тимолол	Medication	allergy to timolol	293984009	0	1
+тиолепта	Medication	thioctic acid	715405004	715405004	0
+тирозол	Medication	thiamazole	37656002	37656002	0
+торвакард	Medication	allergy to atorvastatin	1,32E+13	0	1
+трамал	Medication	allergy to tramadol	450767000	0	1
+трентал	Medication	allergy to pentoxifylline	295094004	0	1
+тригрим	Medication	allergy to torasemide	295004007	0	1
+триметазидин	Medication	trimetazidine	703365009	703365009	0
+трихопол	Medication	allergy to metronidazole	294567003	0	1
+троксевазин	Medication	troxerutin	70706009	70706009	0
+тромбо асс	Medication	acetylsalicylic acid	387458008	387458008	0
+ультравист	Medication	iopromide	395756007	395756007	0
+унитиол	Medication	allergy to dimercaprol	294283004	0	1
+упсарин упса	Medication	acetylsalicylic acid	387458008	387458008	0
+урдокса	Medication	allergy to ursodeoxycholic acid	293701006	0	1
+утрожестан	Medication	allergy to progesterone	294748004	0	1
+феназепам	Medication	Medicinal product acting as anxiolytic agent	255635008	255635008	0
+фенилин	Medication	allergy to phenindione	294883005	0	1
+фенобарбитал	Medication	allergy to phenobarbital	293865005	0	1
+физиотенз	Medication	moxonidine	395805008	395805008	0
+финалгон	Medication	nonivamide	703838008	703838008	0
+финлепсин	Medication	allergy to carbamazepine	293867002	0	1
+флуимуцил	Medication	allergy to acetylcysteine	294097003	0	1
+флюкостат	Medication	allergy to fluconazole	294365005	0	1
+фраксипарин	Medication	nadroparin	699946002	699946002	0
+фурадонин	Medication	allergy to nitrofurantoin	294478009	0	1
+фурацилин	Medication	allergy to nitrofural	294481004	0	1
+фуросемид	Medication	allergy to furosemide	295000003	0	1
+хартил	Medication	ramipril	386872004	386872004	0
+хумалог	Medication	insulin lispro	412210000	412210000	0
+целебрекс	Medication	celecoxib	370187009	370187009	0
+цераксон	Medication	citicoline	698027009	698027009	0
+церукал	Medication	allergy to metoclopramide	293675006	0	1
+цефазолин	Medication	allergy to cefazolin	294537009	0	1
+цефотаксим	Medication	 Antibiotic	255631004	255631004	0
+цефтазидим	Medication	allergy to ceftazidime	294546003	0	1
+циклоферон	Medication	meglumine acridоnacetate	0	0	3
+циклофосфан	Medication	allergy to cyclophosphamide	293748008	0	1
+циннаризин	Medication	allergy to cinnarizine	294130000	0	1
+ципринол	Medication	allergy to ciprofloxacin	294487000	0	1
+ципролет	Medication	allergy to ciprofloxacin	294487000	0	1
+цитозар	Medication	allergy to cytarabine	293775001	0	1
+цитофлавин	Medication	 allergy to nicotinamide, 	294935006	0	1
+цифран	Medication	allergy to ciprofloxacin	294487000	0	1
+эгилок	Medication	allergy to metoprolol	293970004	0	1
+эглонил	Medication	allergy to sulpiride	293914003	0	1
+эдицин	Medication	allergy to vancomycin	294475007	0	1
+эксфорж	Medication	valsartan	386876001	386876001	0
+элафра	Medication	leflunomide	386981009	386981009	0
+эметрон	Medication	ondansetron	372487007	372487007	0
+эналаприл	Medication	enalapril	372658000	372658000	0
+энап	Medication	enalapril	372658000	372658000	0
+этацизин	Medication	Antiarrhythmic agent	372813008	372813008	0
+криопреципитат	Medication	Cryoprecipitate (substance)	420599006	0	1
+фибраты	Medication				
+аат	Medication				
+дифлюкан	Medication				
+адреналин	Medication				
+Септанест	Medication				
+теопэк	Medication				
+таваник	Medication				
+поливалентная аллергия	Medication				
+венофундин	Medication				
+противостолбнячная сыворотка	Medication				
+сыворотка	Medication				
+Достинекс	Medication				
+бета блокатор	Medication				
+метипред	Medication				
+Феррум Лек	Medication				
+сиофор	Medication				
+тимоглобулин	Medication				
+сенсибилизация	Medication				
+Лекарственная аллергия	Medication				
+пыльцевой аллерген	Medication				
+бигуаниды	Medication				
+Варфарекс	Medication				
+вит С	Medication				
+витамин С	Medication				
+азалиды	Medication				
+препараты железа	Medication				
+короткий инсулин	Medication				
+лактобактерин	Medication				
+бифидобактерии	Medication				
+каберголин	Medication				
+неуточненный аллерген	Medication				
+ацетилсалициловая к-та	Medication				
+декарис	Medication				
+тиреостатик	Medication				
+мабтера	Medication				
+азолиды	Medication				
+препараты железа	Medication				
+вакцинация	Medication	0	0	0	3
+абкм	Medication				
+ацетилсалициловая к-та	Medication				
