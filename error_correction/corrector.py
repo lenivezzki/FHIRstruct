@@ -11,7 +11,7 @@ class ErrorCorrector(object):
 
     def __init__(self):
         sym_spell = symspellpy.SymSpell(max_dictionary_edit_distance=2, prefix_length=7)
-        sym_spell.load_dictionary('dict_with_freq.txt', term_index=0, count_index=1, separator='\t', encoding='cp1251')
+        sym_spell.load_dictionary('../data/dict_with_freq.txt', term_index=0, count_index=1, separator='\t', encoding='cp1251')
         vocabulary_result = sym_spell.words
         self.sym_spell = sym_spell
         self.dict_ = vocabulary_result.keys()
