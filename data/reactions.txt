@@ -1,0 +1,245 @@
+ID	parent	snomed_name	snomed_code	snomed_partial_code	is_direct
+сыпь	Manifestation	Eruption of skin (disorder)	271807003	0	1
+отек	Manifestation	Edema (finding)	267038008	0	1
+першение в горле	Manifestation	Throat irritation (finding)	162400007	0	1
+гемия	Manifestation	0	0	0	3
+дрожь	Manifestation	Tremor (finding)	 26079004	0	1
+онемение тела	Manifestation	Numbness (finding)	44077006	0	1
+кашель	Manifestation	 Cough (finding)	49727002	0	1
+сухость во рту	Manifestation	Xerostomia (disorder)	87715008	0	1
+респираторный аллергоз	Manifestation	Allergic disorder of respiratory system (disorder)	421092003	0	1
+пыльцевая сенсибилизация	Manifestation	Allergy to pollen (finding)	300910009	0	1
+сенсибилизация	Manifestation	0	0	0	3
+атопический дерматит	Manifestation	Atopic dermatitis (disorder)	24079001	0	1
+зуд	Manifestation	Itching (finding)	418290006	0	1
+кожные проявления	Manifestation	Eruption of skin (disorder)	271807003	0	1
+выделения из носа	Manifestation	 Nasal discharge (finding)	64531003	0	1
+потливость	Manifestation	Sweating (finding)	415690000	0	1
+аллергический отек	Manifestation	Edema (finding)	267038008	267038008	0
+отек верхнего века	Manifestation	 Edema of upper eyelid (disorder)	700339006	0	1
+Астма	Manifestation	Asthma (disorder)	195967001	0	1
+поливалентная аллергия	Manifestation	0	0	0	3
+сухой кашель	Manifestation	Dry cough (finding)	11833005	0	1
+отек слизистой	Manifestation	Mucous membrane edema (finding)	95353000	0	1
+сезонный поллиноз	Manifestation	Allergic rhinitis caused by pollen (disorder), Seasonal allergic conjunctivitis (disorder)	21719001, 231855007	21719001, 231855007	0
+расстройство дыхания	Manifestation	 Abnormal breathing (finding)	386813002	0	1
+бронхиальная астма	Manifestation	Asthma (disorder)	195967001	0	1
+слабость	Manifestation	Asthenia (finding)	13791008	0	1
+все плывет перед глазами	Manifestation	Dizziness (finding)	404640003	0	1
+плохая переносимость	Manifestation	Increased intolerance (finding)	102461004	0	1
+аллергодерматит	Manifestation	Allergic contact dermatitis (disorder)	238575004	0	1
+расстройство	Manifestation	0	0	0	3
+затруднение дыхания	Manifestation	 Abnormal breathing (finding)	386813002	0	1
+контактный дерматит	Manifestation	Allergic contact dermatitis (disorder)	238575004	0	1
+шелушение	Manifestation	Peeling of skin (finding)	271767006	0	1
+преснкопальное состояние	Manifestation	 Near syncope (disorder)	427461000	0	1
+отек глаз	Manifestation	Periorbital edema (disorder)	49563000	0	1
+боль в эпигастрии	Manifestation	 Epigastric pain (finding)	79922009	0	1
+анафилактическая реакция	Manifestation	Anaphylaxis (disorder)	39579001	0	1
+покраснение лица	Manifestation	 Face goes red (finding)	271811009	0	1
+глаз покраснение	Manifestation	Bilateral red eyes (disorder)	1,22E+16	0	1
+покраснение глаз 	Manifestation	Bilateral red eyes (disorder)	1,22E+16	0	1
+токсикодермия	Manifestation	Toxicoderma (disorder)	95326004	0	1
+отек слизистой носа	Manifestation	 Nasal mucosa edematous (finding)	19452008	0	1
+раздражение	Manifestation	0	0	0	3
+ангионевротический отек	Manifestation	Allergic angioedema (disorder)	402387002	0	1
+токсикоаллергический лекарственный дерматит	Manifestation	Drug-induced erythroderma (disorder)	238992001	0	1
+лекарственный дерматит	Manifestation	Drug-induced erythroderma (disorder)	238992001	0	1
+токсикоаллергический дерматит	Manifestation	Drug-induced erythroderma (disorder)	238992001	0	1
+кровянистые буллы	Manifestation	On examination - skin bullae (disorder)	268988001	268988001	0
+высыпания	Manifestation	Eruption of skin (disorder)	271807003	0	1
+дизлексия	Manifestation	Dyslexia (finding)	59770006	0	1
+синкопальное состояние	Manifestation	 Syncope (disorder)	271594007	0	1
+поллиноз	Manifestation	Allergic rhinitis caused by pollen (disorder)	21719001	0	1
+температура	Manifestation	High temperature (physical force)	285717004	0	1
+удушье	Manifestation	 Asphyxiation (event)	66466001	0	1
+трудно дышать	Manifestation	Choking sensation (finding)	373909009	0	1
+дыхание	Manifestation	0	0	0	3
+бронхоспазм	Manifestation	Bronchospasm (finding)	4386001	0	1
+дерматит	Manifestation	Inflammatory dermatosis (disorder)	703938007	0	1
+рвота	Manifestation	 Vomiting (disorder)	422400008	0	1
+судорога	Manifestation	 Spasm (finding)	45352006	0	1
+экд	Manifestation	 Exudative edema (disorder)	704648003	0	1
+обморок	Manifestation	Syncope (disorder)	271594007	0	1
+ринит	Manifestation	Rhinitis (disorder)	70076002	0	1
+шок	Manifestation	Shock (disorder)	27942005	0	1
+насморк	Manifestation	Rhinitis (disorder)	70076002	0	1
+фотодерматоз	Manifestation	Phototoxic dermatitis (disorder)	53597009	0	1
+гиперемия	Manifestation	Hyperemia (morphologic abnormality)	30098003	0	1
+синкопе	Manifestation	Syncope (disorder)	271594007	0	1
+синкопэ	Manifestation	Syncope (disorder)	271594007	0	1
+тахикардия	Manifestation	Tachycardia (finding)	3424008	0	1
+анафилактический шок	Manifestation	Shock co-occurrent and due to anaphylaxis (disorder)	735173007	0	1
+коллапс	Manifestation	Collapse (finding)	271787007	0	1
+головокружение	Manifestation	Dizziness (finding)	404640003	0	1
+ринорея	Manifestation	 Nasal discharge (finding)	64531003	0	1
+тошнота	Manifestation	Nausea (finding)	422587007	0	1
+ба	Manifestation	Asthma (disorder)	195967001	0	1
+высыпание	Manifestation	Eruption of skin (disorder)	271807003	0	1
+потеря сознания	Manifestation	Syncope (disorder)	271594007	0	1
+ожог	Manifestation	Burn (disorder)	125666000	0	1
+диарея	Manifestation	Diarrhea (finding)	62315008	0	1
+боль	Manifestation	 Pain (finding)	22253000	0	1
+отек квинке	Manifestation	Angioedema (disorder)	41291007	0	1
+гипотензия	Manifestation	Low blood pressure (disorder)	45007003	0	1
+конъюнктивит	Manifestation	Conjunctivitis (disorder)	9826008	0	1
+риноконъюнктивит	Manifestation	Conjunctivitis (disorder), Rhinitis (disorder)	9826008, 70076002	9826008, 70076002	0
+анафилаксия	Manifestation	Anaphylaxis (disorder)	39579001	0	1
+фотосенсибилизация	Manifestation	Phototoxic dermatitis (disorder)	53597009	0	1
+покраснение	Manifestation	Red color (finding)	386713009	0	1
+экзема	Manifestation	 Eczema (disorder)	43116000	0	1
+чихание	Manifestation	Sneezing (finding)	76067001	0	1
+озноб	Manifestation	Chill (finding)	43724002	0	1
+эритема	Manifestation	Erythema (finding)	247441003	0	1
+нейродермит	Manifestation	Lichen simplex chronicus (disorder)	53891004	53891004	0
+пресинкопе	Manifestation	 Near syncope (disorder)	427461000	0	1
+пресинкопэ	Manifestation	 Near syncope (disorder)	427461000	0	1
+слезотечение	Manifestation	Complaining of excess tears (finding)	272031009	0	1
+гинекомастия	Manifestation	Gynecomastia (disorder)	4754008	0	1
+падение ад	Manifestation	Postural drop in blood pressure (finding)	271648003	0	1
+снижение ад	Manifestation	Increase in pressure (physical force)	285665007	0	1
+бронхообструкция	Manifestation	Obstruction of bronchus (disorder)	36925002	0	1
+стоматит	Manifestation	Stomatitis (disorder)	6117000	0	1
+головная боль	Manifestation	Headache (finding)	25064002	0	1
+возбуждение	Manifestation	0	0	0	3
+подташнивать	Manifestation	Nausea (finding)	422587007	0	1
+гипотензивная болезнь	Manifestation	Low blood pressure (disorder)	45007003	0	1
+холецистит	Manifestation	Cholecystitis (disorder)	76581006	0	1
+кровотечение	Manifestation	Bleeding (finding)	131148009	0	1
+пятно	Manifestation	Eruption of skin (disorder)	271807003	0	1
+приступ	Manifestation	0	0	0	3
+дискомфорт	Manifestation	Discomfort (finding)	247347003	0	1
+изжога	Manifestation	Heartburn (finding)	16331000	0	1
+одышка	Manifestation	Dyspnea (finding)	267036007	0	1
+предобморочное состояние	Manifestation	 Near syncope (disorder)	427461000	0	1
+тремор	Manifestation	Tremor (finding)	26079004	0	1
+першение	Manifestation	Throat irritation (finding)	162400007	0	1
+повышение температуры	Manifestation	High temperature (physical force)	285717004	0	1
+колит	Manifestation	Colitis (disorder)	64226004	0	1
+заложенность	Manifestation	Congestion of nasal sinus (disorder)	82297005	0	1
+чсс	Manifestation	Tachycardia (finding)	3424008	0	1
+риноррея	Manifestation	Nasal discharge (finding)	64531003	0	1
+галлюцинация	Manifestation	Hallucinations (finding)	7011001	0	1
+плохо	Manifestation	Feeling bad (finding)	225013001	0	1
+альвеолит	Manifestation	Extrinsic allergic alveolitis (disorder)	37471005	0	1
+судрога	Manifestation	Seizure (finding)	91175000	0	1
+вздутие	Manifestation	Swollen abdomen (finding)	60728008	0	1
+спазм	Manifestation	Spasm (finding)	45352006	0	1
+отечность	Manifestation	Eruption of skin (disorder)	271807003	0	1
+лимфостаз	Manifestation	Lymphostasis (finding)	445066006	0	1
+сонливость	Manifestation	Drowsy (finding)	271782001	0	1
+трахеобронхит	Manifestation	Tracheobronchitis (disorder)	13617004	0	1
+брадикардия	Manifestation	Bradycardia (finding)	48867003	0	1
+лихорадка	Manifestation	Fever (finding)	386661006	0	1
+желтуха	Manifestation	Jaundice (finding)	18165001	0	1
+нефротоксичность	Manifestation	Toxic nephropathy (disorder)	236514003	0	1
+экзантема	Manifestation	Eruption (morphologic abnormality)	1806006	0	1
+панкреатит	Manifestation	Pancreatitis (disorder)	75694006	0	1
+кандидозный вагинит	Manifestation	Allergic vaginitis (disorder)	60967006	0	1
+сухость	Manifestation	0	0	0	3
+энтероколит	Manifestation	Inflammation of small intestine and colon (disorder)	43752006	0	1
+аритмия	Manifestation	Cardiac arrhythmia (disorder)	698247007	0	1
+кератоконъюнктивит	Manifestation	Keratoconjunctivitis (disorder)	88151007	0	1
+трахеит	Manifestation	Tracheitis (disorder)	62994001	0	1
+лейкопения	Manifestation	Leukopenia (disorder)	84828003	0	1
+гипертермия	Manifestation	Body temperature above reference range (finding)	50177009	0	1
+псориаз	Manifestation	Psoriasis (disorder)	9014002	0	1
+конвит	Manifestation	Conjunctivitis (disorder)	9826008	0	1
+понижение	Manifestation	0	0	0	3
+бронхиолит	Manifestation	Bronchiolitis (disorder)	4120002	0	1
+диспепсия	Manifestation	Indigestion (finding)	162031009	0	1
+вульвит	Manifestation	 Allergic vulvitis (disorder)	22775002	0	1
+васкулит	Manifestation	Hypersensitivity angiitis (disorder)	60555002	0	1
+кандидоз	Manifestation	Candidiasis (disorder)	78048006	0	1
+нейролепсия	Manifestation	Neuroleptic adverse reaction (disorder)	292371003	0	1
+аллергоз	Manifestation	Allergic disposition (finding)	609328004	0	1
+пурпура	Manifestation	Purpura (finding)	423902002	0	1
+выделение	Manifestation	0	0	0	3
+сердцебиение	Manifestation	0	0	0	3
+обструкция	Manifestation	Obstruction (morphologic abnormality)	26036001	0	1
+запор	Manifestation	Constipation (finding)	14760008	0	1
+аллергодерматоз	Manifestation	Inflammatory dermatosis (disorder)	703938007	0	1
+скарлатина	Manifestation	Scarlet fever (disorder)	30242009	0	1
+аспергиллез	Manifestation	Aspergillosis (disorder)	65553006	0	1
+волдырь	Manifestation	Blister (morphologic abnormality)	339008	0	1
+тромб	Manifestation	Thrombus (morphologic abnormality)	396339007	0	1
+кома	Manifestation	Coma (disorder)	371632003	0	1
+возникновение	Manifestation	0	0	0	3
+риносинусит	Manifestation	 Acute rhinosinusitis (disorder)	431231008	0	1
+кардиомиопатия	Manifestation	Cardiomyopathy (disorder)	85898001	0	1
+эозинофилия	Manifestation	Eosinophil count raised (finding)	386789004	0	1
+снижаться	Manifestation	0	0	0	3
+ухудшение	Manifestation	0	0	0	3
+некроз	Manifestation	Necrosis (morphologic abnormality)	6574001	0	1
+тромбофилия	Manifestation	Thrombophilia (disorder)	234467004	0	1
+бо	Manifestation	0	0	0	3
+крапивница	Manifestation	Urticaria (disorder)	126485001	0	1
+дискомфорт в эпигастрии	Manifestation	Epigastric discomfort (finding)	119416008	0	1
+шаткость походки	Manifestation	Idiopathic bilateral vestibulopathy (disorder)	737580004	0	1
+выраженная гипотензия	Manifestation	Low blood pressure (disorder)	45007003	0	1
+генерализованные судороги	Manifestation	Generalized-onset seizures (disorder)	4619009	0	1
+кашлевой синдром	Manifestation	Cough (finding)	49727002	0	1
+отек языка	Manifestation	Edema of the tongue (disorder)	81950002	0	1
+пятна	Manifestation	Eruption of skin (disorder)	271807003	0	1
+приступообразный кашель	Manifestation	Paroxysmal cough (finding)	43025008	0	1
+кожный зуд	Manifestation	Pruritic rash (disorder)	64144002	0	1
+дисбиоз кишечника	Manifestation	Irritable bowel syndrome (disorder)	10743008	0	1
+обсыпания	Manifestation	Eruption of skin (disorder)	271807003	0	1
+заложенность носа	Manifestation	Nasal congestion (finding)	68235000	0	1
+зуд кожи	Manifestation	Itching of skin (finding)	418363000	0	1
+синусит	Manifestation	Sinusitis (disorder)	36971009	0	1
+остановка сердца	Manifestation	Heart failure (disorder)	84114007	0	1
+тиреотоксикоз	Manifestation	Thyrotoxicosis (disorder)	90739004	0	1
+жжение	Manifestation	0	0	0	3
+ФЖ	Manifestation	Ventricular fibrillation (disorder)	71908006	0	1
+фибрилляция желудочков	Manifestation	Ventricular fibrillation (disorder)	71908006	0	1
+уртикарная сыпь	Manifestation	Weal (disorder)	247472004	0	1
+ангиит	Manifestation	Vasculitis (disorder)	31996006	0	1
+нарушения ритма	Manifestation	Finding of heart rhythm (finding)	301112006	301112006	0
+инфузионная реакция	Manifestation	0	0	0	3
+алопеция	Manifestation	Alopecia (disorder)	56317004	0	1
+икота	Manifestation	Hiccoughs (finding)	65958008	0	1
+пресинкопальное состояние	Manifestation	 Near syncope (disorder)	427461000	0	1
+изменение зрения	Manifestation	Visual symptoms (finding)	162274004	0	1
+расстройство стула	Manifestation	Diarrhea (finding)	62315008	0	1
+отсутствие аналгезирующего эффекта	Manifestation	0	0	0	3
+холодовая реакция	Manifestation	Cold-induced dermatosis (disorder)	238506004	0	1
+онемение	Manifestation	Numbness (finding)	44077006	0	1
+анафилактоидная трансфузионная реакция	Manifestation	Anaphylactoid reaction (disorder)	35001004	0	1
+трансфузионная реакция	Manifestation	 Blood transfusion reaction (disorder)	82545002	0	1
+анафилактоидная реакция	Manifestation	Anaphylactoid reaction (disorder)	35001004	0	1
+гипотензивная реакция	Manifestation	Low blood pressure (disorder)	45007003	0	1
+реакция	Manifestation	0	0	0	3
+коллаптоидное состояние	Manifestation	Collapse (finding)	271787007	0	1
+увеличение ЧСС	Manifestation	Tachycardia (finding)	3424008	0	1
+приступ бронхобструкции	Manifestation	Obstruction of bronchus (disorder)	36925002	0	1
+гемиплегия	Manifestation	Hemiplegia (disorder)	50582007	0	1
+зудящий дерматоз	Manifestation	Inflammatory dermatosis (disorder)	703938007	703938007	0
+дерматоз	Manifestation	Inflammatory dermatosis (disorder)	703938007	0	1
+буллезное поражение	Manifestation	On examination - skin bullae (disorder)	268988001	0	1
+гиперсаливация	Manifestation	Excessive salivation (disorder)	53827007	0	1
+артралгия	Manifestation	 Joint pain (finding)	57676002	0	1
+токсико аллергическая реакция	Manifestation	Toxicoderma (disorder)	95326004	0	1
+инфекционно-аллергический миокардит	Manifestation	Toxic myocarditis (disorder)	31993003	0	1
+блефарит	Manifestation	Blepharitis (disorder)	41446000	0	1
+бронхит	Manifestation	Allergic bronchitis (disorder)	405720007	0	1
+ларинготрахеит	Manifestation	Laryngotracheitis (disorder)	55130001	0	1
+гипертензивная реакция	Manifestation	Hypertensive disorder, systemic arterial (disorder)	38341003	0	1
+Синдром сухого глаза	Manifestation	Tear film insufficiency (disorder)	46152009	0	1
+воспаление	Manifestation	0	0	0	3
+воспаление в месте укола	Manifestation	Injection site inflammation (disorder)	95391000	0	1
+потеря ориентации	Manifestation	Disorientated (finding)	62476001	0	1
+повышение давления	Manifestation	Increased pressure (finding)	51590001	0	1
+повышение ад	Manifestation	Increased pressure (finding)	51590001	0	1
+явление метеоризма	Manifestation	Passing flatus (finding)	249504006	0	1
+метеоризм	Manifestation	Passing flatus (finding)	249504006	0	1
+стул	Manifestation	Finding of defecation (finding)	300373008	0	1
+обильный стул	Manifestation	Finding of defecation (finding)	300373008	0	1
+с. Кушинга	Manifestation	Hypercortisolism (disorder)	47270006	0	1
+синдром Кушинга	Manifestation	Hypercortisolism (disorder)	47270006	0	1
+жар	Manifestation	High temperature (physical force)	285717004	0	1
+агрессивное состояние	Manifestation				
+сывороточная болезнь	Manifestation				
+геморрагический цистит	Manifestation				
+непереносимость	Manifestation				
+диспепсические проявления	Manifestation				
