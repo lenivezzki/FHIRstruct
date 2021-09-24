@@ -1,0 +1,1 @@
+{"birthDate": "1940-01-13", "gender": "female", "identifier": [{"value": "Patient/1648"}, {"system": "СНИЛС", "value": "000-000-000 00"}], "name": [{"family": "Фамилия1648", "given": ["Имя1648", "Отчество1648"], "text": "Имя1648 Отчество1648 Фамилия1648"}], "resourceType": "Patient"}
