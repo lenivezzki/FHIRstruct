@@ -23,26 +23,26 @@ class Extractor(object):
     def __init__(self):
         self.morph = pymorphy2.MorphAnalyzer()
         self.gnc = gnc_relation()
-        R = pd.read_csv('reactions.txt', encoding='cp1251', sep='\t',
+        R = pd.read_csv('../data/reactions.txt', encoding='cp1251', sep='\t',
                         engine='python', header=0, error_bad_lines=False)
-        React_list = list(R['Исходное наименование'])
+        React_list = list(R['ID'])
         React_list = recursive_flatten_generator(list((unique_everseen(React_list))))
 
-        E = pd.read_csv('environment.txt', encoding='cp1251', sep='\t',
+        E = pd.read_csv('../data/environment.txt', encoding='cp1251', sep='\t',
                         engine='python', header=0, error_bad_lines=False)
-        env_list = list(E['Исходное наименование'])
+        env_list = list(E['ID'])
         env_list = [item.lower() for item in env_list]
         env_list = recursive_flatten_generator(list((unique_everseen(env_list))))
 
-        F = pd.read_csv('food.txt', encoding='cp1251', sep='\t',
+        F = pd.read_csv('../data/food.txt', encoding='cp1251', sep='\t',
                         engine='python', header=0, error_bad_lines=False)
-        food_list = list(F['Исходное наименование'])
+        food_list = list(F['ID'])
         food_list = [item.lower() for item in food_list]
         food_list = recursive_flatten_generator(list((unique_everseen(food_list))))
 
-        M = pd.read_csv('medication.txt', encoding='cp1251', sep='\t',
+        M = pd.read_csv('../data/medication.txt', encoding='cp1251', sep='\t',
                         engine='python', header=0, error_bad_lines=False)
-        med_list = list(M['Исходное наименование'])
+        med_list = list(M['ID'])
         med_list = [item.lower() for item in med_list]
         med_list = recursive_flatten_generator(list((unique_everseen(med_list))))
 
