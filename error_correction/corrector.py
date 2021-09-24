@@ -35,7 +35,7 @@ class ErrorCorrector(object):
         regex10 = r'[а-я][А-Я]{2,5}'  # аллергияХУГГЕ -> аллергия ХУГГЕ
 
         clean_text = string.replace('..', '.')
-        clean_text = string.replace(',,', ',')
+        clean_text = clean_text.replace(',,', ',')
         clean_text = put_spaces(regex1, clean_text)
         clean_text = put_spaces(regex2, clean_text)
         clean_text = put_spaces(regex4, clean_text)
