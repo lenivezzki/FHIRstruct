@@ -1,0 +1,679 @@
+ID	parent	snomed_name	snomed_code	snomed_partial_code	is_direct
+Абачи	Environment	Triplochiton scleroxylon specific diagnostic allergen extract (product)	411882006	411882006	0
+Абаши	Environment	Triplochiton scleroxylon specific diagnostic allergen extract (product)	411882006	411882006	0
+Абиетиновая	Environment	Abietic acid (substance)	255994007	255994007	0
+Абиетиновая кислота	Environment	Abietic acid (substance)	255994007	255994007	0
+Азорубин	Environment	Azorubin S stain (substance)	2159007	2159007	0
+Акация	Environment	Acacia longifolia specific diagnostic allergen extract (product)	411898004	411898004	0
+Акрил	Environment	Acrylic dental material (substance)	256511000	256511000	0
+Алкалаза	Environment	Alkalase (substance)	711129007	711129007	0
+Алоэ	Environment	Aloe (organism)	16326002	16326002	0
+Алоэ настоящее	Environment	Aloe (organism)	16326002	16326002	0
+альбумин	Environment	Allergy to albumin solution (finding)	294854007	0	1
+Амарант	Environment	Amaranthus retroflexus specific diagnostic allergen extract (product)	411941007	411941007	0
+Амброзия	Environment	Ambrosia (organism)	69334009	69334009	0
+Амброзия голометельчатая	Environment	Ambrosia psilostachya specific diagnostic allergen extract (product)	411943005	411943005	0
+Амброзия полыннолистная	Environment	Ambrosia elatior specific diagnostic allergen extract (product)	411942000	411942000	0
+Амброзия трехраздельная	Environment	Ambrosia trifida specific diagnostic allergen extract (product)	411944004	411944004	0
+Амилоглюкозидаза	Environment	Glucan 1,4-alpha-glucosidase (substance)	8385005	8385005	0
+аммоний	Environment	Ammonium ion (substance)	116770007	116770007	0
+ангидрид	Environment	0	0	0	3
+Анизакис	Environment	Anisakis specific diagnostic allergen extract (product)	411895001	411895001	0
+Апельсин	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Арника	Environment	Contact dermatitis caused by arnica (disorder)	40712008	0	1
+Аскарида	Environment	Ascaris specific diagnostic allergen extract (product)	411896000	411896000	0
+астра	Environment	Aster (organism)	75640001	75640001	0
+Ацетат	Environment	Acetate (substance)	54526002	54526002	0
+Ацетатное волокно	Environment	Cellulose acetate (substance)	68024001	68024001	0
+багульник	Environment	Rosemary (substance)	227410007	227410007	0
+Бадяга	Environment	0	0	0	3
+Баия-грас	Environment	Paspalum notatum diagnostic allergen extract (product)	411788002	411788002	0
+Бактерия	Environment	Bacterium (organism)	41146007	41146007	0
+бальзам	Environment	0	0	0	3
+бассейн	Environment	Swimming pool water (substance)	446278008	446278008	0
+Бегония	Environment	0	0	0	3
+Бегония вечноцветущая	Environment	0	0	0	3
+Белье	Environment	Linen cloth (physical object)	989005	989005	0
+Береза	Environment	Betula verrucosa specific diagnostic allergen extract (product)	411903000	411903000	0
+Библиотечная пыль	Environment	Allergy to dust (finding)	390952000	0	1
+Бирючина	Environment	Ligustrum vulgare specific diagnostic allergen extract (product)	411917009	411917009	0
+Бирючина обыкновенная	Environment	Ligustrum vulgare specific diagnostic allergen extract (product)	411917009	411917009	0
+блоха	Environment	Allergic reaction caused by flea bite (disorder)	419884005	0	1
+Боярышник	Environment	Crataegus monogyna (substance)	763200007	763200007	0
+Бромелин	Environment	Bromelains (substance)	387219000	387219000	0
+Бузина	Environment	Sambucus nigra specific diagnostic allergen extract (product)	411931009	411931009	0
+Бузина болотная	Environment	Sambucus nigra specific diagnostic allergen extract (product)	411931009	411931009	0
+Бук	Environment	Fagus grandifolia specific diagnostic allergen extract (product)	411913008	411913008	0
+Бук лесной	Environment	Fagus grandifolia specific diagnostic allergen extract (product)	411913008	411913008	0
+Бук опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Бумага	Environment	Paper, device (physical object)	50833004	50833004	0
+Бумажная оса полиста	Environment	Polistes species venom specific diagnostic allergen extract (product)	411938003	411938003	0
+Бухарник	Environment	Holcus lanatus diagnostic allergen extract (product)	411785004	411785004	0
+Бухарник шерстистый	Environment	Holcus lanatus diagnostic allergen extract (product)	411785004	411785004	0
+БФ-6	Environment	Glue (substance)	57126000	57126000	0
+бык	Environment	Allergy to animal dander (finding)	232347008	232347008	0
+бытовой аллерген	Environment	Environmental allergy (finding)	426232007	0	1
+Бычий сывороточный альбумин	Environment	Bovine serum albumin diagnostic allergen extract (product)	411564001	411564001	0
+Вата	Environment	Cotton wool (physical object)	256562002	256562002	0
+Верблюд	Environment	Genus Camelus (organism), Allergy to animal protein (finding)	423870005, 717234006	423870005, 717234006	0
+Верблюжья шерсть	Environment	Allergy to wool (finding)	425605001	425605001	0
+Верест	Environment	0	0	0	3
+Верест обыкновенный	Environment	0	0	0	3
+Ветер	Environment	Wind (event)	90569008	90569008	0
+Вискоза	Environment	Cellulose (substance)	68992005	68992005	0
+Вишня	Environment	Allergy to cherry (finding)	418051002	0	1
+Вишня дерево	Environment	Allergy to cherry (finding)	418051002	0	1
+Вишня опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Вишня птичья	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+влажность	Environment	Humidity (physical force)	3525006	3525006	0
+вода	Environment	Water (substance)	11713004	11713004	0
+Воздух	Environment	Air (substance)	15158005	15158005	0
+Волнистый попугай	Environment	Melopsittacus undulatus (organism), Allergy to animal protein (finding)	9574000, 717234006	9574000, 717234006	0
+Волнистый попугай оперение	Environment	Budgerigar feathers diagnostic allergen extract (product)	411568003	411568003	0
+Волнистый попугай перья	Environment	Budgerigar feathers diagnostic allergen extract (product)	411568003	411568003	0
+Волнистый попугай помет	Environment	Budgerigar droppings diagnostic allergen extract (product)	411565000	411565000	0
+Волнистый попугай сыворотка	Environment	Budgerigar serum proteins diagnostic allergen extract (product)	411566004	411566004	0
+волокно	Environment	Fiber (substance)	400293002	400293002	0
+Волос	Environment	Hair structure (body structure)	386045008	386045008	0
+Волосы	Environment	Hair structure (body structure)	386045009	386045009	0
+газ	Environment	Gaseous substance (substance)	74947009	74947009	0
+Гвоздика	Environment	Eupomatus dianthus (organism)	13574007	13574007	0
+Гвоздика голландская	Environment	Eupomatus dianthus (organism)	13574007	13574007	0
+Гексаметилендиизоцианат	Environment	Hexamethylene diisocyanate (substance)	711146005	711146005	0
+Гель	Environment	0	0	0	3
+гель для электродов кардиографа	Environment	0	0	0	3
+Гемицеллюлоза	Environment	Hemicellulose (substance)	53834009	53834009	0
+Георгина	Environment	Dahlia (organism)	256335006	256335006	0
+Георгина культурная	Environment	Dahlia (organism)	256335006	256335006	0
+Герань	Environment	Geranium (organism)	19713002	19713002	0
+Гербера	Environment	0	0	0	3
+Гиацинт	Environment	Hyacinthus (organism)	112621004	112621004	0
+Гибискус	Environment	0	0	0	3
+Гикори	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Гинкго	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Гинкго билоба	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+голубиного яйца	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+голубиное яйцо	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Голубь	Environment	Genus Columba (organism), Allergy to animal protein (finding)	422719004, 717234006	422719004, 717234006	0
+Голубь оперение	Environment	Pigeon feathers diagnostic allergen extract (product)	411604008	411604008	0
+Голубь перья	Environment	Pigeon feathers diagnostic allergen extract (product)	411604008	411604008	0
+Голубь помет	Environment	Pigeon droppings diagnostic allergen extract (product)	411603002	411603002	0
+Голубь сыворотка	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+горец	Environment	0	0	0	3
+Горец птичий	Environment	0	0	0	3
+Граб	Environment	Carpinus betulus specific diagnostic allergen extract (product)	411904006	411904006	0
+Граб обыкновенный	Environment	Carpinus betulus specific diagnostic allergen extract (product)	411904006	411904006	0
+грас	Environment	Family Poaceae (organism)	422304003	422304003	0
+грасс	Environment	Family Poaceae (organism)	422304003	422304003	0
+Гребенник	Environment	0	0	0	3
+Гребенник обыкновенный	Environment	0	0	0	3
+Грецкий орех	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Грецкий орех опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Грибковая плесень	Environment	Allergy to mold (finding), Allergy to fungus (finding)	419474003, 703934009	419474003, 703934009	0
+грибок	Environment	Allergy to fungus (finding)	703934009	0	1
+Гуаровая смола	Environment	Allergy to guar gum (finding)	294741005	0	1
+Гуммиарабик	Environment	Acacia species diagnostic allergen extract (product)	411614004	411614004	0
+гусиного яйца	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+гусиное яйцо	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Гусиные перья	Environment	Goose feathers diagnostic allergen extract (product)	411588004	411588004	0
+Гусь	Environment	Anser anser (organism), Allergy to animal protein (finding)	125104001, 717234006	125104001, 717234006	0
+Гусь оперение	Environment	Goose feathers diagnostic allergen extract (product)	411588004	411588004	0
+Гусь перья	Environment	Goose feathers diagnostic allergen extract (product)	411588004	411588004	0
+Гусь помет	Environment	Bird droppings (substance)	304635007	304635007	0
+Дафния	Environment	Genus Daphnia (organism)	257535001	257535001	0
+Дафния (водяная блоха)	Environment	Genus Daphnia (organism)	257535001	257535001	0
+Двукисточник 	Environment	0	0	0	3
+Двукисточник тростниковый	Environment	0	0	0	3
+дезинфектор	Environment	Disinfectant (substance)	311942001	311942001	0
+Дезодорант	Environment	Deodorant (product)	39432004	39432004	0
+дергунец	Environment	Aedes communis diagnostic allergen extract (product)	411799000	411799000	0
+дерево	Environment	Wood (substance)	14402002	14402002	0
+Деревья	Environment	Tree (organism)	22097005	22097005	0
+Дерен	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Джатовое дерево	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Джонсонова трава	Environment	Sorghum halepense diagnostic allergen extract (product)	411794005	411794005	0
+Джут	Environment	0	0	0	3
+Дикая рожь	Environment	Elymus triticoides diagnostic allergen extract (product)	411783006	411783006	0
+Дикий кабан	Environment	Sus scrofa (organism), Allergy to animal protein (finding)	78678003, 717234006	78678003, 717234006	0
+Дикий кабан эпителий	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Дифенилметандиизоцианат	Environment	Diphenylmethane diisocyanate specific immunoglobulin E (substance)	407140008	407140008	0
+домашний клещ	Environment	Allergy to Dermatophagoides farinae protein (finding)	703902000	0	1
+Домашняя пыль	Environment	Allergy to house dust (finding)	232349006	0	1
+Домовой грибок	Environment	Allergy to fungus (finding)	419263009	419263009	0
+Донник	Environment	Melilotus officinalis (organism)	84198009	84198009	0
+древесина	Environment	Wood (substance)	14402002	14402002	0
+Дрожжеподобный грибок	Environment	Allergy to fungus (finding)	419263009	419263009	0
+Дуб	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Дуб опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Дубильная 	Environment	Tannic acid (substance)	41412001	41412001	0
+Дурнишник	Environment	Xanthium commune specific diagnostic allergen extract (product)	411966006	411966006	0
+Дурнишник обыкновенный	Environment	Xanthium commune specific diagnostic allergen extract (product)	411966006	411966006	0
+Духи	Environment	Perfume (substance)	418785009	418785009	0
+Дым	Environment	Smoke (substance)	64197008	64197008	0
+Европейский шершень	Environment	Hornet (organism)	37788004	37788004	0
+Ежа	Environment	Dactylis glomerata diagnostic allergen extract (product)	411781008	411781008	0
+Ежа сборная	Environment	Dactylis glomerata diagnostic allergen extract (product)	411781008	411781008	0
+Ель	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Ель обыкновенная	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Ель опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Жасмин	Environment	Ervatamia coronaria (organism)	36952007	36952007	0
+Женьшень	Environment	Ginseng extract (substance)	412395006	412395006	0
+животное	Environment	Allergy to animal protein (finding)	717234006	0	1
+запах	Environment	Sense of smell, function (observable entity)	397686008	397686008	0
+Заяц	Environment	Genus Lepus (organism), Allergy to animal protein (finding)	1464002, 717234006	1464002, 717234006	0
+Заяц эпителий	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Зверобой	Environment	Hypericum perforatum (organism)	51621002	51621002	0
+Зверобой продырявленный	Environment	Hypericum perforatum (organism)	51621002	51621002	0
+Зеленка	Environment	Allergy to brilliant green (finding)	294448000	0	1
+Зеленые кофейные зерна	Environment	Green coffee bean specific diagnostic allergen extract (product)	411861000	411861000	0
+злаки	Environment	Cereal (substance)	23182003	23182003	0
+Златоцвет	Environment	0	0	0	3
+Золотарник	Environment	0	0	0	3
+Золотая розга	Environment	0	0	0	3
+Золотистый хомяк	Environment	Mesocricetus auratus (organism)	392389001, 717234006	392389001, 717234006	0
+Золотистый хомяк шерсть	Environment	Allergy to wool (finding)	425605001	425605001	0
+Золото	Environment	Allergy to gold (finding)	294238000	0	1
+Золотой дождь	Environment	Laburnum anagyroides (organism)	10787004	10787004	0
+Зольник	Environment	0	0	0	3
+зооаллергия	Environment	Allergy to animal protein (finding)	717234006	0	1
+Зубная паста	Environment	Toothpaste (substance)	48741003	48741003	0
+Зяблик	Environment	Finch (organism), Allergy to animal protein (finding)	41731006, 717234006	41731006, 717234006	0
+Зяблик оперение	Environment	Finch feathers diagnostic allergen extract (product)	411570007	411570007	0
+Зяблик перья	Environment	Finch feathers diagnostic allergen extract (product)	411570007	411570007	0
+Зяблик помет	Environment	Bird droppings (substance)	304635007	304635007	0
+Ива	Environment	Salix caprea specific diagnostic allergen extract (product)	411930005	411930005	0
+известь	Environment	Calcium oxide (substance)	34330005	34330005	0
+Индейка	Environment	Subfamily Meleagridinae (organism), Allergy to animal protein (finding)	425134008, 717234006	425134008, 717234006	0
+Индейка оперение	Environment	Turkey feathers diagnostic allergen extract (product)	411613005	411613005	0
+Индейка перья	Environment	Turkey feathers diagnostic allergen extract (product)	411613005	411613005	0
+Инсект	Environment	Allergy to insect protein (finding)	716187007	0	1
+инсектная	Environment	Allergy to insect protein (finding)	716187007	0	1
+Инсектная аллергия	Environment	Allergy to insect protein (finding)	716187007	0	1
+Инсектные	Environment	Allergy to insect protein (finding)	716187007	0	1
+Испагула	Environment	0	0	0	3
+кабан	Environment	Sus scrofa (organism), Allergy to animal protein (finding)	78678003, 717234006	78678003, 717234006	0
+Кайюпутовое дерево	Environment	Cajeput tree pollen (substance)	260134009	260134009	0
+камедь	Environment	Polysaccharide (substance)	71544008	71544008	0
+Камочка	Environment	Salsola kali specific diagnostic allergen extract (product)	411962008	411962008	0
+Канарейка	Environment	Serinus canaria (organism), Allergy to animal protein (finding)	396524007, 717234006	396524007, 717234006	0
+Канарейка оперение	Environment	Canary feathers diagnostic allergen extract (product)	411569006	411569006	0
+Канарейка перья	Environment	Canary feathers diagnostic allergen extract (product)	411569006	411569006	0
+Канарейка помет	Environment	Bird droppings (substance)	304635007	304635007	0
+Канарейка сыворотка	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Канифоль	Environment	Colophony (substance)	255840003	255840003	0
+Капок	Environment	0	0	0	3
+Карбоксифталевый ангидрид	Environment	Phthalic anhydride (substance)	77249007	77249007	0
+Кария	Environment	Carya pollen (substance)	472740000	472740000	0
+Кармазин	Environment	0	0	0	3
+Кармин	Environment	Dactylopius coccus diagnostic allergen extract (product)	411678007	411678007	0
+Касторовое масло	Environment	Allergy to castor oil (finding)	294318004	0	1
+Каучук	Environment	Allergy to rubber (finding)	419412007	0	1
+кашемир	Environment	American Cashmere goat breed (organism)	131617000	131617000	0
+Каштан	Environment	Castanea sativa pollen specific diagnostic allergen extract (product)	411908009	411908009	0
+Каштан конский	Environment	Aesculus hippocastanum pollen specific diagnostic allergen extract (product)	411900002	411900002	0
+кедр	Environment	Cedar pollen (substance)	289946009	289946009	0
+кедр опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Кизил	Environment	0	0	0	3
+Кипарис	Environment	Cupressus sempervirens specific diagnostic allergen extract (product)	411911005	411911005	0
+Кипарис вечнозеленый	Environment	Cupressus sempervirens specific diagnostic allergen extract (product)	411911005	411911005	0
+Кипрей	Environment	Senecio lautus (organism)	10468006	10468006	0
+Клевер	Environment	Trifolium (organism)	112604008	112604008	0
+клей	Environment	Glue (substance)	57126000	57126000	0
+клей БФ-6	Environment	Glue (substance)	57126000	57126000	0
+Клен	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Клен опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Клен ясенелистный	Environment	Acer negundo specific diagnostic allergen extract (product)	411899007	411899007	0
+клещ	Environment	Mite (organism)	84073006	84073006	0
+Клещ домашней пыли	Environment	Allergy to dust mite protein (finding)	232350006	0	1
+клещевина	Environment	Ricinus communis (organism)	35121001	35121001	0
+клещевой теранисимус	Environment	0	0	0	3
+книжная пыль	Environment	Book (physical object), Allergy to dust (finding)	278212002, 390952000	278212002, 390952000	0
+Коза	Environment	SRD goat breed (organism), Allergy to animal protein (finding)	131640001, 717234006	131640001, 717234006	0
+Коза эпителий	Environment	Goat epithelium diagnostic allergen extract (product)	411587009	411587009	0
+Колготки	Environment	Tights (physical object)	228187009	228187009	0
+Коллаген	Environment	Allergy to collagen (finding)	294888001	0	1
+Колосняк песчаный	Environment	Elymus triticoides diagnostic allergen extract (product)	411783006	411783006	0
+Колосок душистый	Environment	Anthoxanthum odoratum diagnostic allergen extract (product)	411776004	411776004	0
+Комар	Environment	Aedes communis diagnostic allergen extract (product)	411799000	411799000	0
+Комар обыкновенный	Environment	Aedes communis diagnostic allergen extract (product)	411799000	411799000	0
+Комнатная муха	Environment	Fly (organism)	10147004	10147004	0
+кондиционер	Environment	0	0	0	3
+конская перхоть	Environment	Allergy to horse dander (finding)	419063004	0	1
+кора	Environment	Allergy to wood dust (finding)	782552007	0	1
+Корова	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Корова эпителий	Environment	Cow epithelium (substance)	256410001	256410001	0
+Королевская пальма	Environment	Royal palm turkey (organism)	62124009	62124009	0
+Коронки	Environment	Structure of crown of tooth (body structure)	75628001	75628001	0
+Косметика	Environment	Allergic reaction caused by cosmetics (disorder)	418282006	0	1
+косметическое средство	Environment	Allergic reaction caused by cosmetics (disorder)	418282006	0	1
+косметическое средство от солнечных ожогов	Environment	Allergic reaction caused by cosmetics (disorder)	418282006	0	1
+Костер полевой	Environment	Brome grass pollen (substance)	260096007	260096007	0
+Кохия веничная	Environment	Kochia scoparia specific diagnostic allergen extract (product)	411955004	411955004	0
+Кошениль	Environment	Dactylopius coccus diagnostic allergen extract (product)	411678007	411678007	0
+Кошка	Environment	Allergy to cat dander (finding)	232346004	0	1
+Кошка	Environment	Felis silvestris (organism), Allergy to animal protein (finding)	33384004, 717234006	33384004, 717234006	0
+Кошка сыворотка	Environment	Cat serum albumin diagnostic allergen extract (product)	411573009	411573009	0
+Кошка эпителий	Environment	Cat epithelium (substance), Allergy to animal protein (finding)	256409006, 717234006	256409006, 717234006	0
+Красители	Environment	Allergic contact dermatitis caused by dye (disorder)	200845001	0	1
+Краситель	Environment	Allergic contact dermatitis caused by dye (disorder)	200845001	0	1
+Краска	Environment	Allergic contact dermatitis caused by dye (disorder)	200845001	0	1
+краска для волос	Environment	Allergic reaction caused by hair dye (disorder)	473104002	473104002	0
+Крем	Environment	Cream (substance)	255621006	255621006	0
+Криптомерия	Environment	Cryptomeria japonica specific diagnostic allergen extract (product)	411910006	411910006	0
+Кролик	Environment	Rabbit (organism)	88818001	88818001	0
+Кролик моча	Environment	Rabbit urine proteins diagnostic allergen extract (product)	411607001	411607001	0
+Кролик сыворотка	Environment	Rabbit serum proteins diagnostic allergen extract (product)	411606005	411606005	0
+Кролик шерсть	Environment	Allergy to wool (finding)	425605001	425605001	0
+Крыса	Environment	Rattus norvegicus (organism), Allergy to animal protein (finding)	371565004, 717234006	371565004, 717234006	0
+Крыса моча	Environment	Rat urine proteins diagnostic allergen extract (product)	411610008	411610008	0
+Крыса помет	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Крыса сыворотка	Environment	Rat serum proteins diagnostic allergen extract (product)	411609003	411609003	0
+Крыса эпителий	Environment	Rat epithelium diagnostic allergen extract (product)	411595008	411595008	0
+крысы	Environment	Rattus norvegicus (organism), Allergy to animal protein (finding)	371565004, 717234006	371565004, 717234006	0
+Кукуруза	Environment	Allergy to corn (finding)	419573007	0	1
+Куриные перья	Environment	Chicken feathers diagnostic allergen extract (product)	411575002	411575002	0
+Курица	Environment	Chicken feathers diagnostic allergen extract (product)	411575002	411575002	0
+Курица оперение	Environment	Chicken feathers diagnostic allergen extract (product)	411575002	411575002	0
+Курица перья	Environment	Chicken feathers diagnostic allergen extract (product)	411575002	411575002	0
+Курица помет	Environment	Chicken droppings diagnostic allergen extract (product)	411574003	411574003	0
+Курица сыворотка	Environment	Chicken serum proteins diagnostic allergen extract (product)	411576001	411576001	0
+Лаванда	Environment	Lavender oil (substance)	23832005	23832005	0
+Лак	Environment	Varnish (substance)	29360009	29360009	0
+лако красочные изделия	Environment	Allergy to substance (finding)	419199007	0	1
+лакокрасочное изделие	Environment	Allergy to substance (finding)	419199007	0	1
+лакокрасочные изделия	Environment	Allergy to substance (finding)	419199007	0	1
+Ландыш	Environment	Convallaria (organism)	78993001	78993001	0
+Ландыш майский	Environment	Convallaria majalis (organism)	63443005	63443005	0
+Латекс	Environment	Allergy to latex (finding)	300916003	0	1
+Лебеда	Environment	Atriplex lentiformis specific diagnostic allergen extract (product)	411947006	411947006	0
+лейкопластырь	Environment	Contact dermatitis caused by adhesive plaster (disorder)	77560002	0	1
+Лен	Environment	Linen cloth (physical object)	989005	989005	0
+Летний кипарис	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Лещина	Environment	Corylus avellana pollen specific diagnostic allergen extract (product)	411909001	411909001	0
+Лещина обыкновенная	Environment	Corylus avellana pollen specific diagnostic allergen extract (product)	411909001	411909001	0
+лжеакация	Environment	0	0	0	3
+Лжедурнишник	Environment	Iva ciliata specific diagnostic allergen extract (product)	411954000	411954000	0
+Лизоцим	Environment	Lysozyme (substance)	13477003	13477003	0
+Ликопин	Environment	Lycopene (substance)	414625009	414625009	0
+Лилия	Environment	Family Liliaceae (organism)	107637007	107637007	0
+Лимба	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Лимба опилки	Environment	Limba dust (substance)	255704008	255704008	0
+Линзы	Environment	Contact lenses, device (physical object)	57368009	57368009	0
+Липа	Environment	Tilia (substance)	769047004	769047004	0
+Липа сердцелистная	Environment	Tilia cordata specific diagnostic allergen extract (product)	411933007	411933007	0
+Липоксигеназа	Environment	Lipoxygenase (substance)	35292008	35292008	0
+Лисохвост	Environment	Allergy to grass pollen (finding)	418689008	418689008	0
+Лиственница	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Лиственница опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+личинка	Environment	Larva of class Insecta (organism)	284715001	284715001	0
+лосьон	Environment	Lotion (basic dose form)	739000003	739000003	0
+Лошадь	Environment	Family Equidae (organism), Allergy to animal protein (finding)	388441000, 717234006	388441000, 717234006	0
+Лошадь эпителий	Environment	Horse epithelium (substance)	256418008	256418008	0
+Лучистый грибок	Environment	Allergy to fungus (finding)	419263009	419263009	0
+Льяное волокно	Environment	Linen cloth (physical object)	989005	989005	0
+Люпин	Environment	Lupinus (organism)	63876004	63876004	0
+Люцерна посевная	Environment	Medicago sativa (organism)	18424005	18424005	0
+магнезия	Environment	Allergy to magnesium sulfate (finding)	293682005	0	1
+Магнолия	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Максатаза	Environment	Maxatase (substance)	711141000	711141000	0
+Малалеука	Environment	0	0	0	3
+Мальва	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Марь	Environment	Chenopodium album specific diagnostic allergen extract (product)	411950009	411950009	0
+Маска	Environment	Mask (physical object)	261382003	261382003	0
+Маслина	Environment	Olea europaea (pollen) specific diagnostic allergen extract (product)	411921002	411921002	0
+массажное масло	Environment	0	0	0	3
+Матрас	Environment	Mattress, device (physical object)	17207004	17207004	0
+Махагон	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Махагон опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Мебель	Environment	Household furniture, device (physical object)	23076004	23076004	0
+Мескитовое дерево	Environment	Mesquite pollen (substance)	260133003	260133003	0
+Металл	Environment	Allergy to metal (finding)	300915004	0	1
+мех	Environment	Allergy to animal hair (finding)	300911008	300911008	0
+Мимоза	Environment	Mimosa (organism)	4689000	4689000	0
+Миндаль обыкновенный	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Можжевельник	Environment	Juniperus (organism)	90563009	90563009	0
+Можжевельник казацкий	Environment	Juniperus (organism)	90563009	90563009	0
+Молочай	Environment	Euphorbia (organism)	65731006	65731006	0
+молочко	Environment	0	0	0	3
+Мороз	Environment	Urticaria caused by cold (disorder)	74774004	0	1
+морозный воздух	Environment	Urticaria caused by cold (disorder)	74774004	0	1
+Морская свинка	Environment	Cavia porcellus (organism), Allergy to animal protein (finding)	125076001, 717234006	125076001, 717234006	0
+Морская свинка шерсть	Environment	Allergy to wool (finding)	425605001	425605001	0
+мотылек	Environment	Chironomus plumosus entomopoxvirus (organism)	81477004	81477004	0
+Мотыль (личинка комара дергунца)	Environment	Chironomus plumosus entomopoxvirus (organism)	81477004	81477004	0
+Моча крысы	Environment	Rat urine proteins diagnostic allergen extract (product)	411610008	411610008	0
+Моча мыши	Environment	Mouse urine proteins diagnostic allergen extract (product)	411602007	411602007	0
+моющее средство	Environment	Detergent (substance)	264299001	264299001	0
+Моющие	Environment	Detergent (substance)	264299001	264299001	0
+мурава	Environment	0	0	0	3
+муравей	Environment	Family Formicidae (organism)	106824004	106824004	0
+муха	Environment	Fly (organism)	10147004	10147004	0
+Мучной клещ	Environment	Tyrophagus farinae (organism)	28185003	28185003	0
+Мыло	Environment	Soap (substance)	25780000	25780000	0
+мыши	Environment	Mouse (organism)	82968002	82968002	0
+Мышиный эпителий	Environment	Mouse epithelium diagnostic allergen extract (product)	411592006	411592006	0
+Мышь	Environment	Mouse (organism)	82968002	82968002	0
+Мышь моча	Environment	Mouse urine proteins diagnostic allergen extract (product)	411602007	411602007	0
+Мышь помет	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Мышь сыворотка	Environment	Mouse serum proteins diagnostic allergen extract (product)	411601000	411601000	0
+Мышь эпителий	Environment	Mouse epithelium diagnostic allergen extract (product)	411592006	411592006	0
+Мятлик	Environment	Genus Poa (organism)	363636008	363636008	0
+Мятлик луговой	Environment	Genus Poa (organism)	363636008	363636008	0
+Мятлик однолетний	Environment	Genus Poa (organism)	363636008	363636008	0
+Нарцисс	Environment	Narcissus (organism)	7492001	7492001	0
+насекомое	Environment	Allergic rhinitis caused by insects (disorder)	1,06E+16	1,06E+16	0
+насекомые	Environment	Allergic rhinitis caused by insects (disorder)	1,06E+16	1,06E+16	0
+Натуральная шерсть	Environment	Allergy to wool (finding)	425605001	425605001	0
+Натуральный шелк	Environment	Silk waste specific diagnostic allergen extract (product)	411878009	411878009	0
+Нивяник обыкновенный	Environment	Wedelia asperrima (organism)	20118007	20118007	0
+обойная пыль	Environment	Allergy to dust (finding)	390952000	390952000	0
+Овес	Environment	Avena sativa pollen diagnostic allergen extract (product)	411778003	411778003	0
+Овес посевной	Environment	Avena sativa pollen diagnostic allergen extract (product)	411778003	411778003	0
+овечка	Environment	Ovis aries (organism), Allergy to animal protein (finding)	125099002, 717234006	125099002, 717234006	0
+Овечья шерсть	Environment	Allergy to wool (finding)	425605001	425605001	0
+Овсюг обыкновенный	Environment	Avena sativa pollen diagnostic allergen extract (product)	411778003	411778003	0
+Овсяница луговая	Environment	Lolium pratense (organism)	420746002	420746002	0
+Овца	Environment	Ovis aries (organism), Allergy to animal protein (finding)	125099002, 717234006	125099002, 717234006	0
+Овца эпителий	Environment	Sheep epithelium diagnostic allergen extract (product)	411597000	411597000	0
+Одежда	Environment	Linen cloth (physical object)	989005	989005	0
+Одуванчик	Environment	Taraxacum vulgare specific diagnostic allergen extract (product)	411964009	411964009	0
+Оксид этилена	Environment	Ethylene oxide (substance)	14006006	14006006	0
+Олеандр	Environment	Nerium oleander (organism)	67310006	67310006	0
+Олеандр обыкновенный	Environment	Nerium oleander (organism)	67310006	67310006	0
+Олива	Environment	Olea europaea (pollen) specific diagnostic allergen extract (product)	411921002	411921002	0
+Ольха	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Ольха опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Ольха серая	Environment	Grey alder pollen (substance)	710722000	710722000	0
+оперение	Environment	Allergy to feather (finding)	232348003	0	1
+опилки	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Орешник	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Оса	Environment	Wasp (organism)	88030006	88030006	0
+Пальма	Environment	Palm pollen (substance)	289953000	289953000	0
+Памперсы	Environment	Diaper, device (physical object)	52065008	52065008	0
+Папаин	Environment	Papain (substance)	5007006	5007006	0
+Парусина	Environment	0	0	0	3
+парфюм	Environment	Perfume contact dermatitis (disorder)	238573006	0	1
+парфюмерия	Environment	Perfume contact dermatitis (disorder)	238573006	0	1
+Паспалум отмеченный	Environment	Paspalum (organism)	61534005	61534005	0
+Пекан	Environment	Carya pecan pollen specific diagnostic allergen extract (product)	411905007	411905007	0
+Пепсин	Environment	Pepsin A (substance)	48517003	48517003	0
+Первоцвет	Environment	Contact dermatitis caused by primrose (disorder)	586008	0	1
+перо	Environment	Allergy to feather (finding)	232348003	0	1
+Перо подушки	Environment	Allergy to feather (finding)	232348003	0	1
+Перо попугая 	Environment	Parrot feathers diagnostic allergen extract (product)	411571006	411571006	0
+Перо птицы	Environment	Allergy to feather (finding)	232348003	0	1
+Персульфат аммония	Environment	Ammonium persulfate (substance)	255945007	255945007	0
+перхоть	Environment	Allergy to animal dander (finding)	232347008	0	1
+Перхоть волнистого попугайчика	Environment	Allergy to animal dander (finding)	232347008	232347008	0
+Перхоть коровы	Environment	Allergy to cow dander (finding)	703935005	0	1
+Перхоть кошки	Environment	Allergy to cat dander (finding)	232346004	0	1
+Перхоть лошади	Environment	Allergy to horse dander (finding)	419063004	0	1
+Перхоть лошади	Environment	Allergy to horse dander (finding)	419063004	0	1
+Перхоть морских свинок	Environment	Allergy to guinea pig dander (finding)	703928002	0	1
+Перхоть собаки	Environment	Allergy to dog dander (finding)	419271008	0	1
+Перчатки	Environment	Glove, device (physical object)	52291003	52291003	0
+Перья длиннохвостого попугая	Environment	Parakeet feathers specific immunoglobulin E (substance)	703046005	703046005	0
+Перья зяблика	Environment	Finch feathers diagnostic allergen extract (product)	411570007	411570007	0
+Перья индюка	Environment	Turkey feathers diagnostic allergen extract (product)	411613005	411613005	0
+Перья канарейки	Environment	Canary feathers diagnostic allergen extract (product)	411569006	411569006	0
+Перья серого попугая	Environment	Parrot feathers diagnostic allergen extract (product)	411571006	411571006	0
+Пилинг	Environment	Peeling of skin (finding)	271767006	271767006	0
+Пиния	Environment	Pinus (organism)	52783006	52783006	0
+Пихта	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Пихта опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+пиявки	Environment	Leech infestation (disorder)	64351000	64351000	0
+Пластырь	Environment	Body tissue patch material (substance)	413676000	413676000	0
+Платан западный	Environment	Platanus acerifolia specific diagnostic allergen extract (product)	411925006	411925006	0
+Плевел	Environment	Lolium perenne diagnostic allergen extract (product)	411787007	411787007	0
+Плесень	Environment	Allergy to mold (finding)	419474003	0	1
+плесневый гриб	Environment	Allergy to mold (finding), Allergy to fungus (finding)	419474003, 703934009	419474003, 703934009	0
+Подорожник	Environment	Genus Plantago (organism)	260202007	260202007	0
+Подорожник ланцетолистный	Environment	Plantago lanceolata specific diagnostic allergen extract (product)	411960000	411960000	0
+Подсолнечник	Environment	Helianthus annuus specific diagnostic allergen extract (product)	411953006	411953006	0
+подсолнух	Environment	Helianthus annuus specific diagnostic allergen extract (product)	411953006	411953006	0
+подушка	Environment	Pillow, device (physical object)	13855007	13855007	0
+Подушки	Environment	Pillow, device (physical object)	13855007	13855007	0
+Полевица побегоносная	Environment	Agrostis stolonifera diagnostic allergen extract (product)	411774001	411774001	0
+полиамид	Environment	Nylon (substance)	55700001	55700001	0
+Полиамидное волокно	Environment	Nylon (substance)	55700001	55700001	0
+Полист	Environment	Polistes species venom specific diagnostic allergen extract (product)	411938003	411938003	0
+Полынь	Environment	Sagebrush pollen (substance)	870500007	870500007	0
+Полынь обыкновенная	Environment	Artemisia absinthium specific diagnostic allergen extract (product)	411945003	411945003	0
+Помада	Environment	Pomade (product)	255691002	255691002	0
+помет	Environment	Bird droppings (substance)	304635007	304635007	0
+Помет волнистого попугайчика	Environment	Budgerigar droppings diagnostic allergen extract (product)	411565000	411565000	0
+Помет голубя	Environment	Pigeon droppings diagnostic allergen extract (product)	411603002	411603002	0
+Помет попугая	Environment	Bird droppings (substance)	304635007	304635007	0
+Попугай	Environment	Family Psittacidae (organism), Allergy to animal protein (finding)	107101001, 717234006	107101001, 717234006	0
+Попугай оперение	Environment	Parrot feathers diagnostic allergen extract (product)	411571006	411571006	0
+Попугай перья	Environment	Parrot feathers diagnostic allergen extract (product)	411571006	411571006	0
+Попугай помет	Environment	Bird droppings (substance)	304635007	304635007	0
+Попугай сыворотка	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+порошок	Environment	Powder (substance)	449872003	449872003	0
+Постенница	Environment	Parietaria officinalis specific diagnostic allergen extract (product)	411959005	411959005	0
+Поташник	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Презерватив	Environment	Condom (physical object)	706506000	706506000	0
+Презервативы	Environment	Condom (physical object)	706506000	706506000	0
+Примула	Environment	Contact dermatitis caused by primrose (disorder)	586008	0	1
+Прозопис	Environment	Prosopis juliflora specific diagnostic allergen extract (product)	411927003	411927003	0
+Прокладки	Environment	0	0	0	3
+прополис	Environment	Propolis (substance)	255970007	255970007	0
+Просвирник	Environment	Family Malvaceae - mallow (organism)	107566001	107566001	0
+прусак	Environment	Blatella germanica diagnostic allergen extract (product)	411800001	411800001	0
+птица	Environment	Class Aves (organism)	387972009	387972009	0
+пух	Environment	0	0	0	3
+Пчела	Environment	Bee (organism)	28482008	28482008	0
+Пшеница	Environment	Triticum (organism)	6788000	6788000	0
+Пшеница посевная	Environment	Triticum (organism)	6788000	6788000	0
+Пыль	Environment	Allergy to dust (finding)	390952000	0	1
+Пыль молотьбы	Environment	Wood dust (substance)	64601002	64601002	0
+Пыль молотьбы пшеницы	Environment	Flour dust (substance)	304627009	304627009	0
+пыльца	Environment	Allergy to pollen (finding)	300910009	0	1
+пыльца растений	Environment	Allergy to pollen (finding)	300910009	0	1
+Пырей ползучий	Environment	Genus Pseudoroegneria (organism)	420589001	420589001	0
+Райграс	Environment	Genus Lolium (organism)	73502008	73502008	0
+райграс	Environment	Genus Lolium (organism)	73502008	73502008	0
+Райграс пастбищный	Environment	Genus Lolium (organism)	73502008	73502008	0
+Ракитник	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Рамин	Environment	Ramin dust (substance)	255707001	255707001	0
+Рамин опилки	Environment	Ramin dust (substance)	255707001	255707001	0
+растворитель	Environment	Solvent (substance)	61010005	61010005	0
+растения	Environment	Contact dermatitis caused by plants, except food (disorder)	69999007	69999007	0
+Растительный пух	Environment	0	0	0	3
+Репа	Environment	Turnip (substance)	227275007	227275007	0
+Репа огородная	Environment	Turnip (substance)	227275007	227275007	0
+Робиния 	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Робиния лжеакация	Environment	Robinia pseudoacacia pollen (substance)	472727005	472727005	0
+Рожь	Environment	Allergy to rye (finding)	418184004	0	1
+Рожь посевная	Environment	Allergy to rye (finding)	418184004	0	1
+Роза	Environment	Rosa L. pollen (substance)	698730007	698730007	0
+Ромашка	Environment	Chamomile pollen (substance)	710902006	710902006	0
+Савиназа	Environment	Allergy to protease inhibitor (finding)	713296005	0	1
+Салицилат	Environment	Allergy to salicylate (finding)	293585002	0	1
+Салицилаты	Environment	Allergy to salicylate (finding)	293585002	0	1
+Самшит	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Самшит вечнозеленый	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Сахарный грибок	Environment	Class Saccharomycetes (organism)	426043008	426043008	0
+свинка	Environment	Allergy to guinea pig dander (finding)	703928002	0	1
+Свинорой	Environment	Cynodon dactylon diagnostic allergen extract (product)	411780009	411780009	0
+Свинорой пальчатый	Environment	Cynodon dactylon diagnostic allergen extract (product)	411780009	411780009	0
+Свинья	Environment	Sus scrofa (organism), Allergy to animal protein (finding)	78678003, 717234006	78678003, 717234006	0
+Свинья сыворотка	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+Свинья эпителий	Environment	Pig epithelium (substance)	256420006	256420006	0
+сезонность	Environment	Seasonal allergy (finding)	444316004	0	1
+сезонный	Environment	Seasonal allergy (finding)	444316004	0	1
+Семена клещевины	Environment	Castor bean specific diagnostic allergen extract (product)	411855003	411855003	0
+Семена подсолнечника	Environment	Sunflower seed specific diagnostic allergen extract (product)	411879001	411879001	0
+Семена хлопчатника	Environment	Cotton seed specific diagnostic allergen extract (product)	411857006	411857006	0
+Сенная пыль	Environment	Hay dust (substance)	255703002	255703002	0
+Сено	Environment	Allergy to grass pollen (finding)	418689008	0	1
+Серебро	Environment	Allergy to silver nitrate (finding)	294204008	0	1
+Сигареты	Environment	Cigarette (physical object)	722496004	722496004	0
+Сирень обыкновенная	Environment	Lilac (organism)	256337003	256337003	0
+Складской клещ	Environment	Dermatophagoides (organism)	20037001	20037001	0
+Сладкий клевер	Environment	Melilotus alba (organism)	31910001	31910001	0
+Слепень	Environment	Tabanus species diagnostic allergen extract (product)	411811009	411811009	0
+Смазка	Environment	Grease (substance)	13524005	13524005	0
+смола	Environment	Tree resin (substance)	256305004	256305004	0
+Собака	Environment	Family Canidae (organism), Allergy to animal protein (finding)	106969009, 717234006	106969009, 717234006	0
+Собака шерсть	Environment	Allergy to wool (finding)	425605001	425605001	0
+Собака эпителий	Environment	Dog epithelium diagnostic allergen extract (product)	411583008	411583008	0
+солнечные лучи	Environment	Light emitted by the sun (physical force)	49926000	49926000	0
+Солнце	Environment	Light emitted by the sun (physical force)	49926000	49926000	0
+Соломенная пыль	Environment	Hay dust (substance)	255703002	255703002	0
+Солярий	Environment	0	0	0	3
+Сорго алеппское	Environment	Genus Sorghum (organism)	6079003	6079003	0
+сорная трава	Environment	Allergy to weed pollen (finding)	419210001	0	1
+Сосна	Environment	Pinus radiata specific diagnostic allergen extract (product)	411923004	411923004	0
+Сосна  опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Сосна итальянская	Environment	Pinus radiata specific diagnostic allergen extract (product)	411923004	411923004	0
+Сосна обыкновенная	Environment	Pinus radiata specific diagnostic allergen extract (product)	411923004	411923004	0
+спиртовой дезинфектор	Environment	Disinfectant (substance)	311942001	311942001	0
+сплав	Environment	Metallic alloy (substance)	56427006	56427006	0
+сплав железа	Environment	Metallic alloy (substance)	56427006	56427006	0
+Спорыш	Environment	0	0	0	3
+средство для мытья посуды	Environment	Dishwashing liquid (substance)	311909002	311909002	0
+средство от ожогов	Environment	0	0	0	3
+средство от солнечных ожогов	Environment	0	0	0	3
+стекловата	Environment	Glass (substance)	32039001	32039001	0
+Стиральный порошок	Environment	0	0	0	3
+Сульфаниламиды	Environment	Allergy to sulfonamide (finding)	91939003	0	1
+Сумчатый грибок	Environment	Genus Ascomycetes (organism), Allergy to fungus (finding)	707133001, 703934009	707133001, 703934009	0
+Сыворотка волнистого попугайчика	Environment	Budgerigar serum proteins diagnostic allergen extract (product)	411566004	411566004	0
+Сырость	Environment	Damp environment (environment)	224784004	224784004	0
+Табак	Environment	Tobacco (substance)	39953003	39953003	0
+Табачная пыль	Environment	Vitreous pigment cells (finding)	421693007	421693007	0
+Тальк	Environment	Talc (substance)	1557002	1557002	0
+Танин	Environment	Tannic acid (substance)	41412001	41412001	0
+Таракан	Environment	Cockroach (organism)	14241002	14241002	0
+таракан (прусак)	Environment	Blatella germanica diagnostic allergen extract (product)	411800001	411800001	0
+Таракан американский	Environment	Periplaneta americana diagnostic allergen extract (product)	411808008	411808008	0
+Таракан черных	Environment	Blatta orientalis diagnostic allergen extract (product)	411801002	411801002	0
+Таракан-прусак	Environment	Blatella germanica diagnostic allergen extract (product)	411800001	411800001	0
+Таракан	Environment	Cockroach (organism)	14241002	14241002	0
+таяние снега	Environment	Snow (substance)	263874004	263874004	0
+текстиль	Environment	Textiles (physical object)	256245006	256245006	0
+Тимофеевка	Environment	Phleum pratense diagnostic allergen extract (product)	411790001	411790001	0
+Тимофеевка луговая	Environment	Phleum pratense diagnostic allergen extract (product)	411790001	411790001	0
+Тисс	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Тисс ягодный	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Ткань	Environment	Cloth (physical object)	81293006	81293006	0
+Толуилендиизоцианат	Environment	Toluene-2-4-diisocyanate (substance)	20564006	20564006	0
+Толуилендиизоцианат ТДИ	Environment	Toluene-2-4-diisocyanate (substance)	20564006	20564006	0
+Тополь	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Тополь опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Тополь пирамидальный	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+трава	Environment	Allergy to grass pollen (finding)	418689008	0	1
+травы	Environment	Allergy to grass pollen (finding)	418689008	0	1
+Трагакант	Environment	Tragacanth (substance)	68524009	68524009	0
+Трагакантовая камедь	Environment	Astragalus species diagnostic allergen extract (product)	411631006	411631006	0
+Тримеллитовый ангидрид	Environment	Trimellitic anhydride (substance)	27119002	27119002	0
+тростник	Environment	Common reed pollen (substance)	260091002	260091002	0
+Тростник обыкновенный	Environment	Common reed pollen (substance)	260091002	260091002	0
+Тутовый шелкопряд	Environment	Bombyx mori diagnostic allergen extract (product)	411803004	411803004	0
+Тюльпан	Environment	Tulipa (organism)	78213009	78213009	0
+удобрение	Environment	Fertilizer (substance)	116517003	116517003	0
+удобрение СХ	Environment	Fertilizer (substance)	116517003	116517003	0
+укус	Environment	Allergic reaction caused by insect bite and/or insect sting (disorder)	871927008	871927008	0
+укус насекомого	Environment	Allergic reaction caused by insect bite (disorder)	871920005	0	1
+укус скорпиона	Environment	Allergy to scorpion venom (finding)	422921000	422921000	0
+Утиные перья	Environment	Duck feathers diagnostic allergen extract (product)	411581005	411581005	0
+Утка	Environment	Genus Anas (organism), Allergy to animal protein (finding)	396620009, 717234006	396620009, 717234006	0
+Утка оперение	Environment	Duck feathers diagnostic allergen extract (product)	411581005	411581005	0
+Утка перья	Environment	Duck feathers diagnostic allergen extract (product)	411581005	411581005	0
+Утка помет	Environment	Bird droppings (substance)	304635007	304635007	0
+Фенилендиамин	Environment	p-phenylenediamine (substance)	42464005	42464005	0
+Фикус	Environment	Ficus carica diagnostic allergen extract (product)	411689000	411689000	0
+Финиковая пальма	Environment	Canary island date palm pollen (substance)	710730004	710730004	0
+Фитопатогенный грибок	Environment	Allergy to fungus (finding)	419263009	419263009	0
+Форзиция	Environment	Tannerella forsythia (organism)	420048009	420048009	0
+форина	Environment	0	0	0	3
+Формальдегид	Environment	Allergy to formaldehyde (finding)	294426006	0	1
+Фосфолипаза	Environment	Phospholipase (substance)	304245003	304245003	0
+Фрезия	Environment	0	0	0	3
+Фталевый ангидрид	Environment	Phthalic anhydride (substance)	77249007	77249007	0
+Фуксия	Environment	0	0	0	3
+химикат	Environment	Chemical (substance)	441900009	441900009	0
+химия	Environment	0	0	0	3
+Хлебная плесень	Environment	Bread (substance), Allergy to mold (finding)	226559002, 419474003	226559002, 419474003	0
+Хлопковое волокно	Environment	Cotton - textile (physical object)	256246007	256246007	0
+Хлопок	Environment	Gossypium (organism)	51627003	51627003	0
+Хлопок необработанный	Environment	Gossypium (organism)	51627003	51627003	0
+Хлопок обработанный	Environment	Gossypium (organism)	51627003	51627003	0
+хлор	Environment	Chlorine (substance)	29276003	29276003	0
+Хлор содержащее средство	Environment	Product containing chlorine and chlorine compound (product)	768765001	768765001	0
+Хлор содержащие средства	Environment	Product containing chlorine and chlorine compound (product)	768765001	768765001	0
+Хлорамин	Environment	Monochloramine (substance)	609384004	609384004	0
+Хлорка	Environment	Chlorine (substance)	29276003	29276003	0
+хлорные растворы	Environment	Product containing chlorine and chlorine compound (product)	768765001	768765001	0
+Хмель	Environment	Humulus lupulus (organism)	70891004	70891004	0
+Хна	Environment	Allergic reaction caused by hair dye (disorder)	473104002	473104002	0
+Холод	Environment	Cold air (substance)	256234008	256234008	0
+холодовая аллергия	Environment	Cold sensation quality (qualifier value), Allergic disposition (finding)	84162001, 609328004	84162001, 609328004	0
+Хомяк	Environment	Subfamily Cricetinae (organism), Allergy to animal protein (finding)	392390005, 717234006	392390005, 717234006	0
+Хризантема	Environment	Chrysanthemum (organism)	256334005	256334005	0
+Хризантема посевная	Environment	Chrysanthemum (organism)	256334005	256334005	0
+цветение	Environment	Allergy to plant fiber (finding)	703926003	703926003	0
+цветение растений	Environment	Allergy to plant fiber (finding)	703926003	703926003	0
+цветы	Environment	Flowers (substance)	16719004	16719004	0
+цемент	Environment	Cement (qualifier value)	419202002	419202002	0
+Циклахена	Environment	0	0	0	3
+Черешня	Environment	Allergy to cherry (finding)	418051002	0	1
+Чернобыльник	Environment	Allergy to tree pollen (finding)	419263009	419263009	0
+Шампунь	Environment	Shampoo (substance)	255698008	255698008	0
+Шелк	Environment	Silk (substance)	412156001	412156001	0
+Шелк	Environment	Silk (substance)	412156001	412156001	0
+Шелковица	Environment	Morus alba specific diagnostic allergen extract (product)	411920001	411920001	0
+шелкопряд	Environment	Bombyx mori (organism)	56535007	56535007	0
+Шерсть	Environment	Allergy to wool (finding)	425605001	0	1
+шерсть животного	Environment	Allergy to wool (finding)	425605001	0	1
+шерсть животных	Environment	Allergy to wool (finding)	425605001	0	1
+Шерсть кошки	Environment	Allergy to animal hair (finding)	300911008	300911008	0
+Шерсть кролика	Environment	Allergy to animal hair (finding)	300911008	300911008	0
+Шерсть морской свинки	Environment	Allergy to animal hair (finding)	300911008	300911008	0
+Шерсть овцы	Environment	Allergy to animal hair (finding)	300911008	300911008	0
+Шерсть собаки	Environment	Allergy to animal hair (finding)	300911008	300911008	0
+Шерсть хомяка	Environment	Allergy to animal hair (finding)	300911008	300911008	0
+Шершень	Environment	Hornet (organism)	37788004	37788004	0
+Шиншилла	Environment	Chinchilla lanigara (organism), Allergy to animal protein (finding)	392182001, 717234006	392182001, 717234006	0
+Шиншилла шерсть	Environment	Allergy to animal hair (finding)	300911008	300911008	0
+шмель	Environment	Allergy to insect protein (finding)	716187007	716187007	0
+Щавелек	Environment	Rumex (organism)	17272006	17272006	0
+Щавель	Environment	Rumex (organism)	17272006	17272006	0
+щелочь	Environment	Alkali (substance)	63813000	63813000	0
+Ширица 	Environment	Amaranthus palmeri pollen (substance)	698727000	698727000	0
+Щирица запрокинутая	Environment	Amaranthus palmeri pollen (substance)	698727000	698727000	0
+Эвкалипт	Environment	Eucalyptus species specific diagnostic allergen extract (product)	411912003	411912003	0
+эпидермальный аллерген	Environment	Allergy to animal protein (finding)	717234006	717234006	0
+эпидермис	Environment	Epidermis structure (body structure)	55988001	55988001	0
+эпителий	Environment	Epithelium (body structure)	31610004	31610004	0
+Эпителий козы	Environment	Goat epithelium diagnostic allergen extract (product)	411587009	411587009	0
+Эпителий кошки	Environment	Cat epithelium (substance), Allergy to animal protein (finding)	256409006, 717234006	256409006, 717234006	0
+Эпителий кролика	Environment	Rabbit epithelium diagnostic allergen extract (product)	411594007	411594007	0
+Эпителий крыс	Environment	Rat epithelium diagnostic allergen extract (product)	411595008	411595008	0
+Эпителий морской свинки	Environment	Guinea pig epithelium diagnostic allergen extract (product)	411589007	411589007	0
+Эпителий мыши	Environment	Mouse epithelium diagnostic allergen extract (product)	411592006	411592006	0
+Эпителий овцы	Environment	Sheep epithelium diagnostic allergen extract (product)	411597000	411597000	0
+Эпителий свиньи	Environment	Pig epithelium (substance)	256420006	256420006	0
+Эпителий собаки	Environment	Dog epithelium diagnostic allergen extract (product)	411583008	411583008	0
+Эпителий хомяка	Environment	Hamster epithelium diagnostic allergen extract (product)	411590003	411590003	0
+Эпителий шиншиллы	Environment	Chinchilla epithelium diagnostic allergen extract (product)	411577005	411577005	0
+эпоксидная смола	Environment	Epoxy resin (substance)	65345002	65345002	0
+этилен	Environment	Ethylene (substance)	53246002	53246002	0
+Этиленоксид	Environment	Ethylene oxide (substance)	14006006	14006006	0
+Юкка	Environment	Yucca (substance)	719959000	719959000	0
+яд	Environment	Allergic reaction caused by venom (disorder)	282093000	0	1
+Яд осы	Environment	Allergy to wasp venom (finding)	423058007	0	1
+Яд осы германской	Environment	Allergy to wasp venom (finding)	423058007	0	1
+Яд осы петнистой	Environment	Allergy to wasp venom (finding)	423058007	0	1
+Яд пчелы	Environment	Allergy to bee venom (finding)	424213003	0	1
+Яд пчелы медоносной	Environment	Allergy to honey bee venom (finding)	1,62E+16	0	1
+Яд шерешня обыкновенного	Environment	Hornet venom (substance)	288326000	288326000	0
+Яд шмеля	Environment	Bumble bee venom (substance)	288460008	288460008	0
+Японский кедр	Environment	Japanese cedar pollen (substance)	260130000	260130000	0
+Ясень	Environment	Ash pollen (substance)	256266003	256266003	0
+Ясень обыкновенный	Environment	Ash pollen (substance)	256266003	256266003	0
+Ясень опилки	Environment	Allergy to wood dust (finding)	782552007	782552007	0
+Ячмень	Environment	Allergy to barley (finding)	712841000	0	1
+Ячмень дикий заячий	Environment	Allergy to barley (finding)	712841000	0	1
+Ячмень обыкновенный	Environment	Allergy to barley (finding)	712841000	0	1
