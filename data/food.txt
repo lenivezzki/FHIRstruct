@@ -1,0 +1,729 @@
+ID	parent	snomed_name	snomed_code	snomed_partial_code	is_direct
+Абрикос	Food	Apricot (substance)	735214002	735214002	0
+Авокадо	Food	Avocado (substance)	735249009	735249009	0
+Айва	Food	Quince (substance)	227443006	227443006	0
+акула	Food	Shark - food (substance)	227101009	227101009	0
+алкоголь	Food	Allergy to ethyl alcohol (finding)	420140004	0	1
+Алыча 	Food	Prunus domestica diagnostic allergen extract (product)	411766002	0	1
+Амарант	Food	Amaranthus retroflexus specific diagnostic allergen extract (product)	411941007	411941007	0
+Амарант щирица	Food	Amaranthus retroflexus specific diagnostic allergen extract (product)	411941007	411941007	0
+амилаза	Food	Amylase (substance)	387031005	387031005	0
+Ананас	Food	Allergy to pineapple (finding)	1,35E+13	0	1
+Анис	Food	Anise seed (substance)	227376006	227376006	0
+Анчоус	Food	Anchovy (substance)	735337006	735337006	0
+Апельсин	Food	Orange - fruit (substance)	256306003	256306003	0
+аппенцеллер	Food	Appenzeller dog breed (organism)	132538002	132538002	0
+Арахис	Food	Allergy to peanut (finding)	91935009	0	1
+Арахис жареный	Food	Dry roasted peanuts (substance)	227509004	227509004	0
+Арахисовая паста	Food	Peanut butter (substance)	102260001	102260001	0
+Арахисовое масло	Food	Allergy to Arachis oil (finding)	294317009	0	1
+Арбуз	Food	Allergy to watermelon (finding)	419298007	0	1
+Артишок	Food	Artichoke (substance)	227215000	227215000	0
+Аспартам	Food	Non-allergic hypersensitivity to aspartame (finding)	609548005	0	1
+Базилик	Food	Basil (substance)	735106000	735106000	0
+Баклажан	Food	Aubergine (substance)	227219006	227219006	0
+Банан	Food	Allergy to banana (finding)	714332003	0	1
+Баранина	Food	Mutton (substance)	710184005	710184005	0
+Белая смородина	Food	White currant (substance)	227448002	227448002	0
+Белая фасоль	Food	White bean (substance)	260168003	260168003	0
+белок	Food	Allergy to egg protein (finding)	213020009	0	1
+белок животного происхождения	Food	Allergy to animal protein (finding)	717234006	0	1
+белок коровьего молока	Food	Allergy to cow's milk protein (finding)	782555009	0	1
+белок куриного яйца	Food	Allergy to egg protein (finding)	213020009	0	1
+белок молока	Food	Milk protein (substance)	10827009	10827009	0
+Белокочанная капуста	Food	White cabbage (substance)	227229004	227229004	0
+Бета – лактоглобулин	Food	Beta-lactoglobulin (substance)	710037007	710037007	0
+бобовые	Food	Allergy to bean (finding)	703925004	0	1
+Бобы	Food	Allergy to bean (finding)	703925004	0	1
+болгарский перец	Food	Capsicum (substance)	421556008	421556008	0
+Бразильский орех	Food	Bertholletia excelsa diagnostic allergen extract (product)	411634003	411634003	0
+Брокколи	Food	Broccoli (substance)	735123009	735123009	0
+Брусника	Food	Cranberries (substance)	227421003	227421003	0
+Брынза	Food	Allergy to cheese (finding)	300914000	0	1
+Брынза коровья	Food	Allergy to cheese (finding)	300914000	0	1
+Брынза овечья	Food	Allergy to cheese (finding)	300914000	0	1
+Брюссельская капуста	Food	Brussels sprouts (substance)	735122004	735122004	0
+Бурый рис	Food	Brown rice (substance)	226756007	226756007	0
+Ваниль	Food	Vanilla (substance)	412070003	412070003	0
+Вешенки	Food	Pleurotus ostreatus (organism)	49647004	49647004	0
+вино	Food	Wine (substance)	35748005	35748005	0
+Виноград 	Food	Grapes (substance)	256317002	256317002	0
+виски	Food	Whisky (substance)	226528004	226528004	0
+Вишня 	Food	Allergy to cherry (finding)	418051002	0	1
+Вишня обыкновенная	Food	Allergy to cherry (finding)	418051002	0	1
+водка	Food	Vodka (substance)	226064009	226064009	0
+газированные напитки	Food	Carbonated drink (substance)	226479007	226479007	0
+гауда	Food	Gouda cheese (substance)	226832003	226832003	0
+Гвоздика	Food	Clove (substance)	227389000	227389000	0
+Гигантский групер	Food	Epinephelus itajara (organism), Allergy to fish (finding)	14600004, 417532002	14600004, 417532002	0
+Гидролизат говяжьего белка	Food	Beef (substance)	226916002	226916002	0
+Глиадин	Food	Gliadin (substance)	102258003	102258003	0
+глюкоза	Food	Glucose (substance), Allergy to substance (finding)	67079006, 419199007	67079006, 419199007	0
+глюконат натрия	Food	Sodium gluconate (substance), Allergy to substance (finding)	412309007, 419199007	412309007, 419199007	0
+Глютен	Food	Gluten (substance)	89811004	89811004	0
+Глютен – глиадин	Food	Gluten (substance)	89811004	89811004	0
+глютенсодержащий продукт	Food	Gluten (substance)	89811004	89811004	0
+Говядина	Food	Allergy to beef (finding)	703930000	0	1
+говядина из банки	Food	Allergy to beef (finding)	703930000	0	1
+Говядина отварная	Food	Boiled beef (substance)	226920003	226920003	0
+говяжий белок	Food	Allergy to beef insulin (finding)	788163005	0	1
+Говяжий протеин	Food	Allergy to beef insulin (finding)	788163005	0	1
+Говяжья печень	Food	Liver - meat (substance), Allergy to beef (finding)	226991008, 70393	226991008, 70393	0
+голландский сыр	Food	Allergy to cheese (finding)	300914000	300914000	0
+Голубая мидия	Food	Blue mussel (substance)	710182009	710182009	0
+Голубика	Food	Blueberries (substance)	412061001	412061001	0
+Голубиный горох	Food	Pigeon peas (substance)	227358004	227358004	0
+Горбуша	Food	Oncorhynchus gorbuscha (organism), Allergy to fish (finding)	23662001,42	23662001,42	0
+Горох	Food	Allergy to pea (finding)	767468001	0	1
+Горох обыкновенный	Food	Fresh peas (substance)	227369001	227369001	0
+Горох отварной свежий	Food	Fresh boiled peas (substance)	227371001	227371001	0
+Горох свежий	Food	Fresh peas (substance)	227369001	227369001	0
+Горох свежий сырой	Food	Fresh raw peas (substance)	227370000	227370000	0
+Горох турецкий	Food	Chick peas (substance)	227346004	227346004	0
+гороховый	Food	Allergy to pea (finding)	767468001	0	1
+горошек	Food	Allergy to pea (finding)	767468001	0	1
+Горчица	Food	Mustard (substance)	51905005	51905005	0
+Гранат	Food	Pomegranate (substance)	227441008	227441008	0
+Грейпфрут	Food	Grapefruit (substance)	256315005	256315005	0
+Грецкий орех	Food	Allergy to walnut (finding)	91940001	0	1
+Греча	Food	Buckwheat - cereal (substance)	226723006	226723006	0
+Гречневая крупа	Food	Buckwheat - cereal (substance)	226723006	226723006	0
+Гречневая мука	Food	Buckwheat - cereal (substance), Allergic reaction caused by flour dust (disorder)	226723006, 419447004	226723006, 419447004	0
+гриб	Food	Mushroom (substance)	735045008	735045008	0
+грибы	Food	Mushroom (substance)	735045008	735045008	0
+групер	Food	Epinephelus morio (organism), Allergy to fish (finding)	4978005, 417532002	4978005, 417532002	0
+Груша	Food	Pear (substance)	735050002	735050002	0
+грюнколь	Food	Brassica oleracea (organism)	1007001	1007001	0
+Гуава	Food	Guava (substance)	227429001	227429001	0
+Гуайява	Food	Guava (substance)	227429001	227429001	0
+Даленевосточная сардина	Food	Sardine (substance), Allergy to fish (finding)	227136008,4	227136008,4	0
+Дальневосточная навага	Food	Eleginus gracilis (organism), Allergy to fish (finding)	71401006, 417532002	71401006, 417532002	0
+Двустворчатый моллюск	Food	Allergy to mollusk (finding)	712842007	0	1
+Двустворчатый морской моллюск	Food	Allergy to mollusk (finding)	712842007	0	1
+Детское питание 	Food	Baby food (substance)	227983006	227983006	0
+Дикая утка	Food	Duck - meat (substance)	226963000	226963000	0
+Дикий кабан	Food	Sus scrofa (organism), Allergy to meat (finding)	78678003, 703931001	78678003, 703931001	0
+Дикий рис	Food	Rice (substance)	67324005	67324005	0
+Дорада	Food	Allergy to fish (finding)	417532002	417532002	0
+Дрожжи	Food	Yeast (substance)	412534006	412534006	0
+Дрожжи пекарские	Food	Allergy to yeast (finding)	860956003	860956003	0
+Дрожжи пивные	Food	Allergy to yeast (finding)	860956003	860956003	0
+Душистый перец 	Food	Allspice (substance)	227375005	227375005	0
+Душица	Food	Oregano (substance)	227407000	227407000	0
+Дыня	Food	Melon (substance)	260177005	260177005	0
+Европейская солея	Food	Family Soleidae - sole (organism), Allergy to fish (finding)	107509006,4	107509006,4	0
+Европейский анчоус	Food	Anchovy (substance)	735337006	735337006	0
+Ежевика	Food	Blackberries (substance)	227418000	227418000	0
+желтое	Food	Yellow color (qualifier value)	371244009	371244009	0
+желток	Food	Egg yolk (substance)	256442007	256442007	0
+Желток куриного яйца вареный	Food	Egg yolk (substance)	256442007	256442007	0
+животный белок	Food	Allergy to animal protein (finding)	717234006	0	1
+животный жир	Food	Animal fat (substance)	13150000	13150000	0
+Заменитель сахара	Food	Food sweetener (substance)	228110004	228110004	0
+Заяц	Food	Allergy to meat (finding)	703931001	703931001	0
+Зеленая рожь	Food	Allergy to rye (finding)	418184004	0	1
+зеленое	Food	Green color (qualifier value)	371246006	371246006	0
+Зеленый горошек	Food	Allergy to pea (finding)	767468001	0	1
+Зеленый перец	Food	Piper nigrum (unripe seed) diagnostic allergen extract (product)	411760008	411760008	0
+Зеленый чай	Food	Green tea (substance)	412194001	412194001	0
+земляника	Food	Strawberry (substance)	102261002	102261002	0
+зерно	Food	Allergy to corn (finding)	419573007	0	1
+злаковые	Food	Cereal (substance)	23182003	23182003	0
+иваси	Food	Sardine (substance)	227136008	227136008	0
+изолят	Food	Protein (substance)	88878007	88878007	0
+изолят белка	Food	Protein (substance)	88878007	88878007	0
+Изолят соевого белка	Food	Soy protein isolate enteral formula (product)	4,42E+14	4,42E+14	0
+Изюм	Food	Raisins (substance)	227463004	227463004	0
+Икра 	Food	 Fish roe (substance)	227183005	227183005	0
+Икра лососевых рыб	Food	 Fish roe (substance)	227183005	227183005	0
+Икра осетровых рыб	Food	 Fish roe (substance)	227183005	227183005	0
+Икра черная	Food	 Fish roe (substance)	227183005	227183005	0
+Имбирь	Food	Ginger (substance)	227400003	227400003	0
+Индюк	Food	Turkey - meat (substance)	226967004	226967004	0
+Инжир	Food	Figs (substance)	227425007	227425007	0
+Ирга	Food	Berry (substance)	63045006	63045006	0
+Йогурт	Food	Yogurt (substance)	226863004	226863004	0
+кабан	Food	Sus scrofa (organism)	78678003	78678003	0
+Кабачок	Food	Zucchini (substance)	227239005	227239005	0
+Кабачок цуккини	Food	Zucchini (substance)	227239005	227239005	0
+Казеин	Food	Allergy to casein (finding)	5,61E+12	0	1
+Кайенский перец	Food	Capsicum frutescens (organism)	24543001	24543001	0
+какао	Food	Cocoa drink (substance)	226026007	226026007	0
+календула	Food	calendula	0	0	3
+Калина	Food	Berry (substance)	63045006	63045006	0
+Кальмар	Food	Squid (substance)	735006003	735006003	0
+камамбер	Food	Camembert cheese (substance)	226856004	226856004	0
+Камбала	Food	Allergy to fish (finding)	417532002	417532002	0
+Камбала морская	Food	Allergy to fish (finding)	417532002	417532002	0
+Каменный окунь	Food	Allergy to fish (finding)	417532002	417532002	0
+Каперсы	Food	Capparis (organism)	79478002	79478002	0
+Капский крыжовник	Food	Physalis peruviana (organism)	49154006	49154006	0
+капуста	Food	Cabbage (substance)	735108004	735108004	0
+Капуста белокочанная	Food	White cabbage (substance)	227229004	227229004	0
+Капуста брокколи	Food	Broccoli (substance)	735123009	735123009	0
+Капуста брюссельская	Food	Brussels sprouts (substance)	735122004	735122004	0
+Капуста грюнколь	Food	Brassica oleracea (organism)	1007001	1007001	0
+Капуста зеленая	Food	Cabbage (substance)	735108004	735108004	0
+Капуста квашенная	Food	Cabbage (substance)	735108004	735108004	0
+Капуста китайская	Food	Chinese cabbage (substance)	227225005	227225005	0
+Капуста кольраби	Food	Cabbage (substance)	735108004	735108004	0
+Капуста краснокочанная	Food	Red cabbage (substance)	227226006	227226006	0
+Капуста морская	Food	Seaweed (substance)	227265009	227265009	0
+Капуста савойская	Food	Savoy cabbage (substance)	227227002	227227002	0
+Капуста цветная	Food	Cauliflower (substance)	735336002	735336002	0
+Каракатица	Food	Cuttlefish (substance)	726759005	726759005	0
+Кардамон	Food	Cardamom (substance)	227382009	227382009	0
+Каркаде	Food	Tea (substance)	16313001	16313001	0
+Каровит	Food	Ceratonia siliqua extract (substance)	418502008	418502008	0
+Карп	Food	Carp (substance)	726763003	726763003	0
+Карри	Food	Curry leaf (substance)	227393006	227393006	0
+Картофель	Food	Allergy to potato (finding)	419619007	0	1
+Картофельная мука	Food	Potato flour (substance)	229943006	229943006	0
+Катран	Food	Squalus acanthias (organism)	86982000	86982000	0
+каша	Food	Porridge (substance)	226617008	226617008	0
+Каша гречневая	Food	Fagopyrum esculentum diagnostic allergen extract (product)	411688008	411688008	0
+каштан	Food	Chestnut (substance)	260188004	260188004	0
+Кедровые орешки	Food	Pine nut (substance)	227511008	227511008	0
+Кедровый орех	Food	Pine nut (substance)	227511008	227511008	0
+Кервель	Food	Chervil, dried (substance)	227384005	227384005	0
+Кета	Food	Oncorhynchus keta (organism), Allergy to fish (finding)	62285003, 417532002	62285003, 417532002	0
+Кефаль	Food	Mullet (substance)	735044007	735044007	0
+Кефир	Food	Lactobacillus kefir (organism)	61053005	61053005	0
+кешью	Food	Allergy to cashew nut (finding)	712838009	0	1
+Киви	Food	Allergy to kiwi fruit (finding)	2,32E+13	0	1
+Кизил	Food	Dogwood	0	0	3
+Кинза	Food	Coriander leaf (substance)	227390009	227390009	0
+Киноа 	Food	Quinoa (substance)	227515004	227515004	0
+Клейковина	Food	Gluten diagnostic allergen extract (product)	411695004	411695004	0
+Клубника	Food	Allergy to strawberry (finding)	91938006	0	1
+Клюква	Food	Cranberries (substance)	227421003	227421003	0
+Кобылье молоко	Food	Mare's milk diagnostic allergen extract (product)	411721006	411721006	0
+кожура	Food	peel	0	0	3
+кожура красного яблока	Food	Apple (substance)	35215001	35215001	0
+Козий сыр	Food	Goats milk soft cheese (substance)	226852002	226852002	0
+Козье молоко	Food	Goat's milk (substance)	83595008	83595008	0
+Кока-кола	Food	Sugar sweetened beverage (substance)	818989004	818989004	0
+Кокос	Food	Coconut (substance)	735211005	735211005	0
+Кокос со сливками	Food	Creamed coconut (substance)	227497006	227497006	0
+Кокосовое масло	Food	Allergy to coconut oil (finding)	419814004	0	1
+Кокосовое молоко	Food	Coconut milk (substance)	227500000	227500000	0
+Кокосовый крем	Food	Coconut cream (substance)	227499009	227499009	0
+Кокосовый орех	Food	Coconut (substance)	735211005	735211005	0
+колбаса	Food	Sausage (substance)	227020009	227020009	0
+Колбаса вареная	Food	Sausage (substance)	227020009	227020009	0
+Колбаса копченая	Food	Sausage (substance)	227020009	227020009	0
+Кольраби	Food	Cabbage (substance)	735108004	735108004	0
+Колючая акула	Food	Squalus acanthias (organism), Allergy to meat (finding)	86982000, 703931001	86982000, 703931001	0
+Конина	Food	Horse - meat (substance), Allergy to meat (finding)	710171001, 703931001	710171001, 703931001	0
+консерванты	Food	Food preservative (substance)	51386004	51386004	0
+Консервированный горошек	Food	Canned peas (substance)	227332004	227332004	0
+Консервированный зеленый горошек	Food	Canned peas (substance)	227332004	227332004	0
+Консервированный нут	Food	Canned chick peas (substance)	227326009	227326009	0
+Консервированный паштет из горошка	Food	Canned mushy peas (substance)	227335002	227335002	0
+консервированный продукт	Food	 Canned food (substance)	227989005	227989005	0
+конфета	Food	Candy (substance)	227607007	227607007	0
+концентрат белка	Food	Protein (substance)	88878007	88878007	0
+Концентрат молочного белка	Food	Milk protein (substance)	10827009	10827009	0
+Концентрат сывороточного белка	Food	Serum protein (substance)	79329006	79329006	0
+коньяк	Food	Brandy (substance)	226019007	226019007	0
+копчености	Food	smoked meats	0	0	3
+корень сельдерея	Food	Celery (substance)	256326004	256326004	0
+Кориандр	Food	Coriander seed (substance)	227391008	227391008	0
+Корица	Food	Allergy to cinnamon (finding)	418397007	0	1
+корнеплод	Food	root vegetable	0	0	3
+Коровье молоко	Food	Cow's milk (substance)	3718001	3718001	0
+Косуля	Food	Genus Capreolus (organism), Allergy to meat (finding)	388301008, 703931001	388301008, 703931001	0
+Кофе	Food	Coffee (substance)	29263009	29263009	0
+Кофе молотый	Food	Coffee (substance)	29263009	29263009	0
+Кофе растворимый	Food	Coffee (substance)	29263009	29263009	0
+кофеин	Food	Allergy to caffeine (finding)	418344001	0	1
+Краб	Food	Crab (substance)	736159005	736159005	0
+Краб большой	Food	Crab (substance)	736159005	736159005	0
+красное	Food	Red color (qualifier value)	371240000	371240000	0
+Крахмал	Food	Food starch (substance)	74242007	74242007	0
+креветка	Food	Allergy to shrimp (finding)	419972009	0	1
+кресс	Food	Watercress (substance)	227277004	227277004	0
+Кресс-салат	Food	Watercress (substance)	227277004	227277004	0
+крупа	Food	Grain (substance)	264331002	264331002	0
+Крыжовник	Food	Gooseberries (substance)	227427004	227427004	0
+Кукуруза	Food	Allergy to corn (finding)	419573007	0	1
+Кукуруза зерно	Food	Allergy to corn (finding)	419573007	0	1
+Кукурузная крупа	Food	Allergy to corn (finding)	419573007	0	1
+Кукурузная мука	Food	Cornflour (substance)	229936000	229936000	0
+Кукурузный крахмал	Food	Cornflour (substance)	229936000	229936000	0
+Кунжут	Food	Sesame seed (substance)	260167008	260167008	0
+Кунжутные семечки	Food	Sesame seed (substance)	260167008	260167008	0
+кура	Food	Allergy to chicken meat (finding)	703932008	0	1
+курага	Food	Dried apricot (substance)	227452002	227452002	0
+Куриное мясо	Food	Allergy to chicken meat (finding)	703932008	0	1
+куриное яйцо	Food	Allergy to egg protein (finding)	213020009	0	1
+Куриное яйцо цельное	Food	Allergy to egg protein (finding)	213020009	0	1
+курица	Food	Allergy to chicken meat (finding)	703932008	0	1
+Куркума	Food	Turmeric (substance)	227414003	227414003	0
+Лаврак	Food	Sea bass (substance)	726749009	726749009	0
+Лавровый лист	Food	Bay leaf (substance)	227379004	227379004	0
+Лайм	Food	Lime - fruit (substance)	227430006	227430006	0
+лактальбумин	Food	Lactalbumin (substance)	102697003	102697003	0
+Лактоглобулин	Food	Beta-lactoglobulin (substance)	710037007	710037007	0
+лактоза	Food	Lactose (substance)	47703008	47703008	0
+Лангуст	Food	Spiny lobster (substance)	710185006	710185006	0
+латук	Food	Lettuce (substance)	735042006	735042006	0
+леердам	Food	 Cheese (substance)	102264005	102264005	0
+Лемонграсс	Food	Lemongrass	0	0	3
+Лемонема	Food	Allergy to fish (finding)	417532002	417532002	0
+лесной орех	Food	Allergy to hazelnut (finding)	712840004	0	1
+Летний эндивий	Food	Endive (substance)	726758002	726758002	0
+Лецитин	Food	Lecithin (substance)	26312007	26312007	0
+Лещ	Food	Bream (substance)	227042005	227042005	0
+Лиметт	Food	Lime - fruit (substance)	227430006	227430006	0
+Лимон	Food	Lemon (substance)	735340006	735340006	0
+Лимонная мята	Food	Melissa officinalis leaf (substance)	766800006	766800006	0
+Лисички	Food	Cantharellus cibarius (organism)	91317007	91317007	0
+Листовая свекла	Food	Beetroot (substance)	227220000	227220000	0
+Личи	Food	Lychee (substance)	227433008	227433008	0
+Лобио	Food	Lobio	0	0	3
+Лобстер	Food	Allergy to lobster (finding)	418626004	0	1
+лососевая икра	Food	 Fish roe (substance)	227183005	227183005	0
+Лосось	Food	Salmo salar (organism), Allergy to fish (finding)	39947003,  417532002	39947003,  417532002	0
+Лосось атлантический	Food	Salmo salar (organism), Allergy to fish (finding)	39947003, 417532002	39947003, 417532002	0
+Лук	Food	Onion (substance)	735047000	735047000	0
+Лук – резанец	Food	Allium schoenoprasum (organism)	24833007	24833007	0
+Лук зеленый	Food	Onion (substance)	735047000	735047000	0
+Лук порей	Food	Leek (substance)	726755004	726755004	0
+Лук репчатый	Food	Onion (substance)	735047000	735047000	0
+Льняное семя	Food	Flax dust (substance)	425933003	425933003	0
+Любисток	Food	Lovage (substance)	710176006	710176006	0
+люпиновая мука	Food	Lupin flour (substance)	719108000	719108000	0
+мааздам	Food	Allergy to cheese (finding)	300914000	300914000	0
+Майонез	Food	Mayonnaise (substance)	227549007	227549007	0
+Майоран	Food	Marjoram (substance)	227405008	227405008	0
+Мак	Food	Poppy seed (substance)	227409002	227409002	0
+макадамия	Food	Allergy to macadamia nut (finding)	712844008	0	1
+Макрель	Food	Mackerel (substance)	735043001	735043001	0
+Малина	Food	Raspberries (substance)	227444000	227444000	0
+малютка	Food	Baby food (substance)	227983006	227983006	0
+Манго	Food	Allergy to mango fruit (finding)	2,32E+13	0	1
+Мангольд 	Food	Chard (substance)	227236003	227236003	0
+Мандарин	Food	Tinned mandarin oranges (substance)	227478006	227478006	0
+Манная крупа	Food	Semolina (substance)	226732008	226732008	0
+Маракуйя	Food	Passion fruit (substance)	227438004	227438004	0
+Марципан	Food	Marzipan retail (substance)	227503003	227503003	0
+Марципан домашний	Food	Marzipan home-made (substance)	227502008	227502008	0
+Маслины	Food	Olives (substance)	227436000	227436000	0
+масло	Food	Butter (substance)	226888007	226888007	0
+Масло кукурузное	Food	Corn oil (substance)	735247006	735247006	0
+Масло оливковое	Food	Allergy to olive oil (finding)	294316000	0	1
+Масло подсолнечное	Food	Sunflowerseed oil (substance)	226912000	226912000	0
+Масло сливочное	Food	Butter (substance)	226888007	226888007	0
+Мед	Food	Honey (substance)	227598003	227598003	0
+Медовая дыня	Food	Melon (substance)	260177005	260177005	0
+мелисса	Food	Melissa officinalis leaf (substance)	766800006	766800006	0
+Мелисса лекарственная 	Food	Melissa officinalis leaf (substance)	766800006	766800006	0
+Мелисса лимонная	Food	Melissa officinalis leaf (substance)	766800006	766800006	0
+ментол	Food	Menthol (substance)	387414008	387414008	0
+Мерлуза	Food	Merluccius productus (organism), Allergy to fish (finding)	50566006, 417532002	50566006, 417532002	0
+Мероу	Food	Epinephelus (organism), Allergy to fish (finding)	36546000, 417532002	36546000, 417532002	0
+Мидии	Food	Allergy to mussel (finding)	1,29E+13	0	1
+мидия	Food	Allergy to mussel (finding)	1,29E+13	0	1
+Миндаль	Food	Allergy to almond (finding)	712839001	0	1
+Миндальное масло	Food	Allergy to almond oil (finding)	418606003	0	1
+Минтай	Food	Pollachius virens (organism), Allergy to fish (finding)	33554006, 417532002	33554006, 417532002	0
+Мирабель	Food	Prunus domestica (organism)	1785003	1785003	0
+Мицеллярный казеин	Food	Allergy to casein (finding)	5,61E+12	0	1
+Можжевельник	Food	Juniperus (organism)	90563009	90563009	0
+Мойва	Food	Mallotus villosus (organism), Allergy to fish (finding)	29006009, 417532002	29006009, 417532002	0
+моллюск	Food	Allergy to clam (finding)	703911000	0	1
+молоко	Food	Milk (substance)	70813002	70813002	0
+Молоко кипяченое	Food	Milk (substance)	70813002	70813002	0
+Молоко козье	Food	Goat's milk (substance)	83595008	83595008	0
+Молоко коровье кипяченое	Food	Cow's milk (substance)	3718001	3718001	0
+Молоко коровье цельное	Food	Cow's milk (substance)	3718001	3718001	0
+Молоко сухое	Food	Dried milk (substance)	226771006	226771006	0
+Молоко топленое	Food	Milk (substance)	70813002	70813002	0
+Молочная сыворотка 	Food	Milk (substance)	70813002	70813002	0
+Молочные продукты 	Food	Milk (substance)	70813002	70813002	0
+Молочные сливки сухие	Food	Dried skimmed cow's milk (substance)	226778000	226778000	0
+молочный белок	Food	Milk protein (substance)	10827009	10827009	0
+Молочный порошок	Food	Dried skimmed cow's milk (substance)	226778000	226778000	0
+морепродукты	Food	Allergy to seafood (finding)	91937001	0	1
+Морковь	Food	Allergy to carrot (finding)	420080006	0	1
+Морской волк	Food	Sea bass (substance)	726749009	726749009	0
+Морской гребешок	Food	Scallop (substance)	736027000	736027000	0
+Морской золотистый окунь	Food	Carassius auratus (organism), Allergy to fish (finding)	12978006, 417532002	12978006, 417532002	0
+Морской окунь	Food	Sea bass (substance)	726749009	726749009	0
+Морской петух	Food	Dactylopterus volitans (organism), Allergy to fish (finding)	18581002, 417532002	18581002, 417532002	0
+Морской черт	Food	Allergy to fish (finding)	417532002	417532002	0
+Морской язык	Food	Megrim (substance)	710175005	710175005	0
+моцарелла	Food	Mozzarella cheese (substance)	226837009	226837009	0
+мука	Food	Allergic reaction caused by flour dust (disorder)	419447004	0	1
+Мускатный орех	Food	Nutmeg (substance)	735046009	735046009	0
+мясо	Food	Allergy to meat (finding)	703931001	0	1
+Мясо гуся	Food	Goose - meat (substance)	226965007	226965007	0
+Мясо индейки	Food	Turkey - meat (substance)	226967004	226967004	0
+Мясо камчатского краба	Food	Crab (substance)	736159005	736159005	0
+Мясо кролика	Food	Rabbit - meat (substance)	710183004	710183004	0
+Мясо кряквы	Food	Anas platyrhynchos (organism), Allergy to meat (finding)	125102002, 703931001	125102002, 703931001	0
+Мясо курицы	Food	Allergy to chicken meat (finding)	703932008	0	1
+Мясо нутрии	Food	Myocastor coypus (organism), Allergy to meat (finding)	392580003, 703931001	392580003, 703931001	0
+Мясо утки	Food	Duck - meat (substance)	226963000	226963000	0
+Мясо ягненка	Food	Lamb - meat (substance)	226942002	226942002	0
+мята	Food	Mint - sweet (substance)	226041007	226041007	0
+мяты перечной	Food	Mentha piperita (organism)	103599003	103599003	0
+Навага	Food	Eleginus gracilis (organism),Allergy to fish (finding)	71401006, 417532002	71401006, 417532002	0
+Налим	Food	Lota lota (organism),Allergy to fish (finding)	32869007, 417532002	32869007, 417532002	0
+Напитки	Food	Drinks (substance)	226465004	226465004	0
+настойка	Food	Tincture (basic dose form)	422186009	422186009	0
+нектарин	Food	Nectarine (substance)	227435001	227435001	0
+Нут	Food	Chick peas (substance)	227346004	227346004	0
+нутрилак	Food	Baby food (substance)	227983006	227983006	0
+Нутрилак безлактозный	Food	Baby food (substance)	227983006	227983006	0
+Нутрилак с пребиотиками	Food	Baby food (substance)	227983006	227983006	0
+Нутрилон	Food	Baby food (substance)	227983006	227983006	0
+Нутрилон пепти	Food	Baby food (substance)	227983006	227983006	0
+нутриция	Food	Baby food (substance)	227983006	227983006	0
+Облепиха	Food	Genus Sideroxylon (organism)	422115000	422115000	0
+оболочка	Food	shell	0	0	3
+оболочка лекарственных средств	Food	drug shell	0	0	3
+оболочка таблеток	Food	tablet shell	0	0	3
+Обработанное молоко	Food	Milk (substance)	70813002	70813002	0
+Овальбумин	Food	Ovalbumin (substance)	303301007	303301007	0
+Овес	Food	Allergy to oat (finding)	419342009	0	1
+Овечий сыр	Food	Allergy to cheese (finding)	300914000	300914000	0
+Овечье молоко	Food	Sheep milk (substance)	226791004	226791004	0
+Овомукоид	Food	Ovomucin (substance)	414983003	414983003	0
+овощ	Food	Vegetable (substance)	22836000	22836000	0
+Овсяная крупа	Food	Allergy to oat (finding)	419342009	0	1
+Овсяная мука	Food	Allergy to oat (finding)	419342009	0	1
+Овсянное зерно	Food	Allergy to oat (finding)	419342009	0	1
+Овсяные хлопья	Food	Cereal (substance)	23182003	23182003	0
+Огурец	Food	Cucumber (substance)	735213008	735213008	0
+окунь	Food	Family Percidae - perch (organism),Allergy to fish (finding)	107437001, 417532002	107437001, 417532002	0
+Окунь морской	Food	Family Percidae - perch (organism),Allergy to fish (finding)	107437001, 417532002	107437001, 417532002	0
+Окунь речной	Food	Family Percidae - perch (organism),Allergy to fish (finding)	107437001, 417532002	107437001, 417532002	0
+Оленина	Food	Roast venison (substance)	226979004	226979004	0
+Оливки	Food	Olives (substance)	227436000	227436000	0
+Оливковое масло	Food	Allergy to olive oil (finding)	294316000	0	1
+Омар	Food	Allergy to lobster (finding)	418626004	0	1
+опята	Food	Armillariella mellea (organism)	87575003	87575003	0
+оранжевый	Food	Orange color (qualifier value)	371242008	371242008	0
+Орегано	Food	Oregano (substance)	227407000	227407000	0
+орех	Food	Allergy to nut (finding)	91934008	0	1
+Орех кешью	Food	Allergy to cashew nut (finding)	712838009	0	1
+орех макадамия	Food	Allergy to macadamia nut (finding)	712844008	0	1
+Орех пекан	Food	Pecan nut (substance)	260189007	260189007	0
+Орехи 	Food	Allergy to nut (finding)	91934008	0	1
+орешек	Food	Allergy to nut (finding)	91934008	0	1
+Осетр	Food	Acipenser (organism),Allergy to fish (finding)	20264007, 417532002	20264007, 417532002	0
+осетрина	Food	Acipenser (organism),Allergy to fish (finding)	20264007, 417532002	20264007, 417532002	0
+осетровая икра	Food	 Fish roe (substance)	227183005	227183005	0
+Осьминог	Food	Octopus (substance)	735979007	735979007	0
+Отруби	Food	Bran (substance)	391858005	391858005	0
+Палтус	Food	Halibut (substance)	227067008	227067008	0
+Палтус обыкновенный	Food	Halibut (substance)	227067008	227067008	0
+Пангасиус	Food	Allergy to fish (finding)	417532002	417532002	0
+Папайя	Food	Papaya (substance)	735212003	735212003	0
+Паприка	Food	Paprika (substance)	227408005	227408005	0
+пармезан	Food	Parmesan cheese (substance)	226838004	226838004	0
+пекан	Food	Pecan nut (substance)	260189007	260189007	0
+Перепелиное мясо	Food	Lark quail (organism), Allergy to meat (finding)	52807003, 703931001	52807003, 703931001	0
+перец	Food	Pepper (substance)	412066006	412066006	0
+Перец болгарский 	Food	Capsicum annuum diagnostic allergen extract (product)	411648003	411648003	0
+Перец болгарский зеленый	Food	Capsicum annuum diagnostic allergen extract (product)	411648003	411648003	0
+Перец зеленый	Food	Piper nigrum (unripe seed) diagnostic allergen extract (product)	411760008	411760008	0
+Перец сладкий	Food	Capsicum annuum diagnostic allergen extract (product)	411648003	411648003	0
+Перец чили	Food	Chili pepper (substance)	710040007	710040007	0
+Перловая крупа	Food	Pearl barley (substance)	226721008	226721008	0
+Персик	Food	Peach (substance)	735049002	735049002	0
+Петрушка	Food	Parsley (substance)	735048005	735048005	0
+печень	Food	Liver - meat (substance)	226991008	226991008	0
+Печень говяжья	Food	Liver - meat (substance), Allergy to beef (finding)	226991008, 703930000	226991008, 703930000	0
+печенье	Food	Cookie and/or cracker (substance)	226539001	226539001	0
+пиво	Food	Beer (substance)	53410008	53410008	0
+Пикша	Food	Haddock (substance)	735033004	735033004	0
+Пименто	Food	 Cheese (substance)	102264005	102264005	0
+пища	Food	Allergy to food (finding)	414285001	0	1
+пищевая	Food	Allergy to food (finding)	414285001	0	1
+пищевая аллергия	Food	Allergy to food (finding)	414285001	0	1
+пищевой	Food	Allergy to food (finding)	414285001	0	1
+пищевой краситель	Food	Food coloring (substance)	50825000	50825000	0
+пищевой продукт	Food	Allergy to food (finding)	414285001	0	1
+пищевой аллерген	Food	Allergy to food (finding)	414285001	0	1
+пищевые добавки	Food	Nutritional supplement (substance)	373453009	373453009	0
+Плоды рожкового дерева	Food	Carob (substance)	412601002	412601002	0
+Плоды черемухи	Food	Berry (substance)	63045006	63045006	0
+полба	Food	Allergy to wheat (finding)	420174000	0	1
+Полевой салат	Food	Green salad (substance)	227938005	227938005	0
+Помело	Food	Pomelo (substance)	227442001	227442001	0
+Помидор	Food	Allergy to tomato (finding)	418779002	0	1
+прикорм	Food	Baby food (substance)	227983006	227983006	0
+приправа	Food	Seasoning (substance)	227553009	227553009	0
+продукт	Food	Allergy to food (finding)	414285001	0	1
+просо	Food	Common millet (substance)	710220009	710220009	0
+Пшеница	Food	Allergy to wheat (finding)	420174000	0	1
+Пшеница зерно	Food	Allergy to wheat (finding)	420174000	0	1
+Пшеница спельта	Food	Allergy to wheat (finding)	420174000	0	1
+Пшеница спельта полба	Food	Allergy to wheat (finding)	420174000	0	1
+Пшеничная крупа	Food	Allergy to wheat (finding)	420174000	0	1
+Пшеничная мука	Food	Wheat flour (substance)	229944000	229944000	0
+Пшеничные отруби	Food	Wheat bran (substance)	412533000	412533000	0
+Пшенная крупа	Food	Common millet (substance)	710220009	710220009	0
+Пшено просо	Food	Common millet (substance)	710220009	710220009	0
+пюре	Food	Mashed food (substance)	4,42E+14	4,42E+14	0
+Радиккио	Food	Green salad (substance)	227938005	227938005	0
+радужная форель	Food	Salmo gairdneri (organism), Allergy to fish (finding)	54955003, 417532002	54955003, 417532002	0
+Раки	Food	Crayfish (substance)	735972003	735972003	0
+ракообразные	Food	Crayfish (substance)	735972003	735972003	0
+Ревень	Food	Rhubarb (substance)	726750009	726750009	0
+Редис	Food	Radish (substance)	256325000	256325000	0
+Редька	Food	Radish (substance)	256325000	256325000	0
+Редька зеленая	Food	Radish (substance)	256325000	256325000	0
+резанец	Food	Allium schoenoprasum (organism)	24833007	24833007	0
+ренклод	Food	Greengage (substance)	227428009	227428009	0
+Репа	Food	Turnip (substance)	227275007	227275007	0
+Ржаная мука	Food	Rye flour (substance)	229940009	229940009	0
+Рис	Food	Rice (substance)	67324005	67324005	0
+Рисовая крупа	Food	Rice (substance)	67324005	67324005	0
+Рожь	Food	Allergy to rye (finding)	418184004	0	1
+Рожь зерно	Food	Allergy to rye (finding)	418184004	0	1
+Розмарин	Food	 Rosemary (substance)	227410007	227410007	0
+ройбос	Food	Tea (substance)	16313001	16313001	0
+Ройбос чай	Food	Tea (substance)	16313001	16313001	0
+рокет	Food	Green salad (substance)	227938005	227938005	0
+Рокет-салат	Food	Green salad (substance)	227938005	227938005	0
+рокфор	Food	Roquefort cheese (substance)	226840009	226840009	0
+ром	Food	Rum (substance)	226054000	226054000	0
+ромашка	Food	Product containing only chamomile extract (medicinal product)	775155001	775155001	0
+Ромашковый чай	Food	Chamomile extract (substance)	256214007	256214007	0
+Ромбовидная камбала	Food	Turbot (substance)	227105000	227105000	0
+Ростки бамбука	Food	Bamboo shoot (substance)	710224000	710224000	0
+рыба	Food	Allergy to fish (finding)	417532002	0	1
+Рыба-меч	Food	Swordfish (substance)	726731009	726731009	0
+Рябина	Food	Rowan berries (substance)	264335006	264335006	0
+Рябина черноплодная	Food	Rowan berries (substance)	264335006	264335006	0
+Ряженка	Food	fermented baked milk	0	0	3
+Сазан	Food	Carp (substance)	726763003	726763003	0
+Сазан речной	Food	Carpiodes carpio (organism), Allergy to fish (finding)	7978004, 417532002	7978004, 417532002	0
+Сайда	Food	Boreogadus saida (organism), Allergy to fish (finding)	51135004, 417532002	51135004, 417532002	0
+Сайра	Food	Cololabis saira (organism), Allergy to fish (finding)	112565000, 417532002	112565000, 417532002	0
+Салат	Food	Lettuce (substance)	735042006	735042006	0
+Салат айсберг	Food	Lettuce (substance)	735042006	735042006	0
+Салат ромэн	Food	Lettuce (substance)	735042006	735042006	0
+Салат рукола	Food	Lettuce (substance)	735042006	735042006	0
+Салат-латук	Food	Lettuce (substance)	735042006	735042006	0
+Сардина 	Food	Sardine (substance)	227136008	227136008	0
+Сардина (Иваси)	Food	Sardine (substance)	227136008	227136008	0
+Сардина европейская	Food	Sardine (substance)	227136008	227136008	0
+Сахар	Food	Simple carbohydrate (substance)	74801000	74801000	0
+Сахар тростниковый	Food	Brown sugar (substance)	230055000	230055000	0
+Сахар тростниковый темный	Food	Brown sugar (substance)	230055000	230055000	0
+Свежий кокос	Food	Fresh coconut (substance)	227496002	227496002	0
+Свекла	Food	Beetroot (substance)	227220000	227220000	0
+Свекла обыкновенная	Food	Beetroot (substance)	227220000	227220000	0
+Свекла столовая корнеплод	Food	Beetroot (substance)	227220000	227220000	0
+Свинина	Food	Allergy to pork insulin (finding)	788164004	0	1
+Свинина	Food	Allergy to pork (finding)	417918006	0	1
+Северная креветка	Food	Allergy to shrimp (finding)	419972009	0	1
+Селедка	Food	Herring (substance)	735035006	735035006	0
+Сельдерей	Food	Allergy to celery (finding)	712843002	0	1
+Сельдь	Food	Herring (substance)	735035006	735035006	0
+Сельдь 	Food	Fish (organism)	 90580008	 90580008	0
+Сельдь иваси	Food	Herring (substance)	735035006	735035006	0
+Семга	Food	Allergy to salmon calcitonin (finding)	294840004	0	1
+Семена 	Food	Allergy to seed (finding)	419101002	0	1
+Семена подсолнечника	Food	Sunflower seed (substance)	260205009	260205009	0
+Семена фенхеля	Food	Fennel seed (substance)	227397007	227397007	0
+семечки	Food	Sunflower seed (substance)	260205009	260205009	0
+семечки тыквенные	Food	Pumpkin seed (substance)	227514000	227514000	0
+семя	Food	Allergy to seed (finding)	419101002	0	1
+семя люпина	Food	Allergy to lupine seed (finding)	782575000	0	1
+сидр	Food	Cider (substance)	226025006	226025006	0
+сироп	Food	Syrup (substance)	229862008	229862008	0
+Скорода	Food	Allium schoenoprasum (organism)	24833007	24833007	0
+Скорцонера испанская	Food	Scorzonera Spanish	0	0	3
+Скумбрия	Food	Mackerel (substance)	735043001	735043001	0
+Скумбрия атлантическая	Food	Scomber scombrus (organism), Allergy to fish (finding)	86980008, 417532002	86980008, 417532002	0
+Сладкая люпиновая мука	Food	Lupin flour (substance)	719108000	719108000	0
+Сладкий каштан	Food	Chestnut (substance)	260188004	260188004	0
+сладкий перец	Food	Capsicum (substance)	421556008	421556008	0
+сладкое	Food	Sugar candy (substance)	227620005	227620005	0
+сладости	Food	Sugar candy (substance)	227620005	227620005	0
+слива	Food	Plum (substance)	735051003	735051003	0
+сливки	Food	Cream (substance)	255621006	255621006	0
+смесь НАН	Food	Baby food (substance)	227983006	227983006	0
+Сметана	Food	Soured cream (substance)	226801004	226801004	0
+смородина	Food	Currants (substance)	227453007	227453007	0
+Соевая крупа	Food	Soya bean (substance)	256355007	256355007	0
+Соевая мука	Food	Soya flour (substance)	229941008	229941008	0
+Соевое молоко	Food	Soya milk (substance)	226793001	226793001	0
+Соевые бобы	Food	Soya bean (substance)	256355007	256355007	0
+соевый белок	Food	Allergy to soy protein (finding)	782594005	0	1
+Соевый лецитин	Food	Soy lecithin (substance)	710206002	710206002	0
+Соевый протеин	Food	Allergy to soy protein (finding)	782594005	0	1
+Соевый творог тофу	Food	Tofu (substance)	227365007	227365007	0
+солея	Food	Family Soleidae - sole (organism), Allergy to fish (finding)	107509006, 417532002	107509006, 417532002	0
+Солод	Food	Malt (substance)	710180001	710180001	0
+солодка	Food	Allergy to licorice (finding)	293647009	0	1
+Сом	Food	Catfish (substance)	726762008	726762008	0
+Сом обыкновенный	Food	Catfish (substance)	726762008	726762008	0
+Сорбит	Food	Sorbitol (substance)	19839007	19839007	0
+Соя	Food	Allergy to soy protein (finding)	782594005	0	1
+Спаржа	Food	Asparagus (substance)	227218003	227218003	0
+спельта	Food	Triticum spelta (organism)	 83166007	 83166007	0
+спиртной напиток	Food	Alcoholic beverage (substance)	53527002	53527002	0
+Спортивное питание 	Food	Sports nutrition	0	0	3
+Ставрида	Food	Trachurus lathami (organism), Allergy to fish (finding)	23356003, 417532002	23356003, 417532002	0
+Стевия 	Food	Stevia (organism)	419710000	419710000	0
+Стручковая фасоль	Food	Green bean (substance)	256318007	256318007	0
+стручковый перец	Food	Capsicum (substance)	421556008	421556008	0
+Судак	Food	Family Percidae - perch (organism), Allergy to fish (finding)	107437001, 417532002	107437001, 417532002	0
+суп	Food	Soup (substance)	227566009	227566009	0
+сухари	Food	Cracker (substance)	226543002	226543002	0
+сухарики	Food	Cracker (substance)	226543002	226543002	0
+сухое молоко	Food	Dried skimmed cow's milk (substance)	226778000	226778000	0
+сухие сливки	Food	Dried skimmed cow's milk (substance)	226778000	226778000	0
+Сухой яичный белок	Food	Dried egg (substance)	226881001	226881001	0
+Сушеный кокос	Food	Desiccated coconut (substance)	227498001	227498001	0
+Сушеный отварной горох	Food	Dried boiled peas (substance)	227372008	227372008	0
+сывороточны белок	Food	Protein (substance)	88878007	88878007	0
+Сывороточный протеин	Food	Protein (substance)	88878007	88878007	0
+сыр	Food	Allergy to cheese (finding)	300914000	0	1
+Сыр аппенцеллер	Food	Allergy to cheese (finding)	300914000	300914000	0
+Сыр гауда	Food	Gouda cheese (substance)	226832003	226832003	0
+Сыр голландский	Food	Allergy to cheese (finding)	300914000	300914000	0
+Сыр камамбер	Food	Camembert cheese (substance)	226856004	226856004	0
+Сыр леердам	Food	Allergy to cheese (finding)	300914000	300914000	0
+Сыр мааздам	Food	Allergy to cheese (finding)	300914000	300914000	0
+Сыр моцарелла	Food	Mozzarella cheese (substance)	226837009	226837009	0
+Сыр овечий	Food	Allergy to cheese (finding)	300914000	300914000	0
+Сыр пармезан	Food	Parmesan cheese (substance)	226838004	226838004	0
+Сыр рокфор	Food	Roquefort cheese (substance)	226840009	226840009	0
+Сыр тильзит	Food	Allergy to cheese (finding)	300914000	300914000	0
+Сыр чеддер	Food	Cheddar cheese (substance)	226820002	226820002	0
+Сыр честер	Food	Allergy to cheese (finding)	300914000	300914000	0
+Сыр швейцарский	Food	Allergy to cheese (finding)	300914000	300914000	0
+Сыр эдам	Food	Edam cheese (substance)	226828009	226828009	0
+Сыр эмменталер	Food	Emmental cheese (substance)	226830006	226830006	0
+сырок	Food	Curds (substance)	225774006	225774006	0
+Тархун	Food	Artemisia dracunculus diagnostic allergen extract (product)	411627000	411627000	0
+таурин	Food	Taurine (substance), Allergy to substance (finding)	10944007, 419199007	10944007, 419199007	0
+Творог	Food	Cottage cheese	226814003	226814003	0
+текила	Food	Vodka (substance)	226064009	226064009	0
+Телятина	Food	Veal (substance)	226952003	226952003	0
+терн	Food	Sloe (substance)	771582007	771582007	0
+Тигровая креветка	Food	Allergy to shrimp (finding)	4199720090	0	1
+Тилапия	Food	Tilapia aurea (organism), Allergy to fish (finding)	17878000, 417532002	17878000, 417532002	0
+тильзит	Food	Allergy to cheese (finding)	300914000	300914000	0
+Тимьян	Food	Thyme (substance)	227413009	227413009	0
+томат	Food	Allergy to tomato (finding)	418779002	0	1
+Тофу	Food	Tofu (substance)	227365007	227365007	0
+Трава мяты перечной	Food	Mentha piperita (organism)	103599003	103599003	0
+Треска	Food	Cod (substance)	735245003	735245003	0
+Треска атлантическая	Food	Gadus morhua (organism), Allergy to fish (finding)	55264007, 417532002	55264007, 417532002	0
+Тригла	Food	Family Triglidae - searobin (organism), Allergy to fish (finding)	107499001, 417532002	107499001, 417532002	0
+Тунец	Food	Tuna fish (substance)	227144008	227144008	0
+Турецкий горох	Food	Chick peas (substance)	227346004	227346004	0
+Тутовник	Food	Mulberries (substance)	227434002	227434002	0
+Тыква	Food	Pumpkin (substance)	227260004	227260004	0
+Тыква обыкновенная	Food	Pumpkin (substance)	227260004	227260004	0
+Тыквенные семечки	Food	Pumpkin seed (substance)	227514000	227514000	0
+Тюрбо	Food	Turbot (substance)	227105000	227105000	0
+Угорь	Food	Anguilla (organism), Allergy to fish (finding)	74741004, 417532002	74741004, 417532002	0
+Удильщик	Food	Allergy to fish (finding)	417532002	417532002	0
+Укроп	Food	Dill (substance)	256331002	256331002	0
+Улитка	Food	Snail (organism)	15838006	15838006	0
+устрица	Food	Allergy to oyster (finding)	419967000	0	1
+Устрицы	Food	Allergy to oyster (finding)	419967000	0	1
+утка	Food	Duck - meat (substance)	226963000	226963000	0
+Фазан	Food	Pheasant - meat (substance)	226976006	226976006	0
+Фанта	Food	Sugar sweetened beverage (substance)	818989004	818989004	0
+Фасоль 	Food	Allergy to bean (finding)	703925004	0	1
+Фасоль белая	Food	White bean (substance)	260168003	260168003	0
+Фасоль вьющаяся	Food	Allergy to bean (finding)	703925004	0	1
+Фасоль обыкновенная	Food	Allergy to bean (finding)	703925004	0	1
+Фасоль спаржевая	Food	Asparagus (substance)	227218003	227218003	0
+Фасоль стручковая	Food	Green bean (substance)	256318007	256318007	0
+Фейхоа	Food	Berry (substance)	63045006	63045006	0
+Фенхель	Food	Fennel (substance)	227396003	227396003	0
+Физалис	Food	Physalis (organism)	10554001	10554001	0
+Физалис перуанский	Food	Physalis peruviana (organism)	49154006	49154006	0
+Финики	Food	Dates - food (substance)	227423000	227423000	0
+Фисташки	Food	Pistachio nut (substance)	227512001	227512001	0
+Форель	Food	Salmo trutta (organism), Allergy to fish (finding)	78884003, 417532002	78884003, 417532002	0
+Форель радужная	Food	Salmo gairdneri (organism), Allergy to fish (finding)	54955003, 417532002	54955003, 417532002	0
+фрукт	Food	Allergy to fruit (finding)	91932007	0	1
+Фруктоза	Food	Fructose (substance)	58202007	58202007	0
+Фундук	Food	Allergy to hazelnut (finding)	712840004	0	1
+халва	Food	Halva (substance)	229893009	229893009	0
+Хамса	Food	Anchovy (substance)	735337006	735337006	0
+Хек	Food	Hake (substance)	227066004	227066004	0
+хлеб	Food	Bread (substance)	226559002	226559002	0
+Хмель	Food	Humulus lupulus (organism)	70891004	70891004	0
+Хмель обыкновенный	Food	Humulus lupulus (organism)	70891004	70891004	0
+Хурма	Food	Diospyros virginiana (organism)	7701004	7701004	0
+Цветная капуста	Food	Cauliflower (substance)	735336002	735336002	0
+Цветная капуста отварная	Food	Cauliflower (substance)	735336002	735336002	0
+Цветок мускатного ореха	Food	Nutmeg (substance)	735046009	735046009	0
+Цикорий	Food	Chicory (substance)	726761001	726761001	0
+Цитронелла	Food	Citronella oil (substance)	12358005	12358005	0
+цитрус	Food	Allergy to citrus fruit (finding)	418085001	0	1
+цитрусовые	Food	Allergy to citrus fruit (finding)	418085001	0	1
+Цукини	Food	Zucchini (substance)	227239005	227239005	0
+цуккини	Food	Zucchini (substance)	227239005	227239005	0
+Чабер	Food	Savory food (substance)	230052002	230052002	0
+Чай	Food	Tea (substance)	16313001	16313001	0
+Чай зеленый листовой	Food	Green tea (substance)	412194001	412194001	0
+Чай из гибискуса	Food	Tea (substance)	16313001	16313001	0
+Чай из фенхеля	Food	Fennel (substance), Tea (substance)	227396003, 16313001	227396003, 16313001	0
+Чай из шалфея	Food	Sage (substance), Tea (substance)	227411006, 16313001	227411006, 16313001	0
+Чай черный байховый	Food	Black tea (substance)	226476000	226476000	0
+чеддер	Food	Cheddar cheese (substance)	226820002	226820002	0
+черемуха	Food	Chokecherry (substance)	771581000	771581000	0
+Черёмуха	Food	Chokecherry (substance)	771581000	771581000	0
+Черемша	Food	Allium (organism)	39293009	39293009	0
+Черешня 	Food	Allergy to cherry (finding)	418051002	0	1
+Черешня жёлтая	Food	Allergy to cherry (finding)	418051002	0	1
+Черная смородина	Food	Currants (substance)	227453007	227453007	0
+Черника	Food	Blueberries (substance)	412061001	412061001	0
+чернослив	Food	Damson (substance)	227422005	227422005	0
+Черный перец	Food	Black pepper (substance)	412060000	412060000	0
+Черный чай	Food	Black tea (substance)	226476000	226476000	0
+Чеснок	Food	Garlic (substance)	735030001	735030001	0
+честер	Food	Allergy to cheese (finding)	300914000	300914000	0
+Чечевица	Food	Lentils (substance)	227350006	227350006	0
+Чили	Food	Chili pepper (substance)	710040007	710040007	0
+чипсы	Food	French fries (substance)	227282006	227282006	0
+Шалфей	Food	Sage (substance)	227411006	227411006	0
+шампанское	Food	 Sparkling white wine (substance)	6519000	6519000	0
+Шампиньон	Food	Agaricus hortensis diagnostic allergen extract (product)	411616002	411616002	0
+Шафран	Food	Saffron (substance)	735010000	735010000	0
+швейцарский	Food	Allergy to cheese (finding)	300914000	300914000	0
+Шиповник	Food	Rose hip (substance)	710226003	710226003	0
+Шнитт – лук	Food	Allium schoenoprasum (organism)	24833007	24833007	0
+Шоколад	Food	Allergy to chocolate (finding)	300912001	0	1
+Шпинат	Food	Spinach (substance)	256329006	256329006	0
+Щавель	Food	Rumex (organism)	17272006	17272006	0
+Щука	Food	Belonesox belizanus (organism), Allergy to fish (finding)	43616001, 417532002	43616001, 417532002	0
+эдам	Food	Edam cheese (substance)	226828009	226828009	0
+экзотический фрукт	Food	Allergy to fruit (finding)	91932007	0	1
+эмменталер	Food	Emmental cheese (substance)	226830006	226830006	0
+эндивий	Food	Endive (substance)	726758002	726758002	0
+Эстрагон	Food	Tarragon (substance)	227412004	227412004	0
+Яблоко	Food	Allergy to apple (finding)	860604008	0	1
+ягода	Food	Berry (substance)	63045006	63045006	0
+язык	Food	Tongue structure (body structure)	21974007	21974007	0
+Яичный белок	Food	Egg white (substance)	256443002	256443002	0
+Яичный желток	Food	Egg yolk (substance)	256442007	256442007	0
+Яичный порошок	Food	Dried egg (substance)	226881001	226881001	0
+Яичный протеин	Food	Allergy to egg protein (finding)	213020009	0	1
+яйцо	Food	Eggs (edible) (substance)	102263004	102263004	0
+Яйцо перепелиное	Food	Lark quail (organism), Allergy to egg protein (finding)	52807003, 213020009	52807003, 213020009	0
+Яйцо цельное	Food	Eggs (edible) (substance)	102263004	102263004	0
+Ячменная крупа	Food	Allergy to barley (finding)	712841000	0	1
+Ячменная мука	Food	Flour (substance), Allergy to barley (finding)	63766005, 712841000	63766005, 712841000	0
+Ячмень	Food	Allergy to barley (finding)	712841000	0	1
+Ячмень зерно	Food	Allergy to barley (finding)	712841000	0	1
+Ячмень обыкновенный	Food	Allergy to barley (finding)	712841000	0	1
+Aртишок	Food	Artichoke (substance)	227215000	227215000	0
+чабрец	Food				
+травы	Food				
+абкм	Food				
