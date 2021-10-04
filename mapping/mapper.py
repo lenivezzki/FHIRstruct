@@ -3,7 +3,7 @@ from fhir.resources.patient import Patient
 from fhir.resources.identifier import Identifier
 from fhir.resources.coding import Coding
 from fhir.resources.codeableconcept import CodeableConcept
-from fhir.resources.reference import FHIRReference
+from fhir.resources.fhirreference import FHIRReference
 from fhir.resources.fhirdate import FHIRDate
 from fhir.resources.quantity import Quantity
 from fhir.resources.humanname import HumanName
