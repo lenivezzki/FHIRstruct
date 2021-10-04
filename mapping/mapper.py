@@ -31,7 +31,7 @@ class FHIR_Mapper(object):
         df = df.reset_index(drop=True)
         df['Вес'] = df['Вес'].astype(float)
         self.weights_db = df.reset_index(drop=True)
-        self.cardio_db = pd.read_csv(cardio, encoding='utf-8', sep='\t', engine='python', header=0, error_bad_lines=False)
+        self.cardio_db = pd.read_csv(cardio, encoding='cp1251', sep='\t', engine='python', header=0, error_bad_lines=False)
         cache_db = pd.read_csv(cache, encoding='cp1251', sep='\t', engine='python', header=0, error_bad_lines=False)
         cache_db.drop(['Name_x', 'EpizodesForMerge', 'epizod_y', 'Name_y', 'Unnamed: 0'], axis='columns', inplace=True)
         self.cache_db = cache_db.reset_index(drop=True)
