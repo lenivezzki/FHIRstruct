@@ -23,6 +23,7 @@ UML-диаграмма модулей
 Класс **FHIRMapper** соответствует модулю стандартизации медицинских данных, использует структуру ресурса AllergyIntolerance FHIR.
 
 Класс **Ontology** соответствует модулю формирования предметной терминологической онтологии, как средства хранения полученных знаний. 
+![image](https://user-images.githubusercontent.com/47714995/136582735-8ca4e4ce-f61b-47fb-b2e4-801644f0b406.png)
 
 ### Для ссылок:
 1. ID Lenivtceva., G Kopanitsa. The Pipeline for Standardizing Russian Unstructured Allergy Anamnesis Using FHIR AllergyIntolerance Resource // Methods Inf. Med. Methods Inf Med, 2021. doi: 10.1055/s-0041-1733945
